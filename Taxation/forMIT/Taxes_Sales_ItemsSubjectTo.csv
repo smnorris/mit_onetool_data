@@ -1,0 +1,19 @@
+ITEM_DESCRIPTION,SALES_TAX_DESCRIPTION,SALES_TAX_RATE
+Electric Power,GST,0.05
+Natural gas (residential use),"GST, carbon tax , ICE fund",5.4% + 5.7c/L 
+Fuel Oil (residential use),"GST, carbon tax , ICE fund",5.4% + 7.67c/L
+Water,no sales tax applicable,0
+Sewer,no sales tax applicable,0
+Hazardous Waste Disposal,,
+Machinery and Equipment - Production,PST,0.07
+Machinery and Equipment - Non-production,PST,0.07
+Machinery and Equipment - Pollution Control,,
+Machinery and Equipment - Office Furniture/Fixtures/Equipment,PST,0.07
+Machinery and Equipment - Office Building Construction Materials,PST,0.07
+Machinery and Equipment - Industrial Building Construction Materials,PST,0.07
+Machinery and Equipment - Manufacturers' Raw Materials,PST,0.07
+Machinery and Equipment - Standard Software,PST,0.07
+Machinery and Equipment - Custom Software,,
+,
+,
+,

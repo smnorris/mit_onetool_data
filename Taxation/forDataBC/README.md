@@ -18,7 +18,9 @@ The information in this file has not been audited or otherwise reviewed.  We can
 - add CENSUS_DIVISION_ID field from 2011 Census data, link via CD Name
 - remove source 'Name' field 
 - rename source fields, standardizing and prefixing with 'DCC'
-- remove regional districts
+- remove non-regional districts
+- where a range of values were provided, calculated the average
+- split categories into RATE vs COST columns as data are provided as both % rates and as dollar amounts
 
 
 ## Taxes_DevelopmentCostCharges_CSD.csv
@@ -39,7 +41,7 @@ The information in this file has not been audited or otherwise reviewed.  We can
 - add CENSUS_SUBDIVISION_ID field from 2011 Census data, link via CSD Name
 - remove source 'Name' field 
 - rename source fields, standardizing and prefixing with 'DCC'
-- remove non-regional district areas
+- remove regional districts
 
 
 ## Taxes_Property_Municipal.csv

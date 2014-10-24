@@ -1,49 +1,5 @@
 # Local Government Taxes
 
-## Taxes_DevelopmentCostCharges_CD.csv
-
-### Description
-Representative and sample Development Cost Charges for BC Municipalities.
-
-### Source
-Ministry of Community, Sport and Cultural Development
-http://www.cscd.gov.bc.ca/lgd/finance/development_cost_charges.htm
-http://www.cscd.gov.bc.ca/lgd/library/2012_Local_Government_DCC_Rates.xls
-
-### Caveats etc
-The information in this file has not been audited or otherwise reviewed.  We cannot guarantee the accuracy or completeness of the information.  For more detailed information, or to confirm information, please contact the specific local government. 
-
-### Preparation notes
-- download spreadsheet from source
-- add CENSUS_DIVISION_ID field from 2011 Census data, link via CD Name
-- remove source 'Name' field 
-- rename source fields, standardizing and prefixing with 'DCC'
-- remove non-regional districts
-- where a range of values were provided, calculated the average
-- split categories into RATE vs COST columns as data are provided as both % rates and as dollar amounts
-
-
-## Taxes_DevelopmentCostCharges_CSD.csv
-
-### Description
-Representative Development Cost Charges for BC Municipalities.
-
-### Source
-Ministry of Community, Sport and Cultural Development
-http://www.cscd.gov.bc.ca/lgd/finance/development_cost_charges.htm
-http://www.cscd.gov.bc.ca/lgd/library/2012_Local_Government_DCC_Rates.xls
-
-### Caveats etc
-The information in this file has not been audited or otherwise reviewed.  We cannot guarantee the accuracy or completeness of the information.  For more detailed information, or to confirm information, please contact the specific local government. 
-
-### Preparation notes
-- download spreadsheet from source
-- add CENSUS_SUBDIVISION_ID field from 2011 Census data, link via CSD Name
-- remove source 'Name' field 
-- rename source fields, standardizing and prefixing with 'DCC'
-- remove regional districts
-
-
 ## Taxes_Property_Municipal.csv
 
 ### Description

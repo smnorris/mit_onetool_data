@@ -1,4 +1,3 @@
-OneToolData
-===========
+# OneToolData
 
-Track data collection/aggregation for MIT's OneTool app
+Data collection for MIT's OneTool app

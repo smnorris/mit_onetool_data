@@ -1,14 +1,16 @@
 # Local Government Taxes
 
-## Taxes_Property_Municipal.csv
+## MunicipalPropertyTaxRates.csv
 
 ### Description
 Property tax rates for BC Municipalities, 2014.
 
+Municipal tax rate bylaws are required to be adopted before May 15th of each year. Tax rate files and tax burden files are available in July of that same year.
+
 ### Source
 Ministry of Community, Sport and Cultural Development
-http://www.cscd.gov.bc.ca/lgd/infra/statistics_index.htm
-http://www.cscd.gov.bc.ca/lgd/infra/library/Schedule702_2014.xls
+http://www.cscd.gov.bc.ca/lgd/infra/statistics_index.htm  
+http://www.cscd.gov.bc.ca/lgd/infra/library/Schedule702_2014.xls  
 
 ### Caveats etc
 The quality of information contained in the schedules depends on the inputs of local governments.  

@@ -28,6 +28,7 @@ Interpreting the snowfall numbers as cm is an approximation - the unit provided 
 
 ### Description
 Elevation statistics (in meters) for BC Census Subdivisions. Values are derived from the Provincial Digital Elevation Model (DEM).
+Negative elevation values indicate an area below sea level. 
 
 ### Source
 BC TRIM 1:20,000 DEM, 25m resolution  

@@ -1,27 +1,13 @@
 # Taxation, for MIT/Admin
 
-## Taxes_PSTRates.xlsx
-
-### Description 
-A summary of PST / ICE tax rates on various items.
-
-### Source
-BC Ministry of Finance, based on an enquiry to here: CTBTaxQuestions@gov.bc.ca
-
-### Caveats etc
-NA, see included notes
-
-### Preparation notes
-NA, this is the file provided directly by CTBTaxQuestions@gov.bc.ca
-
-
 ## Taxes_Sales_ItemsSubjectTo.csv
 
 ### Description
-A list of IEDC noted items and the tax rates they are subject to.
+A list of IEDC noted items and the tax rates they are subject to. These are the same throughout BC.
 
 ### Source
-Data were entered manually and taken from BC Ministry of Finance and Revenue Canada web sites.
+Data were entered manually and taken from Canada Revenue Agency, BC Ministry of Finance web sites.   
+Additional PST and ICE tax info based on an enquiry to CTBTaxQuestions@gov.bc.ca
 
 ### Caveats etc
 For detailed tax information contact 

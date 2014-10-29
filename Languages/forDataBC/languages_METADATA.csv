@@ -1,0 +1,1 @@
+FIELD,TYPE,DESCRIPTIONCENSUS_SUBDIVISION_ID,Text,"CENSUS_SUBDIVISION_ID: Foreign Key, linking to CENSUS_SUBDIVISION_ID in CEN_CENSUS_SUBDIVISIONS, e.g., 5901022"LANGUAGE,Text,Name of Statistics Canada specified languageCOUNT_SPOKEN_AT_HOME,Number,Count of total population (excluding institutional residents) speaking specified language most often at home

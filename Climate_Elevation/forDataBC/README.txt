@@ -2,6 +2,9 @@
 
 ## Climate.csv
 
+### Title
+Climate statistics for BC Census Subdivisions
+
 ### Description
 IEDC Climate indicators for BC Census Subdivisions - temperature and precipitation. Values are for the reference points associated with each Census Subdivision.  Data are taken from ClimateBC for the reference normal period 1981-2010.
 
@@ -26,8 +29,11 @@ Interpreting the snowfall numbers as cm is an approximation - the unit provided 
 
 ## Elevation.csv
 
+### Title
+Elevation statistics for BC Census Subdivisions
+
 ### Description
-Elevation statistics (in meters) for BC Census Subdivisions. Values are derived from the Provincial Digital Elevation Model (DEM).
+Elevation statistics (in meters) for BC Census Subdivisions derived from the BC Digital Elevation Model (DEM).  For each Census Subdivision, point, mean, max, and min elevations are included.  Mean, max, min are calculated for the entire terrestrial portion of each Census Subdivision. Point elevations are for the reference point associated with the Census Subdivision.
 Negative elevation values indicate an area below sea level. 
 
 ### Source

@@ -3,7 +3,7 @@
 ## Climate.csv
 
 ### Description
-IEDC Climate indicators for BC Census Subdivisions - temperature and precipitation. Values are derived from the 'reference normal period' 1981-2010
+IEDC Climate indicators for BC Census Subdivisions - temperature and precipitation. Values are for the reference points associated with each Census Subdivision.  Data are taken from ClimateBC for the reference normal period 1981-2010.
 
 ### Source
 ClimateBC v5.03 - http://cfcg.forestry.ubc.ca/projects/climate-data/climatebcwna/

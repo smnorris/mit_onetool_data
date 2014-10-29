@@ -27,21 +27,21 @@ $ tail 98*.CSV -n +2 > t.csv
 $ csvgrep -e iso-8859-1 -c 2 -m "British Columbia" t.csv > census.csv
 $ csvsql --db postgresql://postgres:postgres@localhost:5432/postgis --table census_src --insert census.csv --db-schema mitdataprep
 ```
-- determine languages to be retained by 
+- determine languages to be retained by: 
     - create list of languages reported on for BC in existing Community Profiles application (download list from https://tools.britishcolumbia.ca/Invest/Pages/Profile.aspx?page=5&pCommunityID=562&type=1)
     - save list as `languages_cp.csv`, stripping out population values
-- extract complete list of languages available form Census, dump to `languages_src.csv`
-```
-SELECT DISTINCT
- src."Characteristics" AS language
-FROM mitdataprep.census_src src
-WHERE "Topic" = 'Detailed language spoken most often at home'
-```
-- compare the two lists of languages
-```
-$ csvjoin -c "language,LANGUAGE" --outer languages_src.csv languages_cp.csv > languages_join.csv
-```
-- the match is good, use the list of languages from community profiles in a query that pulls all data from source, saving output as languages.csv
+    - extract complete list of languages available form Census, dump to `languages_src.csv`
+    ```
+    SELECT DISTINCT
+     src."Characteristics" AS language
+    FROM mitdataprep.census_src src
+    WHERE "Topic" = 'Detailed language spoken most often at home'
+    ```
+    - compare the two lists of languages
+    ```
+    $ csvjoin -c "language,LANGUAGE" --outer languages_src.csv languages_cp.csv > languages_join.csv
+    ```
+    - the match is good, use the list of languages from community profiles in a query that pulls all data from source, saving output as languages.csv
 
 ```
 -- build the final totals

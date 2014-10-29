@@ -6,7 +6,7 @@
 Census Subdivisions - language spoken most often at home
 
 ### Description
-For Statistics Canada 2011 Census Subdivisions, total count of language spoken most often at home, taken from the universe of total population (see Caveats) excluding institutional residents.
+For Statistics Canada 2011 Census Subdivisions, total count of selected languages spoken most often at home, taken from the universe of total population (see Caveats) excluding institutional residents. 
 
 ### Source
 Statistics Canada Census Profiles  
@@ -18,6 +18,8 @@ The population excluding institutional residents includes Canadian citizens (by 
 See http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/help-aide/help-aide.cfm?Lang=E for more info.
 
 Note that some output values are NULL - this is for CSDs where data is supresessed, excluded or not available for various reasons. Join census_subdivision_id to the demographics table to determine if a CSD is flagged.
+
+Languages selected are based on existing languages reported on in MIT's Community Profile reporting tool (see https://tools.britishcolumbia.ca/Invest/Pages/Profile.aspx?page=5&pCommunityID=562&type=1)
 
 ### Preparation notes
 - download file noted in Source above (same source as Demographics and Labour)
@@ -41,7 +43,8 @@ $ csvsql --db postgresql://postgres:postgres@localhost:5432/postgis --table cens
     ```
     $ csvjoin -c "language,LANGUAGE" --outer languages_src.csv languages_cp.csv > languages_join.csv
     ```
-    - the match is good, use the list of languages from community profiles in a query that pulls all data from source, saving output as languages.csv
+    - the match is actually quite good apart from 'other languages' and 'Chinese'. Manually fix these to create a list of language names for reporting
+- query the census data, grouping the languages as per derived list plus grouping multiple responses as best as possible into single or double values - 'English and French' is the only double value remaining. Output query to `languages.csv`
 
 ```
 -- build the final totals

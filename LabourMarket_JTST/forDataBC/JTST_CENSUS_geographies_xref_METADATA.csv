@@ -1,0 +1,1 @@
+FIELD,TYPE,DESCRIPTIONjtst_geography_id,text,JTST_GEOGRAPHY_ID: is a foreign Key to link to JTST_GEOGRAPHY_IDs in various JTST Labour Market tablesstatscan_geography_id,text,GEOGRAPHY_ID: is a foreign Key to link to IDs in CENSUS geography tables

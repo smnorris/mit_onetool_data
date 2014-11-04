@@ -1,49 +1,1 @@
-TAX_DESCRIPTION,TAX_TYPE,TAX_JURISDICTION,TAX_CALCULATION,TAX_RATE,TAX_YEAR,NOTES,SOURCE
-"Corporate Income Tax Rate, General - Federal",Corporate Income,Federal,Rate,0.15,2014,,http://www.cra-arc.gc.ca/tx/bsnss/tpcs/crprtns/rts-eng.html
-"Corporate Income Tax Rate, Small Business  - Federal","Corporate Income, Small Business",Federal,Rate,0.11,2014,,http://www.cra-arc.gc.ca/tx/bsnss/tpcs/crprtns/rts-eng.html
-"Corporate Income Tax Rate, General - Provincial",Corporate Income,Provincial,Rate,0.11,2014,,http://www2.gov.bc.ca/gov/topic.page?id=68E5DBC15D4F458CB2783F35CFABB19C&title=Tax%20Rates%20and%20Business%20Limits
-"Corporate Income Tax Rate, Small Business  - Provincial","Corporate Income, Small Business",Provincial,Rate,0.025,2014,,http://www2.gov.bc.ca/gov/topic.page?id=68E5DBC15D4F458CB2783F35CFABB19C&title=Tax%20Rates%20and%20Business%20Limits
-Personal Income Tax - Earned Income - Federal - rate range,Personal Income,Federal,Rate (range),0.15 - 0.29,2014,,http://www.cra-arc.gc.ca/tx/ndvdls/fq/txrts-eng.html
-Personal Income Tax - Earned Income - Provincial - rate range,Personal Income,Provincial,Rate (range),0.0506 - 0.1680,2014,,http://www2.gov.bc.ca/gov/topic.page?id=E90F9F1717DB451BB7E4A6CC0BDC6F9F
-Personal Income Tax - Unearned Income (ie dividends) - Federal,Personal Income (unearned),Federal,"Dependant on dividend type, income and tax credits",,2014,,http://www.cra-arc.gc.ca/tx/ndvdls/tpcs/ncm-tx/rtrn/cmpltng/rprtng-ncm/lns101-170/120/menu-eng.html
-Personal Income Tax - Capital Gains - Federal,Personal Income (capital gains),Federal,Rate (range),.075 - .145,2014,50% of capital gains are taxed at an individuals tax rate,http://www.cra-arc.gc.ca/tx/ndvdls/tpcs/ncm-tx/rtrn/cmpltng/rprtng-ncm/lns101-170/127/menu-eng.html
-Sales Tax - Federal (GST),Sales Tax,Federal,Rate,0.05,2014,,http://www.cra-arc.gc.ca/tx/bsnss/tpcs/gst-tps/rts-eng.html
-Sales Tax - Provincial (PST),Sales Tax,Provincial,Rate,0.07,2014,Exemptions and higher rates exist on certain items: http://www2.gov.bc.ca/gov/topic.page?id=589542DDDB6347F7A7C80C1783F4BA6D,http://www2.gov.bc.ca/gov/topic.page?id=589542DDDB6347F7A7C80C1783F4BA6D
-Carbon Tax - Provincial,Sales Tax,Provincial,Rate (by volume based on fuel type/carbon emission),Varies based on fuel type,2014,See http://www.sbr.gov.bc.ca/documents_library/bulletins/mft-ct_005.pdf for BC carbon tax rates on fuels,http://www.fin.gov.bc.ca/tbs/tp/climate/A4.htm
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,
+TAX_DESCRIPTION,TAX_TYPE,TAX_JURISDICTION,TAX_CALCULATION,TAX_RATE,TAX_YEAR,NOTES,SOURCE"Corporate Income Tax Rate, General - Federal",Corporate Income,Federal,Rate,0.15,2014,,http://www.cra-arc.gc.ca/tx/bsnss/tpcs/crprtns/rts-eng.html"Corporate Income Tax Rate, Small Business  - Federal","Corporate Income, Small Business",Federal,Rate,0.11,2014,,http://www.cra-arc.gc.ca/tx/bsnss/tpcs/crprtns/rts-eng.html"Corporate Income Tax Rate, General - Provincial",Corporate Income,Provincial,Rate,0.11,2014,,http://www2.gov.bc.ca/gov/topic.page?id=68E5DBC15D4F458CB2783F35CFABB19C&title=Tax%20Rates%20and%20Business%20Limits"Corporate Income Tax Rate, Small Business  - Provincial","Corporate Income, Small Business",Provincial,Rate,0.025,2014,,http://www2.gov.bc.ca/gov/topic.page?id=68E5DBC15D4F458CB2783F35CFABB19C&title=Tax%20Rates%20and%20Business%20LimitsPersonal Income Tax - Earned Income - Federal - rate range,Personal Income,Federal,Rate (range),0.15 - 0.29,2014,,http://www.cra-arc.gc.ca/tx/ndvdls/fq/txrts-eng.htmlPersonal Income Tax - Earned Income - Provincial - rate range,Personal Income,Provincial,Rate (range),0.0506 - 0.1680,2014,,http://www2.gov.bc.ca/gov/topic.page?id=E90F9F1717DB451BB7E4A6CC0BDC6F9FPersonal Income Tax - Unearned Income (ie dividends) - Federal,Personal Income (unearned),Federal,"Dependant on dividend type, income and tax credits",,2014,,http://www.cra-arc.gc.ca/tx/ndvdls/tpcs/ncm-tx/rtrn/cmpltng/rprtng-ncm/lns101-170/120/menu-eng.htmlPersonal Income Tax - Capital Gains - Federal,Personal Income (capital gains),Federal,Rate (range),.075 - .145,2014,50% of capital gains are taxed at an individuals tax rate,http://www.cra-arc.gc.ca/tx/ndvdls/tpcs/ncm-tx/rtrn/cmpltng/rprtng-ncm/lns101-170/127/menu-eng.htmlSales Tax - Federal (GST),Sales Tax,Federal,Rate,0.05,2014,,http://www.cra-arc.gc.ca/tx/bsnss/tpcs/gst-tps/rts-eng.htmlSales Tax - Provincial (PST),Sales Tax,Provincial,Rate,0.07,2014,Exemptions and higher rates exist on certain items: http://www2.gov.bc.ca/gov/topic.page?id=589542DDDB6347F7A7C80C1783F4BA6D,http://www2.gov.bc.ca/gov/topic.page?id=589542DDDB6347F7A7C80C1783F4BA6DCarbon Tax - Provincial,Sales Tax,Provincial,Rate (by volume based on fuel type/carbon emission),Varies based on fuel type,2014,See http://www.sbr.gov.bc.ca/documents_library/bulletins/mft-ct_005.pdf for BC carbon tax rates on fuels,http://www.fin.gov.bc.ca/tbs/tp/climate/A4.htm

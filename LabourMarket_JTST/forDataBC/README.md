@@ -6,13 +6,13 @@
 Unemployment by Economic Region
 
 ### Description
-<TBD>
+*require JTST input*
 
 ### Source
 JTST, Statistics Canada
 
 ### Caveats etc
-<TBD>
+*require JTST input*
 
 ### Preparation notes
 - received file `WorkBC Navigator September 2014.xlsx` from Nick Bystedt (JTST)

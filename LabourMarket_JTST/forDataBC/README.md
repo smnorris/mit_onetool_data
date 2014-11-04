@@ -42,8 +42,8 @@ Contact JTST for more information.
 - downloaded file `Labour-Market-Outlook-Regional-Data-by-3-digit-NOC-2010-2020.csv` from DataBC catalog
 - downloaded file `Labour-Market-Outlook_DataDictionary.txt` from DataBC catalog
 - manually added and populated `geography_id` column based on region names (note that this is preliminary, the id is a combination for North Coast/Nechacko, see 'Remaining issues' below)
-- minor renaming of othere columns in the data file for clarification
-- created `lmsm_regional_3digitnoc_METADATA.csv` based on the information in file `Labour-Market-Outlook_DataDictionary.txt`
+- minor renaming of other columns in the data file
+- created `lmsm_regional_3digitnoc_METADATA.csv` documenting data structure/values based on the information in file `Labour-Market-Outlook_DataDictionary.txt`
 
 ### Remaining issues
 - geographic (economic region) names are not standard

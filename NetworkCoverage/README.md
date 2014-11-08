@@ -18,6 +18,5 @@ This is an approximation only.
   + hex bin layer (bcnc_bc_network_coverage_sp) 
   + census subdivisions (cen_census_subdivisions)
 - Load resulting table to db
-- Run query `src\network_bc.sql`, output is telecommunications_csd
-- Dump to csv
+- Run query `src\network_bc.sql`, dump to output to csv
 - for more info, see the documentation provided in the March 2014 delivery file

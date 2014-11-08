@@ -1,11 +1,13 @@
 """
 Functions for cleaning and grouping StatsCan data.
 
-Ensure input files are loaded to db before processing (see README.txt)
+Ensure input files are loaded to db before processing (see PrepareCensusNHS.md)
 Required input tables:
    - census_src (census data at csd level)
    - nhs_cd_src (nhs data at cd level)
    - nhs_csd_src (nhs data at csd level)
+   - cen_census_subdivisions (spatial table, from GeoBC Census_2011.gdb)
+   - cen_census_divisions (spatial, from GeoBC Census_2011.gdb)
 """
 
 import os

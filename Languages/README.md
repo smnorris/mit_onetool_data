@@ -1,18 +1,16 @@
-# Languages
+# languages.csv
 
-## languages.csv
-
-### Title
+## Title
 Census Subdivisions - language spoken most often at home
 
-### Description
+## Description
 For Statistics Canada 2011 Census Subdivisions, total count of selected languages spoken most often at home, taken from the universe of total population (see Caveats) excluding institutional residents. 
 
-### Source
+## Source
 Statistics Canada Census Profiles  
 http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/download-telecharger/comprehensive/comp_download.cfm?LANG=E&CTLG=98-316-XWE2011001&FMT=CSV301
 
-### Caveats etc
+## Caveats etc
 The population excluding institutional residents includes Canadian citizens (by birth or by naturalization) and landed immigrants (permanent residents) excluding those who live in institutions (institutional collective dwellings). Canadian citizens and landed immigrants either: (1) have a usual place of residence in Canada; (2) are abroad either on a military base or attached to a diplomatic mission; or (3) are at sea or in port aboard merchant vessels under Canadian registry or Canadian government vessels. Since 1991, the target population also includes persons with a usual place of residence in Canada who are claiming refugee status, who hold study permits, or who hold work permits, as well as family members living with them; for census purposes, this group is referred to as non-permanent residents. The population universe does not include foreign residents.
 
 See http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/help-aide/help-aide.cfm?Lang=E for more info.
@@ -21,7 +19,7 @@ Note that some output values are NULL - this is for CSDs where data is supresess
 
 Languages selected are based on existing languages reported on in MIT's Community Profile reporting tool (see https://tools.britishcolumbia.ca/Invest/Pages/Profile.aspx?page=5&pCommunityID=562&type=1)
 
-### Preparation notes
+## Preparation notes
 - download file noted in Source above (same source as Demographics and Labour)
 - remove first line from file, extract just BC records, encode as utf-8, load to database  
 ```

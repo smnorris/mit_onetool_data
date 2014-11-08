@@ -1,20 +1,18 @@
-# Distance between communities (origin - destination table)
+# origin_destination_csd.csv
 
-## origin_destination_csd.csv
-
-### Title
+## Title
 A listing of distances and travel times between communities and common destinations
 
-### Description
+## Description
 Distance and travel times between communities (census subdivisions) and destinations such as major centers, airports, ports, post-secondary institutions. This information permits querying of the closest of these destinations to a given community.
 
-### Source
+## Source
 Open Street Map via MapQuest's Open Directions API (http://open.mapquestapi.com/directions/)
 
-### Caveats etc
+## Caveats etc
 See terms of use here: http://developer.mapquest.com/web/info/terms-of-use
 
-### Preparation notes (prelminary)
+## Preparation notes (prelminary)
 - build a .csv table of origins, which is all incorporated census subdivisions with lat/lon by extracting from StatsCan reference points (`src/csd_locations`)
 - copy csd_locations.csv to destinations_src.csv
 - add columns identifying one of (major centre, airport/port, post-sec institution)

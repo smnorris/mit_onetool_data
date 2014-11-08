@@ -125,6 +125,7 @@ $ csvsql --db postgresql://postgres:postgres@localhost:5432/postgis --table nhs_
 $ csvsql --db postgresql://postgres:postgres@localhost:5432/postgis --table nhs_fed_src --insert nhs_fed.csv --db-schema mit
 $ csvsql --db postgresql://postgres:postgres@localhost:5432/postgis --table nhs_cd_src --insert nhs_cd.csv --db-schema mit
 ```
+Also load spatial data to postgres. A .gdb was provided by GeoBC (Natalie Work) that defines the various geographical boundaries. Load csd and cd tables to the same postgres schema.
 
 ## Process the data in postgres to match MIT requirements
 This is all scripted in `src\ProcessStatsCanData.py`

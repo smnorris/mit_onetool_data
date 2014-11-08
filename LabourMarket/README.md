@@ -1,17 +1,34 @@
-# JTST labour market information
+# JTST_CENSUS_geographies_xref.csv
 
-## unemployment.csv
+## Title
+Cross reference between JTST geographies and Census geographies
 
-### Title
-Unemployment by Economic Region
+## Description
+Provide a link from JTST regions and economic development regions - JTST does not report on all regions separately
 
-### Description
-*require JTST input*
-
-### Source
+## Source
 JTST, Statistics Canada
 
-### Caveats etc
+## Caveats etc
+na
+
+### Preparation notes
+- manually extracted all JTST regions, all census economic development regions
+- manually prepared the table, linking JTST North Coast/Nechako region to the individual Census regions
+
+
+# unemployment.csv
+
+## Title
+Unemployment by Economic Region
+
+## Description
+*require JTST input*
+
+## Source
+JTST, Statistics Canada
+
+## Caveats etc
 *require JTST input*
 
 ### Preparation notes
@@ -24,21 +41,21 @@ JTST, Statistics Canada
 - note that a geographic ID of 6 is given for British Columbia, but I'm not sure that there is a corresponding geographic record in the census data published to BCGW
 
 
-## lmsm_regional_3digitnoc.csv
+# lmsm_regional_3digitnoc.csv
 
-### Title
+## Title
 Labour Market Outlook 2010-2020
 
-### Description
+## Description
 Reports on future supply, demand and supply-demand balance for occupations across BC's development regions. The report provides projections to identify occupations in BC at various skill levels that may face shortages of workers. 
 
-### Source
+## Source
 Ministry of Jobs, Tourism and Skills Training
 
-### Caveats etc
+## Caveats etc
 Contact JTST for more information.
 
-### Preparation notes
+## Preparation notes
 - downloaded file `Labour-Market-Outlook-Regional-Data-by-3-digit-NOC-2010-2020.csv` from DataBC catalog
 - downloaded file `Labour-Market-Outlook_DataDictionary.txt` from DataBC catalog
 - manually added and populated `jtst_geography_id` column based on region names (note that this is preliminary, see the notes for unemployment above on how jtst_geography_id is assigned)

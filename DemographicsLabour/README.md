@@ -9,6 +9,9 @@ Statistics Canada Census and National Household Survey (NHS) demographics, incom
 ## Source
 Statistics Canada 2011 Census
 
+## Caveats etc
+There are lots of questions regarding NHS data. See StatsCan web site and google.
+
 ## Preparation notes
 See [PrepareCensusNHS.md](PrepareCensusNHS.md)
 
@@ -23,6 +26,9 @@ Statistics Canada National Household Survey (NHS) income and labour summaries fo
 
 ## Source
 Statistics Canada 2011 National Household Survey
+
+## Caveats etc
+There are lots of questions regarding NHS data. See StatsCan web site and google.
 
 ## Preparation notes
 See [PrepareCensusNHS.md](PrepareCensusNHS.md)

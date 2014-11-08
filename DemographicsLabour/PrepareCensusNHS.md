@@ -1,35 +1,18 @@
-## Prepare StatsCan 2011 Census and NHS data
+# Prepare StatsCan 2011 Census and NHS data
 
-### 1 - Download source data
+## Download source data (census subdivision level)
 
-#### Spatial (Census Subdivision boundaries)
-
+### Census Profiles
+Get Census profile data:
 ```
-$ curl -O http://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/files-fichiers/gcsd000a11a_e.zip
+$ curl -O http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/download-telecharger/comprehensive/comp_download.cfm?LANG=E&CTLG=98-316-XWE2011001&FMT=CSV301
 ```
-Note that this is just for testing and comparison, Census Subdivisions are to be loaded to BCGW via GeoBC (a separate process). Columns in the BCGW version will not match this source file. Draft BCGW version was downloaded and used for output.
 
-#### Characteristics (at Census Subdivision level)
+### NHS Profiles
+As of writing, data.gc.ca only provides NHS data as [xml](http://data.gc.ca/data/en/dataset/219ba84b-07ae-4ae0-bf90-67d0a7544272).
+CSV files are easier to deal with and available using the form [here](http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/download-telecharger/comprehensive/comp-csv-tab-nhs-enm.cfm?Lang=E)
 
-- Census data:
-
-    I can't find direct links on the Census site and the download links on [data.gc.ca](http://data.gc.ca/data/en/dataset/15cb272f-c3c5-492c-b10e-53ef40c154c9) are currently broken (Feb 22 2014). Update Feb28, links are now fixed, get Census data here: http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/download-telecharger/comprehensive/comp_download.cfm?LANG=E&CTLG=98-316-XWE2011001&FMT=CSV301
-    So, download using the form [here](http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/download-telecharger/comprehensive/comp-csv-tab-dwnld-tlchrgr.cfm?Lang=E)
-
-- NHS data:
-
-    data.gc.ca just provides xml as [download](http://data.gc.ca/data/en/dataset/219ba84b-07ae-4ae0-bf90-67d0a7544272) format. I'd much rather use a .csv. 
-    Download .csv files using the form [here](http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/download-telecharger/comprehensive/comp-csv-tab-nhs-enm.cfm?Lang=E) - download both the census subdivision and census metropolitan areas files
-
-### 2 - Examine the data and extract BC
-
-Unzip the files, maybe keep the source zips in a `/zipfiles` folder.
-
-#### Spatial
-I opened the shapefile in QGIS, selected the BC polygons and exported those a new file called csd.gdb, using BCAlbers (SRID 3005).
-This and the load to postgres could all be done in one command with ogr2ogr, but it is nice to do a visual preview of the data and I have a dead easy gdb to pg conversion tool that I use all the time.
-
-#### Characteristics
+## Examine the data and extract BC
 
 After unzipping, we see:
 
@@ -88,7 +71,7 @@ Unfortunately the combination of Topic and Characteristic isn't unique within th
 $ csvgrep -e iso-8859-1 -c 2 -m "British Columbia" -l 99-004-XWE2011001-301-BC.csv > nhs_csd.csv
 ```
 
-Now, look at the NHS data at CA/CMA level. 
+Now, look at the NHS data at CA/CMA level.
 ```
 $ head -n 3 99*201.csv
 National Household Survey - Census Metropolitan Areas (CMAs) and Census Agglomerations (CAs)
@@ -132,28 +115,19 @@ $ csvgrep -e iso-8859-1 -c 2 -m "British Columbia" -l t2.csv > nhs_cd.csv
 ```
 Note that the CD file isn't quite standard - the Geo_Code column is noted as Geo_code. I just opened up the file in sublime and edited that line.
 
-### 3 - Load data to postgres
+## Load data to postgres
 Load the resulting files to a fresh schema in postgres. csvkit does this nicely (although annoyingly there seems to be no option for making columns lower case and I'd rather not bother touching the source columns). Note the encoding for the NHS file that hasn't already been converted to utf8.  
-gdb2pg simply writes all layers in specified .gdb to specified schema.
 
 ```
-$ psql -d postgis -U postgres -c "CREATE SCHEMA mitdataprep;"
-$ csvsql --db postgresql://postgres:postgres@localhost:5432/postgis --table census_src --insert census.csv --db-schema mitdataprep
-$ csvsql --db postgresql://postgres:postgres@localhost:5432/postgis --table nhs_src --insert nhs_csd.csv --db-schema mitdataprep
-$ csvsql --db postgresql://postgres:postgres@localhost:5432/postgis --table nhs_cma_src --insert nhs_cma.csv --db-schema mitdataprep
-$ csvsql --db postgresql://postgres:postgres@localhost:5432/postgis --table nhs_fed_src --insert nhs_fed.csv --db-schema mitdataprep
-$ csvsql --db postgresql://postgres:postgres@localhost:5432/postgis --table nhs_cd_src --insert nhs_cd.csv --db-schema mitdataprep
-$ gdb2pg csd.gdb -s mitdataprep
+$ csvsql --db postgresql://postgres:postgres@localhost:5432/postgis --table census_src --insert census.csv --db-schema mit
+$ csvsql --db postgresql://postgres:postgres@localhost:5432/postgis --table nhs_src --insert nhs_csd.csv --db-schema mit
+$ csvsql --db postgresql://postgres:postgres@localhost:5432/postgis --table nhs_cma_src --insert nhs_cma.csv --db-schema mit
+$ csvsql --db postgresql://postgres:postgres@localhost:5432/postgis --table nhs_fed_src --insert nhs_fed.csv --db-schema mit
+$ csvsql --db postgresql://postgres:postgres@localhost:5432/postgis --table nhs_cd_src --insert nhs_cd.csv --db-schema mit
 ```
 
-### 4 - Process the data in postgres to match MIT requirements
-This is all scripted in `src\ProcessStatsCanData.py` 
-Output tables are 
+## Process the data in postgres to match MIT requirements
+This is all scripted in `src\ProcessStatsCanData.py`
+Output tables are
 - demographics_labour_csd
 - demographics_labour_cd
-Both tables contain geometries for convenience
-
-### 5 - QA/Visualize by dumping to formats of choice (geojson/topojson) to map results
-```
-$ ogr2ogr -f GeoJSON demographics_labour_csd.geojson PG:'host=localhost user=postgres dbname=postgis password=postgres active_schema=mitdataprep' -sql 'select * from demographics_labour_csd' -t_srs EPSG:4326
-$ topojson -o demographics_labour_csd.json -p -- demographics_labour_csd.geojson

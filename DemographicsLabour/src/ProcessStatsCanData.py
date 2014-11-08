@@ -84,8 +84,8 @@ def create_census_source(db):
     slim down the source data, cleaning column names
     """
     print 'massaging source data'
-    db.drop_table("mitdataprep.census")
-    sql = """CREATE TABLE mitdataprep.census_csd AS
+    db.drop_table("mit.census")
+    sql = """CREATE TABLE mit.census_csd AS
             SELECT
               "Geo_Code" AS csduid,
               "Topic" AS topic,
@@ -98,7 +98,7 @@ def create_census_source(db):
               "Female" AS female,
               "Flag_Female" AS flag_female
             FROM
-              mitdataprep.census_src
+              mit.census_src
             WHERE
               "Topic" IN ('Age characteristics',
                           'Population and dwelling counts',
@@ -106,11 +106,11 @@ def create_census_source(db):
             ORDER BY csduid, "Topic","Characteristics"
             """
     db.execute(sql)
-    db.execute("""ALTER TABLE mitdataprep.census_csd
+    db.execute("""ALTER TABLE mit.census_csd
                   ADD COLUMN census_id SERIAL PRIMARY KEY""")
     for column in ["csduid", "topic", "characteristics"]:
         sql = """CREATE INDEX
-                 ON mitdataprep.census_csd ({column})
+                 ON mit.census_csd ({column})
                  """.format(column=column)
 
 
@@ -119,8 +119,8 @@ def create_nhs_source(db):
     due to poor data quality, process nhs at several different levels
     """
     for level in ["cd", "csd"]:
-        db.drop_table("mitdataprep.nhs_"+level)
-        sql = """CREATE TABLE mitdataprep.nhs_{level} AS
+        db.drop_table("mit.nhs_"+level)
+        sql = """CREATE TABLE mit.nhs_{level} AS
                 SELECT
                   line_number,
                   "Geo_Code" AS {level}uid,
@@ -135,7 +135,7 @@ def create_nhs_source(db):
                   "Female" AS female,
                   "Flag_Female" AS flag_female
                 FROM
-                  mitdataprep.nhs_{level}_src
+                  mit.nhs_{level}_src
                 WHERE
                   "Topic" IN ('Income of households in 2010',
                               'Education',
@@ -146,18 +146,18 @@ def create_nhs_source(db):
                 ORDER BY line_number
                 """.format(level=level)
         db.execute(sql)
-        db.execute("""ALTER TABLE mitdataprep.nhs_{level}
+        db.execute("""ALTER TABLE mit.nhs_{level}
                       ADD COLUMN nhs_id SERIAL PRIMARY KEY
                       """.format(level=level))
         # index for speed
         for column in ["geoid", "topic", "characteristics"]:
             sql = """CREATE INDEX
-                     ON mitdataprep.nhs_{level} ({column})
+                     ON mit.nhs_{level} ({column})
                   """.format(level=level,
                              column=column)
         # fix the NHS 'Topic' columns
-        tweak_nhs_income(db, "mitdataprep.nhs_"+level)
-        tweak_nhs_education(db, "mitdataprep.nhs_"+level)
+        tweak_nhs_income(db, "mit.nhs_"+level)
+        tweak_nhs_education(db, "mit.nhs_"+level)
 
 
 def create_output_table(db, meta, level):
@@ -173,7 +173,7 @@ def create_output_table(db, meta, level):
               LEFT OUTER JOIN
                   (SELECT DISTINCT
                     {level}uid, gnr
-                   FROM mitdataprep.nhs_{level}) nhs
+                   FROM mit.nhs_{level}) nhs
               ON s.{key}::int = nhs.{level}uid)
           """.format(outTable=level["output"],
                      key=level["uid"],
@@ -217,7 +217,7 @@ def populate_output_table(db, meta, level):
     if level["code"] == 'cd':
         meta = [column for column in meta if column["SOURCE_TABLE"] == "nhs"]
     for column in meta:
-        srcTable = "mitdataprep."+column["SOURCE_TABLE"]+"_"+level["code"]
+        srcTable = "mit."+column["SOURCE_TABLE"]+"_"+level["code"]
         if column["DRAFT_COLUMN_TYPE"]:
             print "Loading to output table: "+column["DRAFT_COLUMN_NAME"]
             for uid in get_unique(db, level["code"]+"uid", srcTable):
@@ -277,31 +277,33 @@ def populate_output_table(db, meta, level):
 
 
 # initialize database
-
 db = pgdb.Database()
 
 # load metadata file listing all columns to process
-#path = os.path.join(os.environ['PROJECTS'], r"mit/OneToolDataPrep")
-metaFile = os.path.join(r"DataDictionary.csv")
+metaFile = "DataDictionary.csv"
 meta = get_datadef(metaFile)
 
 # define inputs and outputs at each level of geography
-csd = {"output": "mitdataprep.demographics_labour_csd",
-       "spatial": "mitdataprep.cen_census_subdivisions",
+csd = {"output": "mit.demographics_labour_csd",
+       "spatial": "mit.cen_census_subdivisions",
        "uid": "census_subdivision_id",
        "code": "csd"}
-cd = {"output": "mitdataprep.demographics_labour_cd",
-      "spatial": "mitdataprep.cen_census_divisions",
+cd = {"output": "mit.demographics_labour_cd",
+      "spatial": "mit.cen_census_divisions",
       "uid": "census_division_id",
       "code": "cd"}
 levels = [csd, cd]
 
-#print meta
 # create clean source tables from the data loaded to db from source csv
-#create_census_source(db)
-#create_nhs_source(db)
+create_census_source(db)
+create_nhs_source(db)
 
 # create outputs
 for level in [cd]:
     create_output_table(db, meta, level)
     populate_output_table(db, meta, level)
+
+# populate null flag values as per data bc requirements
+db.execute("""UPDATE mit.demographics_labour_csd SET census_flag = 'N' WHERE census_flag IS NULL""")
+db.execute("""UPDATE mit.demographics_labour_csd SET nhs_flag = 'N' WHERE nhs_flag IS NULL""")
+db.execute("""UPDATE mit.demographics_labour_cd SET nhs_flag = 'N' WHERE nhs_flag IS NULL""")

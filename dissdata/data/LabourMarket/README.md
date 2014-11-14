@@ -1,22 +1,3 @@
-# JTST_CENSUS_geographies_xref.csv
-
-## Title
-Cross reference between JTST geographies and Census geographies
-
-## Description
-Provide a link from JTST regions and economic development regions - JTST does not report on all regions separately
-
-## Source
-JTST, Statistics Canada
-
-## Caveats etc
-na
-
-### Preparation notes
-- manually extracted all JTST regions, all census economic development regions
-- manually prepared the table, linking JTST North Coast/Nechako region to the individual Census regions
-
-
 # lmsm_regional_3digitnoc.csv
 
 ## Title
@@ -39,6 +20,24 @@ Contact JTST for more information.
 - created `lmsm_regional_3digitnoc_METADATA.csv` documenting data structure/values based on the information in file `Labour-Market-Outlook_DataDictionary.txt`
 - note that a geographic ID of 6 is given for British Columbia, but I'm not sure that there is a corresponding geographic record in the census data published to BCGW
 
+# regional_noc_wages.csv
+
+## Title
+Wages for 4 digit NOC classificaitons by Census Economic Region
+
+## Description
+*require JTST input*
+
+## Source
+JTST
+
+## Caveats etc
+*require JTST input*
+
+### Preparation notes
+- data file `4 digit wages by region.xlsx` provided by JTST (nick.bystedt@gov.bc.ca)
+- field descriptions provided by JTST
+- modified field names to remove special characters
 
 # unemployment.csv
 
@@ -62,3 +61,9 @@ JTST, Statistics Canada
 - added unemployment_y1 and unemployment_y2 columns, populated with data from forecasts for 2015, 2016
 - note that unemployment forecasts are only available at the economic region level
 - note that a geographic ID of 6 is given for British Columbia, but I'm not sure that there is a corresponding geographic record in the census data published to BCGW
+- as per DataBC comments
+  + renamed jtst_geography_id column to geography_id
+  + removed 5965 geography id, added 5970 and 5960 and a new record, duplicating the values
+  + replace NA value with null
+  + added geography_level column
+  

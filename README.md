@@ -18,17 +18,20 @@ When installing with pip, pip should fetch these for you.
 
 
 ## Usage
-Data is stored as .csv files in the `/dissdata/data` folder.
-Browse the README files in each subfolder for information about the data files included, such as:
+Browse the the `/dissdata/data` folder to see included data.  
+
+README files in each subfolder for information about the data files included, such as:
 - title
 - description
 - source
 - caveats
 - preparation notes  
 
-See the `_METADATA.csv` files that correspond to each data file for detailed descriptions of each column in the data file.
+Data files noted in the READMEs are all held as .csv.
 
-To re-generate the complete summary data dictionary `diss_datadict.csv` that compiles all the included `_METADATA.csv` files, use the command line tool and send the results to file:  
+A data dictionary for each data file is included in the corresponding `_METADATA.csv`, with type and description for each column included in the data file.  
+
+`diss_datadict.csv` in the root folder is a complete data dictionary - it is simply a merge of all the `_METADATA.csv` files included in the package. If changes are made to individual metadata files, update the complete list with this command:  
 ```
 $ dissdata summarize > diss_datadict.csv
 ```

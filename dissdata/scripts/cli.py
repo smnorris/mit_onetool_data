@@ -21,18 +21,17 @@ from csvkit import CSVKitDictReader, CSVKitDictWriter
 from signal import signal, SIGPIPE, SIG_DFL
 signal(SIGPIPE,SIG_DFL)
 
-def gen_find(filepat, top):
+def find_files(filepat, top):
     for path, dirlist, filelist in os.walk(top):
         for name in fnmatch.filter(filelist, filepat):
             yield os.path.join(path, name)
 
-def gen_readcsv(files):
+def read_metafiles(files):
     for f in files:
         path, metafile = os.path.split(f)
         datadict = {}
         datadict["folder"] = os.path.split(path)[1]
-        datadict["data_csv"] = metafile.split("_METADATA")[0]+".csv"
-        datadict["metadata_csv"] = metafile
+        datadict["datafile"] = metafile.split("_METADATA")[0]+".csv"
         with open(f, "r") as openfile:
             for row in CSVKitDictReader(openfile):
                 rowlower = {k.lower():row[k] for k in row}
@@ -51,8 +50,8 @@ def summarize():
      - dumps results to stdout, in a format suitable for writing to csv
     """
     outFields = ["folder", "data_csv", "metadata_csv", "field", "type", "description"]
-    csvfiles = gen_find("*_METADATA.csv", "dissdata/data")
-    csvdata = gen_readcsv(csvfiles)
+    csvfiles = find_files("*_METADATA.csv", "dissdata/data")
+    csvdata = read_metafiles(csvfiles)
     writer = CSVKitDictWriter(sys.stdout, outFields)
     writer.writeheader()
     for row in csvdata:
@@ -63,4 +62,5 @@ def build():
     """
     Build output data structure for publication
     """
-    print "b"# process data...
+    print "todo"
+    # process data...

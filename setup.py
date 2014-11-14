@@ -21,7 +21,8 @@ setup(name='dissdata',
       include_package_data=True,
       zip_safe=False,
       install_requires=[
-          'click'
+          'click',
+          'csvkit'
       ],
       extras_require={
           'test': ['pytest'],

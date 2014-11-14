@@ -1,0 +1,280 @@
+folder,data_csv,metadata_csv,field,type,description
+Climate,climate.csv,climate_METADATA.csv,CENSUS_SUBDIVISION_ID,Text,"CENSUS_SUBDIVISION_ID: Foreign Key, linking to CENSUS_SUBDIVISION_ID in CEN_CENSUS_SUBDIVISIONS, e.g., 5901022"
+Climate,climate.csv,climate_METADATA.csv,TMAX01,Number,Maximum mean temperature (°C) - January
+Climate,climate.csv,climate_METADATA.csv,TMAX07,Number,Maximum mean temperature (°C) - July
+Climate,climate.csv,climate_METADATA.csv,TMIN01,Number,Minimum mean temperature (°C) - January
+Climate,climate.csv,climate_METADATA.csv,TMIN07,Number,Minimum mean temperature (°C) - July
+Climate,climate.csv,climate_METADATA.csv,TAVE01,Number,Mean temperature (°C) - January
+Climate,climate.csv,climate_METADATA.csv,TAVE07,Number,Mean temperature (°C) - July
+Climate,climate.csv,climate_METADATA.csv,MAP,Number,Mean annual Precipitation (mm)
+Climate,climate.csv,climate_METADATA.csv,PAS,Number,Precipitation as snow (mm) between August in previous year and July in current year. Note that this corresponds roughly to snowfall in cm.
+Climate,climate.csv,climate_METADATA.csv,MAR,Number,Mean annual rainfall (mm) (MAP - PAS)
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,census_division_id,int,"CENSUS_DIVISION_ID: is a foreign Key to link to CENSUS_DIVISION_ID in CEN_CENSUS_DIVISIONS, e.g., 5901. This field combining with CENSUS_POP_NHS_YEAR is the primary key of ECON_CENSUS_DIV_NHS_TBL table."
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,nhs_flag,boolean,QUALITY_QLFD_NHS_IND: an indicator of whether or not Statistics Canada has qualified the accuracy of any of the data on which the National Household Survey (NHS) fields in this record are based. Statistics Canada qualifies the accuracy of each field in the NHS (http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/download-telecharger/comprehensive/comp-csv-tab-nhs-enm.cfm?Lang=E) data.  (See http://www.statcan.gc.ca/concepts/definitions/guide-symbol-signes-eng.htm for a list of qualifications). Y indicates that at least one field value in the source data has been qualified; N indicates that no field value has been qualified.
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,gnr,numeric,"GLOBAL_NON_RESPONSE_RATE_NHS: An indicator of data quality, the GLOBAL_NON_RESPONSE_RATE_NHS indicator is a value that combines complete non-response (household) and partial non-response (question) into a single rate.  A smaller GNR indicates a lower risk of non-response bias and as a result, lower risk of inaccuracy. The threshold used for estimates' suppression is a GNR of 50% or more. For more information, please refer to the National Household Survey User Guide, 2011 (http://www12.statcan.gc.ca/nhs-enm/2011/ref/nhs-enm_guide/index-eng.cfm). The possible range of values is 0 to 100"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,hshldincome_median,float,"Median household total income, 2010 ($)"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,hshldincome_5kunder,int,"Household total income in 2010 of private households - Under $5,000 (count)"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,hshldincome_5k_10k,int,"Household total income in 2010 of private households - $5,000 to $9,999 (count)"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,hshldincome_10k_15k,int,"Household total income in 2010 of private households - $10,000 to $14,999 (count)"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,hshldincome_15k_20k,int,"Household total income in 2010 of private households - $15,000 to $19,999 (count)"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,hshldincome_20k_30k,int,"Household total income in 2010 of private households - $20,000 to $29,999 (count)"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,hshldincome_30k_40k,int,"Household total income in 2010 of private households - $30,000 to $39,999 (count)"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,hshldincome_40k_50k,int,"Household total income in 2010 of private households - $40,000 to $49,999 (count)"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,hshldincome_50k_60k,int,"Household total income in 2010 of private households - $50,000 to $59,999 (count)"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,hshldincome_60k_70k,int,"Household total income in 2010 of private households - $60,000 to $79,999 (count)"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,hshldincome_80k_90k,int,"Household total income in 2010 of private households - $80,000 to $99,999 (count)"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,hshldincome_100k_125k,int,"Household total income in 2010 of private households - $100,000 to $124,999 (count)"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,hshldincome_125k_150k,int,"Household total income in 2010 of private households - $125,000 to $149,999 (count)"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,hshldincome_150kplus,int,"Household total income in 2010 of private households - $150,000 and over (count)"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,wrkfrc_ed_u12,int,"Education (25-64) - No certificate, diploma or degree"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,wrkfrc_ed_12,int,Education (25-64) - High school diploma or equivalent
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,wrkfrc_ed_asscdeg,int,Education (25-64) - Apprenticeship or trades certificate or diploma; Apprenticeship or trades certificate or diploma; University certificate or diploma below bachelor level;
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,wrkfrc_ed_collegegrad_gt16yrs,int,"Education (25-64) - University certificate, diploma or degree above bachelor level"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,wrkfrc_ed_collegegrad_16yrs,int,Education (25-64) - Bachelor's degree
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,industry_agriculture,int,"Industry - 11 Agriculture, forestry, fishing and hunting"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,industry_mining,int,"Industry - 21 Mining, quarrying, and oil and gas extraction"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,industry_utilities,int,Industry - 22 Utilities
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,industry_construction,int,Industry - 23 Construction
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,industry_manufacturing,int,Industry - 31-33 Manufacturing
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,industry_wholesale,int,Industry - 41 Wholesale trade
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,industry_retail,int,Industry - 44-45 Retail trade
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,industry_transport,int,Industry - 48-49 Transportation and warehousing
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,industry_info_cultural,int,Industry - 51 Information and cultural industries
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,industry_finance_insurance,int,Industry - 52 Finance and insurance
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,industry_realestate,int,Industry - 53 Real estate and rental and leasing
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,industry_professional,int,"Industry - 54 Professional, scientific and technical services"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,industry_management,int,Industry - 55 Management of companies and enterprises
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,industry_admin_waste,int,"Industry - 56 Administrative and support, waste management and remediation services"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,industry_education,int,Industry - 61 Educational services
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,industry_health,int,Industry - 62 Health care and social assistance
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,industry_arts_rec,int,"Industry - 71 Arts, entertainment and recreation"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,insustry_accomm_food,int,Industry - 72 Accommodation and food services
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,industry_other,int,Industry - 81 Other services (except public administration)
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,industry_public_admin,int,Industry - 91 Public administration
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,occupation_management,int,Occupation - 0 Management occupations
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,occupation_business,int,"Occupation - 1 Business, finance and administration occupations"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,occupation_science,int,Occupation - 2 Natural and applied sciences and related occupations
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,occupation_health,int,Occupation - 3 Health occupations
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,occupation_education_law,int,"Occupation - 4 Occupations in education, law and social, community and government services"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,occupation_art_culture_rec,int,"Occupation - 5 Occupations in art, culture, recreation and sport"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,occupation_sales_service,int,Occupation - 6 Sales and service occupations
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,occupation_trades,int,"Occupation - 7 Trades, transport and equipment operators and related occupations"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,occupation_resources_ag,int,"Occupation - 8 Natural resources, agriculture and related production occupations"
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,occupation_manufacturing,int,Occupation - 9 Occupations in manufacturing and utilities
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,commute_median,float,Median commuting duration (minutes)
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,laborforce_participation_male,float,Labour force participation rate - male
+DemographicsLabour,demographics_labour_cd.csv,demographics_labour_cd_METADATA.csv,laborforce_participation_female,float,Labour force participation rate - female
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,census_subdivision_id,int,"CENSUS_SUBDIVISION_ID: is a foreign Key to link to CENSUS_SUBDIVISION_ID in CEN_CENSUS_SUBDIVISIONS, e.g., 5901022. This field combining with CENSUS_POP_NHS_YEAR is the primary key of ECON_CENSUS_SUBDIV_POP_NHS_TBL table. "
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,census_flag,boolean,QUALITY_QLFD_POPULATION_IND: an indicator of whether or not Statistics Canada has qualified the accuracy of any of the data on which the population fields in this record are based. Statistics Canada qualifies the accuracy of each field in the Population Census (http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/download-telecharger/comprehensive/comp-csv-tab-dwnld-tlchrgr.cfm?Lang=E) data.  (See http://www.statcan.gc.ca/concepts/definitions/guide-symbol-signes-eng.htm for a list of qualifications). Y indicates that at least one field value in the source data has been qualified; N indicates that no field value has been qualified.
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_total,int,"POP_TOTAL: Population - Total. e.g., 19319"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_4under,int,"POP_4UNDER: Population - 0 to 4 years. e.g., 1075"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_5_9,int,"POP_5_9: Population - 5 to 9 years. e.g., 1090"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_10_14,int,"POP_10_14: Population - 10 to 14 years. e.g., 1080"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_15,int,"POP_15: Population - 15 years. e.g., 260"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_16,int,"POP_16: Population - 16 years. e.g., 260"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_17,int,"POP_17: Population - 17 years. e.g., 235"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_18,int,"POP_18: Population - 18 years. e.g., 265"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_19,int,"POP_19: Population - 19 years. e.g., 235"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_20_24,int,"POP_20_24: Population - 20 to 24 years. e.g., 1060"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_25_29,int,"POP_25_29: Population - 25 to 29 years. e.g., 1150"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_30_34,int,"POP_30_34: Population - 30 to 34 years. e.g., 1075"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_35_39,int,"POP_35_39: Population - 35 to 39 years. e.g., 1100"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_40_44,int,"POP_40_44: Population - 40 to 44 years. e.g., 1185"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_45_49,int,"POP_45_49: Population - 45 to 49 years. e.g., 1450"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_50_54,int,"POP_50_54: Population - 50 to 54 years. e.g., 1490"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_55_59,int,"POP_55_59: Population - 55 to 59 years. e.g., 1490"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_60_64,int,"POP_60_64: Population - 60 to 64 years. e.g., 1360"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_65_69,int,"POP_65_69: Population - 65 to 69 years. e.g., 1035"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_70_74,int,"POP_70_74: Population - 70 to 74 years. e.g., 820"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_75_79,int,"POP_75_79: Population - 75 to 79 years. e.g., 640"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_80_84,int,"POP_80_84: Population - 80 to 84 years. e.g., 515"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,pop_85plus,int,"POP_85PLUS: Population - 85 years and over. e.g., 445"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,hshld_n,int,"HSHLD_N: Total number of private households. e.g., 8140"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,nhs_flag,boolean,QUALITY_QLFD_NHS_IND: an indicator of whether or not Statistics Canada has qualified the accuracy of any of the data on which the National Household Survey (NHS) fields in this record are based. Statistics Canada qualifies the accuracy of each field in the NHS (http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/prof/details/download-telecharger/comprehensive/comp-csv-tab-nhs-enm.cfm?Lang=E) data.  (See http://www.statcan.gc.ca/concepts/definitions/guide-symbol-signes-eng.htm for a list of qualifications). Y indicates that at least one field value in the source data has been qualified; N indicates that no field value has been qualified.
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,gnr,float,"GLOBAL_NON_RESPONSE_RATE_NHS: An indicator of data quality, the GLOBAL_NON_RESPONSE_RATE_NHS indicator is a value that combines complete non-response (household) and partial non-response (question) into a single rate.  A smaller GNR indicates a lower risk of non-response bias and as a result, lower risk of inaccuracy. The threshold used for estimates' suppression is a GNR of 50% or more. For more information, please refer to the National Household Survey User Guide, 2011 (http://www12.statcan.gc.ca/nhs-enm/2011/ref/nhs-enm_guide/index-eng.cfm). The possible range of values is 0 to 100"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,hshldincome_median,float,"HSHLDINCOME_MEDIAN: Median household total income, 2010 ($). e.g., 57700"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,hshldincome_5kunder,int,"HSHLDINCOME_5KUNDER: Household total income in 2010 of private households - Under $5,000 (count). e.g., 515"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,hshldincome_5k_10k,int,"HSHLDINCOME_5K_10K: Household total income in 2010 of private households - $5,000 to $9,999 (count). e.g., 245"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,hshldincome_10k_15k,int,"HSHLDINCOME_10K_15K: Household total income in 2010 of private households - $10,000 to $14,999 (count). e.g., 560"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,hshldincome_15k_20k,int,"HSHLDINCOME_15K_20K: Household total income in 2010 of private households - $15,000 to $19,999 (count). e.g., 1035"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,hshldincome_20k_30k,int,"HSHLDINCOME_20K_30K: Household total income in 2010 of private households - $20,000 to $29,999 (count). e.g., 1630"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,hshldincome_30k_40k,int,"HSHLDINCOME_30K_40K: Household total income in 2010 of private households - $30,000 to $39,999 (count). e.g., 1460"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,hshldincome_40k_50k,int,"HSHLDINCOME_40K_50K: Household total income in 2010 of private households - $40,000 to $49,999 (count). e.g., 1710"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,hshldincome_50k_60k,int,"HSHLDINCOME_50K_60K: Household total income in 2010 of private households - $50,000 to $59,999 (count). e.g., 1640"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,hshldincome_60k_70k,int,"HSHLDINCOME_60K_70K: Household total income in 2010 of private households - $60,000 to $79,999 (count). e.g., 2850"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,hshldincome_80k_90k,int,"HSHLDINCOME_80K_90K: Household total income in 2010 of private households - $80,000 to $99,999 (count). e.g., 1850"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,hshldincome_100k_125k,int,"HSHLDINCOME_100K_125K: Household total income in 2010 of private households - $100,000 to $124,999 (count). e.g., 1375"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,hshldincome_125k_150k,int,"HSHLDINCOME_125K_150K: Household total income in 2010 of private households - $125,000 to $149,999 (count). e.g., 455"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,hshldincome_150kplus,int,"HSHLDINCOME_150KPLUS: Household total income in 2010 of private households - $150,000 and over (count). e.g., 445"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,wrkfrc_ed_u12,int,"WRKFRC_ED_U12: Education (25-64) - No certificate, diploma or degree. e.g., 4855"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,wrkfrc_ed_12,int,"WRKFRC_ED_12: Education (25-64) - High school diploma or equivalent. e.g., 6780"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,wrkfrc_ed_asscdeg,int,"WRKFRC_ED_ASSCDEG: Education (25-64) - Apprenticeship or trades certificate or diploma; Apprenticeship or trades certificate or diploma; University certificate or diploma below bachelor level; . e.g., 4385"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,wrkfrc_ed_collegegrad_gt16yrs,int,"WRKFRC_ED_COLLEGEGRAD_GT16YRS: Education (25-64) - University certificate, diploma or degree above bachelor level. e.g., 1135"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,wrkfrc_ed_collegegrad_16yrs,int,"WRKFRC_ED_COLLEGEGRAD_16YRS: Education (25-64) - Bachelor's degree. e.g., 2305"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,industry_agriculture,int,"INDUSTRY_AGRICULTURE: Industry - 11 Agriculture, forestry, fishing and hunting. e.g., 150"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,industry_mining,int,"INDUSTRY_MINING: Industry - 21 Mining, quarrying, and oil and gas extraction. e.g., 325"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,industry_utilities,int,"INDUSTRY_UTILITIES: Industry - 22 Utilities. e.g., 45"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,industry_construction,int,"INDUSTRY_CONSTRUCTION: Industry - 23 Construction. e.g., 615"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,industry_manufacturing,int,"INDUSTRY_MANUFACTURING: Industry - 31-33 Manufacturing. e.g., 445"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,industry_wholesale,int,"INDUSTRY_WHOLESALE: Industry - 41 Wholesale trade. e.g., 280"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,industry_retail,int,"INDUSTRY_RETAIL: Industry - 44-45 Retail trade. e.g., 1605"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,industry_transport,int,"INDUSTRY_TRANSPORT: Industry - 48-49 Transportation and warehousing. e.g., 465"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,industry_info_cultural,int,"INDUSTRY_INFO_CULTURAL: Industry - 51 Information and cultural industries. e.g., 255"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,industry_finance_insurance,int,"INDUSTRY_FINANCE_INSURANCE: Industry - 52 Finance and insurance. e.g., 365"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,industry_realestate,int,"INDUSTRY_REALESTATE: Industry - 53 Real estate and rental and leasing. e.g., 170"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,industry_professional,int,"INDUSTRY_PROFESSIONAL: Industry - 54 Professional, scientific and technical services. e.g., 465"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,industry_management,int,"INDUSTRY_MANAGEMENT: Industry - 55 Management of companies and enterprises. e.g., 0"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,industry_admin_waste,int,"INDUSTRY_ADMIN_WASTE: Industry - 56 Administrative and support, waste management and remediation services. e.g., 355"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,industry_education,int,"INDUSTRY_EDUCATION: Industry - 61 Educational services. e.g., 755"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,industry_health,int,"INDUSTRY_HEALTH: Industry - 62 Health care and social assistance. e.g., 1290"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,industry_arts_rec,int,"INDUSTRY_ARTS_REC: Industry - 71 Arts, entertainment and recreation. e.g., 200"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,insustry_accomm_food,int,"INSUSTRY_ACCOMM_FOOD: Industry - 72 Accommodation and food services. e.g., 835"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,industry_other,int,"INDUSTRY_OTHER: Industry - 81 Other services (except public administration). e.g., 610"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,industry_public_admin,int,"INDUSTRY_PUBLIC_ADMIN: Industry - 91 Public administration. e.g., 490"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,occupation_management,int,"OCCUPATION_MANAGEMENT: Occupation - 0 Management occupations. e.g., 940"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,occupation_business,int,"OCCUPATION_BUSINESS: Occupation - 1 Business, finance and administration occupations. e.g., 1410"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,occupation_science,int,"OCCUPATION_SCIENCE: Occupation - 2 Natural and applied sciences and related occupations. e.g., 370"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,occupation_health,int,"OCCUPATION_HEALTH: Occupation - 3 Health occupations. e.g., 715"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,occupation_education_law,int,"OCCUPATION_EDUCATION_LAW: Occupation - 4 Occupations in education, law and social, community and government services. e.g., 1195"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,occupation_art_culture_rec,int,"OCCUPATION_ART_CULTURE_REC: Occupation - 5 Occupations in art, culture, recreation and sport. e.g., 175"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,occupation_sales_service,int,"OCCUPATION_SALES_SERVICE: Occupation - 6 Sales and service occupations. e.g., 2760"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,occupation_trades,int,"OCCUPATION_TRADES: Occupation - 7 Trades, transport and equipment operators and related occupations. e.g., 1620"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,occupation_resources_ag,int,"OCCUPATION_RESOURCES_AG: Occupation - 8 Natural resources, agriculture and related production occupations. e.g., 195"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,occupation_manufacturing,int,"OCCUPATION_MANUFACTURING: Occupation - 9 Occupations in manufacturing and utilities. e.g., 320"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,commute_median,int,"COMMUTE_MEDIAN: Median commuting duration (minutes). e.g., 10.2"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,laborforce_participation_male,float,"LABORFORCE_PARTICIPATN_MALE: Labour force participation rate - male. e.g., 67.3"
+DemographicsLabour,demographics_labour_csd.csv,demographics_labour_csd_METADATA.csv,laborforce_participation_female,float,"LABORFORCE_PARTICIPATN_FEMALE: Labour force participation rate - female. e.g., 59.3"
+Distances,origin_destination_csd.csv,origin_destination_csd_METADATA.csv,ORIGIN_ID,int,CENSUS_SUBDIVISION_ID of origin community
+Distances,origin_destination_csd.csv,origin_destination_csd_METADATA.csv,ORIGIN_NAME,varchar,Name of origin community
+Distances,origin_destination_csd.csv,origin_destination_csd_METADATA.csv,DESTINATION_ID,int,CENSUS_SUBDIVISION_ID of destination community
+Distances,origin_destination_csd.csv,origin_destination_csd_METADATA.csv,DESTINATION_NAME,varchar,Name of destination community
+Distances,origin_destination_csd.csv,origin_destination_csd_METADATA.csv,DRIVEDISTANCE_KM,int,Driving distance between origin community and destination communities
+Distances,origin_destination_csd.csv,origin_destination_csd_METADATA.csv,DRIVETIME_TEXT,varchar,A textual summary of the driving time between origin and destination communities
+Distances,origin_destination_csd.csv,origin_destination_csd_METADATA.csv,DRIVETIME_MINUTES,int,Drive time in minutes between origin and destination communities
+Distances,origin_destination_csd.csv,origin_destination_csd_METADATA.csv,FERRY_IND,varchar,Indicates if ferry travel is required between the origin and destination communities
+Elevation,elevation.csv,elevation_METADATA.csv,CENSUS_SUBDIVISION_ID,Text,"CENSUS_SUBDIVISION_ID: Foreign Key, linking to CENSUS_SUBDIVISION_ID in CEN_CENSUS_SUBDIVISIONS, e.g., 5901022"
+Elevation,elevation.csv,elevation_METADATA.csv,ELEVATION_POINT,Number,Elevation (m) at the location of the census subdivision reference point
+Elevation,elevation.csv,elevation_METADATA.csv,ELEVATION_MEAN,Number,Mean elevation (m) throughout the terrestrial portion of the census subdivision
+Elevation,elevation.csv,elevation_METADATA.csv,ELEVATION_MAX,Number,Maximum elevation (m) within the census subdivision
+Elevation,elevation.csv,elevation_METADATA.csv,ELEVATION_MIN,Number,Minimum elevation (m) within the census subdivision
+LabourMarket,JTST_CENSUS_geographies_xref.csv,JTST_CENSUS_geographies_xref_METADATA.csv,jtst_geography_id,text,JTST_GEOGRAPHY_ID: is a foreign Key to link to JTST_GEOGRAPHY_IDs in various JTST Labour Market tables
+LabourMarket,JTST_CENSUS_geographies_xref.csv,JTST_CENSUS_geographies_xref_METADATA.csv,statscan_geography_id,text,GEOGRAPHY_ID: is a foreign Key to link to IDs in CENSUS geography tables
+LabourMarket,lmsm_regional_3digitnoc.csv,lmsm_regional_3digitnoc_METADATA.csv,jtst_geography_id,text,JTST_GEOGRAPHY_ID: The ID of the JTST geography. This links to census geographies via JTST_CENSUS_GEOGRAPHIES_XREF.csv
+LabourMarket,lmsm_regional_3digitnoc.csv,lmsm_regional_3digitnoc_METADATA.csv,jtst_geography_name,text,Name of the geography represented
+LabourMarket,lmsm_regional_3digitnoc.csv,lmsm_regional_3digitnoc_METADATA.csv,projection_year,text,The year to which the estimate corresponds
+LabourMarket,lmsm_regional_3digitnoc.csv,lmsm_regional_3digitnoc_METADATA.csv,occupation_code,text,An occupation's National Occupational Classification (NOC) code
+LabourMarket,lmsm_regional_3digitnoc.csv,lmsm_regional_3digitnoc_METADATA.csv,occupation_description,text,An occupation's National Occupational Classification (NOC) title
+LabourMarket,lmsm_regional_3digitnoc.csv,lmsm_regional_3digitnoc_METADATA.csv,occupation_characteristic,text,"The occupation charachteristic estimate reported on. Possible values include : 
+1. Demand Outlook: The number of workers needed (employment) as well as the number of workers that are normally unemployed (because they are transitioning between jobs, responding to seasonal fluctuations, or their skills do not match those required by employers). May be zero for an occupation in some regions, which implies that the occupation does not exist in the region.
+2. Supply Outlook: The possible labour force, including supply from new entrants and from migrants. May be zero for an occupation in some regions, which implies that the occupation does not exist in the region.
+3. Supply less Demand: The difference between the Supply Outlook and Demand Outlook. If this value is positive, then Supply is greater than Demand.
+4. Supply/Demand: The ratio of the Supply Outlook to the Demand Outlook. If this ratio is greater than 1, Supply is greater than Demand, suggesting an excess supply of labour. If the ratio is less than 1, Supply is less than Demand, suggesting an excess demand for labour.
+5. Total Openings Outlook Openings Outlook: Estimated number of job openings over the outlook period due to expansion and replacement.
+6. Expansion: New job openings that arise due to economic and industry growth. It is the difference between the Demand Outlook in 2020 and 2010.
+7. Replacement: Job openings that need to be filled due to retirements and deaths.
+"
+LabourMarket,lmsm_regional_3digitnoc.csv,lmsm_regional_3digitnoc_METADATA.csv,value,number,"Estimated value for the specified geography, year, occupation, characteristic combination"
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,NOC_2011_CODE,Number,Occupational code as per NOC 2011 classification
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,NOC_2011_DESCRIPTION,Text,Occupational code description as per NOC 2011 classification
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,B.C._MEDIAN,Number,B.C. median hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,B.C._LOW_10THPCTL,Number,B.C. 10th percentile hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,B.C._HIGH_90THPCTL,Number,B.C. 90th percentile hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,B.C._SOURCE,Text,B.C. hourly wage source
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,VANCOUVER_ISLAND_COAST_MEDIAN,Number,Vancouver Island Coast median hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,VIC_LOW_10THPCTL,Number,Vancouver Island Coast 10th percentile hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,VIC_HIGH_90THPCTL,Number,Vancouver Island Coast 90th percentile hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,VIC_YEAR,Text,Vancouver Island Coast hourly wage reference year
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,VIC_SOURCE,Text,Vancouver Island Coast hourly wage source
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,NORTHEAST_MEDIAN,Number,Northeast median hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,NE_LOW_10THPCTL,Number,Northeast 10th percentile hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,NE_HIGH_90THPCTL,Number,Northeast 90th percentile hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,NE_YEAR,Text,Northeast hourly wage reference year
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,NE_SOURCE,Text,Northeast hourly wage source
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,NORTH_COAST_NECHAKO_MEDIAN,Number,North Coast Nechako median hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,NCN_LOW_10THPCTL,Number,North Coast Nechako 10th percentile hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,NCN_HIGH_90THPCTL,Number,North Coast Nechako 90th percentile hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,NCN_YEAR,Text,North Coast Nechako hourly wage reference year
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,NCN_SOURCE,Text,North Coast Nechako hourly wage source
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,THOMPSON-OKANAGAN_MEDIAN,Number,Thompson-Okanagan median hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,TOK_LOW_10THPCTL,Number,Thompson-Okanagan 10th percentile hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,TOK_HIGH_90THPCTL,Number,Thompson-Okanagan 90th percentile hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,TOK_YEAR,Text,Thompson-Okanagan hourly wage reference year
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,TOK_SOURCE,Text,Thompson-Okanagan hourly wage source
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,CARIBOO_MEDIAN,Number,Cariboo median hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,CAR_LOW_10THPCTL,Number,Cariboo 10th percentile hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,CAR_HIGH_90THPCTL,Number,Cariboo 90th percentile hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,CAR_YEAR,Text,Cariboo hourly wage reference year
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,CAR_SOURCE,Text,Cariboo hourly wage source
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,MAINLAND_SOUTHWEST_MEDIAN,Number,Mainland Southwest median hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,MSW_LOW_10THPCTL,Number,Mainland Southwest 10th percentile hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,MSW_HIGH_90THPCTL,Number,Mainland Southwest 90th percentile hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,MSW_YEAR,Text,Mainland Southwest hourly wage reference year
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,MSW_SOURCE,Text,Mainland Southwest hourly wage source
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,KOOTENAYS_MEDIAN,Number,Kootenays median hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,KOT_LOW_10THPCTL,Number,Kootenays 10th percentile hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,KOT_HIGH_90THPCTL,Number,Kootenays 90th percentile hourly wage
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,KOT_YEAR,Text,Kootenays hourly wage reference year
+LabourMarket,regional_noc_wages.csv,regional_noc_wages_METADATA.csv,KOT_SOURCE,Text,Kootenays hourly wage source
+LabourMarket,unemployment.csv,unemployment_METADATA.csv,jtst_geography_id,text,GEOGRAPHY_ID: is a foreign Key to link to IDs in CEN_CENSUS_ECONOMIC_REGIONS or CEN_CENSUS_METRO_AREAS
+LabourMarket,unemployment.csv,unemployment_METADATA.csv,unemployment_current,number,Current unemployment (percentage)
+LabourMarket,unemployment.csv,unemployment_METADATA.csv,unemployment_y1,number,One year forecast unemployment (percentage)
+LabourMarket,unemployment.csv,unemployment_METADATA.csv,unemployment_y2,number,Two year forecast unemployment (percentage)
+Languages,languages.csv,languages_METADATA.csv,CENSUS_SUBDIVISION_ID,Text,"CENSUS_SUBDIVISION_ID: Foreign Key, linking to CENSUS_SUBDIVISION_ID in CEN_CENSUS_SUBDIVISIONS, e.g., 5901022"
+Languages,languages.csv,languages_METADATA.csv,LANGUAGE,Text,Name of Statistics Canada specified language
+Languages,languages.csv,languages_METADATA.csv,COUNT_SPOKEN_AT_HOME,Number,Count of total population (excluding institutional residents) speaking specified language most often at home
+NetworkCoverage,network_coverage.csv,network_coverage_METADATA.csv,census_subdivision_id,int,take from matching_column in CEN_CENSUS_SUBDIVISIONS
+NetworkCoverage,network_coverage.csv,network_coverage_METADATA.csv,broadband_coverage,float,take from matching column in BCNC_BC_NETWORK_COVERAGE_SP
+NetworkCoverage,network_coverage.csv,network_coverage_METADATA.csv,dsl_cable_coverage,float,take from matching column in BCNC_BC_NETWORK_COVERAGE_SP
+NetworkCoverage,network_coverage.csv,network_coverage_METADATA.csv,fixed_wireless_coverage,float,take from matching column in BCNC_BC_NETWORK_COVERAGE_SP
+NetworkCoverage,network_coverage.csv,network_coverage_METADATA.csv,mobility_coverage,float,take from matching column in BCNC_BC_NETWORK_COVERAGE_SP
+NetworkCoverage,network_coverage.csv,network_coverage_METADATA.csv,satellite_coverage,float,take from matching column in BCNC_BC_NETWORK_COVERAGE_SP
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,census_division_id,text,"CENSUS_DIVISION_ID: is a foreign Key to link to CENSUS_DIVISION_ID in CEN_CENSUS_DIVISIONS, e.g., 5901."
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,projection_year,number,Year to which the projection population value applies
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,pop_lt1,number,"Projected population - less than 1 year. e.g., 1075"
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,pop_1_4,number,"Projected population - 1-4 years. e.g., 1075"
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,pop_5_9,number,"Projected population - 5-9 years. e.g., 1075"
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,pop_10_14,number,"Projected population - 10-14 years. e.g., 1075"
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,pop_15_19,number,"Projected population - 15-19 years. e.g., 1075"
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,pop_20_24,number,"Projected population - 20-24 years. e.g., 1075"
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,pop_25_29,number,"Projected population - 25-29 years. e.g., 1075"
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,pop_30_34,number,"Projected population - 30-34 years. e.g., 1075"
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,pop_35_39,number,"Projected population - 35-39 years. e.g., 1075"
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,pop_40_44,number,"Projected population - 40-44 years. e.g., 1075"
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,pop_45_49,number,"Projected population - 45-49 years. e.g., 1075"
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,pop_50_54,number,"Projected population - 50-54 years. e.g., 1075"
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,pop_55_59,number,"Projected population - 55-59 years. e.g., 1075"
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,pop_60_64,number,"Projected population - 60-64 years. e.g., 1075"
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,pop_65_69,number,"Projected population - 65-69 years. e.g., 1075"
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,pop_70_74,number,"Projected population - 70-74 years. e.g., 1075"
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,pop_75_79,number,"Projected population - 75-79 years. e.g., 1075"
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,pop_80_84,number,"Projected population - 80-84 years. e.g., 1075"
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,pop_85_89,number,"Projected population - 85-89 years. e.g., 1075"
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,pop_90plus,number,"Projected population - 90-years and over. e.g., 1075"
+PopulationProjections,population_projections.csv,population_projections_METADATA.csv,total,number,"Projected population - total. e.g., 1075"
+Taxation,MunicipalPropertyTaxRates.csv,MunicipalPropertyTaxRates_METADATA.csv,CENSUS_SUBDIVISION_ID,Text,"CENSUS_SUBDIVISION_ID: Foreign Key, linking to CENSUS_SUBDIVISION_ID in CEN_CENSUS_SUBDIVISIONS, e.g., 5901022"
+Taxation,MunicipalPropertyTaxRates.csv,MunicipalPropertyTaxRates_METADATA.csv,PURPOSE_OF_TAX,Text,"Where the given tax funds raised will be directed (eg Hospital, School)"
+Taxation,MunicipalPropertyTaxRates.csv,MunicipalPropertyTaxRates_METADATA.csv,RATE_RESIDENTIAL,number,Rate of property tax for properties classified as residential
+Taxation,MunicipalPropertyTaxRates.csv,MunicipalPropertyTaxRates_METADATA.csv,RATE_UTILITIY,number,Rate of property tax for properties classified as utility
+Taxation,MunicipalPropertyTaxRates.csv,MunicipalPropertyTaxRates_METADATA.csv,RATE_SUPPORTIVE,number,Rate of property tax for properties classified as supportive
+Taxation,MunicipalPropertyTaxRates.csv,MunicipalPropertyTaxRates_METADATA.csv,RATE_MAJOR_INDUSTRY,number,Rate of property tax for properties classified as major industry
+Taxation,MunicipalPropertyTaxRates.csv,MunicipalPropertyTaxRates_METADATA.csv,RATE_LIGHT_INDUSTRY,number,Rate of property tax for properties classified as light industry
+Taxation,MunicipalPropertyTaxRates.csv,MunicipalPropertyTaxRates_METADATA.csv,RATE_BUSINESS,number,Rate of property tax for properties classified as business
+Taxation,MunicipalPropertyTaxRates.csv,MunicipalPropertyTaxRates_METADATA.csv,RATE_MANAGED_FOREST,number,Rate of property tax for properties classified as managed forest
+Taxation,MunicipalPropertyTaxRates.csv,MunicipalPropertyTaxRates_METADATA.csv,RATE_RECREATION_NONPROFIT,number,Rate of property tax for properties classified as non profit recreation
+Taxation,MunicipalPropertyTaxRates.csv,MunicipalPropertyTaxRates_METADATA.csv,RATE_FARM,number,Rate of property tax for properties classified as farm
+Taxation,SalesAndIncomeTax.csv,SalesAndIncomeTax_METADATA.csv,TAX_DESCRIPTION,text,A general description of the tax
+Taxation,SalesAndIncomeTax.csv,SalesAndIncomeTax_METADATA.csv,TAX_TYPE,text,"Type of tax (ie Sales, Income)"
+Taxation,SalesAndIncomeTax.csv,SalesAndIncomeTax_METADATA.csv,TAX_JURISDICTION,text,"Level of government responsible for tax (ie Federal, Provincial)"
+Taxation,SalesAndIncomeTax.csv,SalesAndIncomeTax_METADATA.csv,TAX_CALCULATION,text,A description of how the tax is calculated (ie rate)
+Taxation,SalesAndIncomeTax.csv,SalesAndIncomeTax_METADATA.csv,TAX_RATE,text,"The rate at which the tax is applied, if charged as a rate"
+Taxation,SalesAndIncomeTax.csv,SalesAndIncomeTax_METADATA.csv,TAX_YEAR,text,Year to which the tax information is current
+Taxation,SalesAndIncomeTax.csv,SalesAndIncomeTax_METADATA.csv,URL,text,A url that provides more detailed information regarding the tax
+Taxation,SalesAndIncomeTax.csv,SalesAndIncomeTax_METADATA.csv,NOTES,text,Further notes and caveats regarding the tax information presented
+Taxation,SalesTax_ItemsSubjectTo.csv,SalesTax_ItemsSubjectTo_METADATA.csv,ITEM,text,Sample item noted by IEDC for sales tax rate reporting
+Taxation,SalesTax_ItemsSubjectTo.csv,SalesTax_ItemsSubjectTo_METADATA.csv,GST,numeric,Rate of GST to which the ITEM is subject
+Taxation,SalesTax_ItemsSubjectTo.csv,SalesTax_ItemsSubjectTo_METADATA.csv,PST,text,Rate of PST to which the ITEM is subject
+Taxation,SalesTax_ItemsSubjectTo.csv,SalesTax_ItemsSubjectTo_METADATA.csv,CARBON_TAX,text,Rate of Carbon tax to which the item is subject
+Taxation,SalesTax_ItemsSubjectTo.csv,SalesTax_ItemsSubjectTo_METADATA.csv,ICE,text,Rate of ICE (Innovative Clean Energy) Fund tax
+Taxation,SalesTax_ItemsSubjectTo.csv,SalesTax_ItemsSubjectTo_METADATA.csv,GST_NOTE,text,Notes releative to GST rate
+Taxation,SalesTax_ItemsSubjectTo.csv,SalesTax_ItemsSubjectTo_METADATA.csv,PST_NOTE,text,Notes relative to PST rate
+Taxation,SalesTax_ItemsSubjectTo.csv,SalesTax_ItemsSubjectTo_METADATA.csv,PST_BULLETIN,text,Reference bulletin for more info regarding PST rate

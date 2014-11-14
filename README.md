@@ -22,8 +22,9 @@ Data is stored as .csv files in the `/dissdata/data` folder.
 Browse the README files in each subfolder for information about the data files included, such as:
 - title
 - description
+- source
 - caveats
-- detailed preparation notes  
+- preparation notes  
 
 See the `_METADATA.csv` files that correspond to each data file for detailed descriptions of each column in the data file.
 

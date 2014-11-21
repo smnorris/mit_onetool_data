@@ -38,6 +38,7 @@ JTST
 - data file `4 digit wages by region.xlsx` provided by JTST (nick.bystedt@gov.bc.ca)
 - field descriptions provided by JTST
 - modified field names to remove special characters
+- converted to utf-8
 
 # unemployment.csv
 

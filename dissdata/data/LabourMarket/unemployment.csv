@@ -1,1 +1,18 @@
-geography_id,geography_type_description,geography_type_code,unemployment_current,unemployment_y1,unemployment_y259,Province,PR,6.1,6.8,6.85950,Economic Region,ER,5.8,5.2,4.65940,Economic Region,ER,5.6,6.9,6.85920,Economic Region,ER,6.2,7,7.25970,Economic Region,ER,10,11.5,11.85960,Economic Region,ER,10,11.5,11.85980,Economic Region,ER,3.9,5.8,5.75930,Economic Region,ER,6.2,7.2,6.85910,Economic Region,ER,6.2,5.6,5.159933,Census Metropolitan Area / Census Agglomeration,CMA/CA,6.1,,59932,Census Metropolitan Area / Census Agglomeration,CMA/CA,7.4,,59935,Census Metropolitan Area / Census Agglomeration,CMA/CA,5.5,,59938,Census Metropolitan Area / Census Agglomeration,CMA/CA,7.7,,59925,Census Metropolitan Area / Census Agglomeration,CMA/CA,8.3,,59918,Census Metropolitan Area / Census Agglomeration,CMA/CA,,,59915,Census Metropolitan Area / Census Agglomeration,CMA/CA,5.1,,59970,Census Metropolitan Area / Census Agglomeration,CMA/CA,5.2,,
+census_year,geography_id,geography_type_description,geography_type_code,unemployment_current,unemployment_y1,unemployment_y2
+2011,59,Province,PR,6.1,6.8,6.8
+2011,5950,Economic Region,ER,5.8,5.2,4.6
+2011,5940,Economic Region,ER,5.6,6.9,6.8
+2011,5920,Economic Region,ER,6.2,7,7.2
+2011,5970,Economic Region,ER,10,11.5,11.8
+2011,5960,Economic Region,ER,10,11.5,11.8
+2011,5980,Economic Region,ER,3.9,5.8,5.7
+2011,5930,Economic Region,ER,6.2,7.2,6.8
+2011,5910,Economic Region,ER,6.2,5.6,5.1
+2011,59933,Census Metropolitan Area / Census Agglomeration,CMA/CA,6.1,,
+2011,59932,Census Metropolitan Area / Census Agglomeration,CMA/CA,7.4,,
+2011,59935,Census Metropolitan Area / Census Agglomeration,CMA/CA,5.5,,
+2011,59938,Census Metropolitan Area / Census Agglomeration,CMA/CA,7.7,,
+2011,59925,Census Metropolitan Area / Census Agglomeration,CMA/CA,8.3,,
+2011,59918,Census Metropolitan Area / Census Agglomeration,CMA/CA,,,
+2011,59915,Census Metropolitan Area / Census Agglomeration,CMA/CA,5.1,,
+2011,59970,Census Metropolitan Area / Census Agglomeration,CMA/CA,5.2,,

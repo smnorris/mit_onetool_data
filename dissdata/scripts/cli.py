@@ -64,6 +64,35 @@ def get_header(f):
         header = [r.lower() for r in reader.fieldnames]
     return header
 
+def write_insert(writer, data, newrow, line=None):
+    writer.writeheader()
+    for i, row in enumerate(data):
+        if line and i == line:
+            writer.writerow(newrow)
+        writer.writerow(row)
+    # if line number wasn't specified, just tag new row on at the end
+    if not line:
+        writer.writerow(newrow)
+
+def insert_row(incsv, row, line, output=None):
+    """
+    insert provided row at specified line number
+    (where line number of header=0)
+    """
+    # if no output specified, overwrite file
+    if not output:
+        output = incsv
+    data = read_datafile(incsv)
+    header = get_header(incsv)
+    if output == sys.stdout:
+        writer = CSVKitDictWriter(output, header)
+        write_insert(writer, data, row, line)
+    else:
+        with open(output, "w") as openfile:
+            writer = CSVKitDictWriter(openfile, header)
+            write_insert(writer, data, row, line)
+
+
 @click.group()
 def cli():
     pass
@@ -102,6 +131,11 @@ def add_census_year(suffix):
             for row in data:
                 row[u"census_year"] = 2011
             # overwrite file
-            fileName, fileExtension = os.path.splitext(datafile)
-            # write_csv(fileName+suffix+fileExtension, columns, data)
             write_csv(datafile, columns, data)
+        # add to metadata
+        fileName, fileExtension = os.path.splitext(datafile)
+        metafile = fileName+"_METADATA"+fileExtension
+        newline = {"field": "census_year",
+                   "type": "number",
+                   "description": "CENSUS YEAR is the census year that the data is collected. e.g., 2006, 2011."}
+        insert_row(metafile, newline, 1)

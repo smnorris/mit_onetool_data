@@ -111,9 +111,7 @@ def summarize():
 
 
 @cli.command()
-@click.argument('suffix',
-                default="yr")
-def add_census_year(suffix):
+def add_census_year():
     """
     Add CENSUS_YEAR field to all BCGW bound data.
     Set census_year to 2011.

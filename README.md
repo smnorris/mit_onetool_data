@@ -9,6 +9,21 @@ pip install -e https://github.com/smnorris/dissdata/zipball/master
 
 This installs only to local folder, rather than the system python's site-packages.
 
+This is still problematic on GTS though due to permissions:
+- required packages installed by other users cannot be updated
+- using -e either requires git or a pip version greater than what is on GTS
+
+install to a virtualenv instead:
+
+```
+pip install virtualenv
+mkdir dissdata_env
+virtualenv dissdata_env
+dissdata_env/Scripts/activate
+pip install https://github.com/smnorris/dissdata/zipball/master
+```
+
+
 ## Requirements
 dissdata is tested only on Python 2.7.  
 

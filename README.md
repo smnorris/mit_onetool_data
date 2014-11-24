@@ -4,7 +4,7 @@ Data collection for MIT's DISS application
 
 ## Installation
 ```
-pip install -e githttps://github.com/smnorris/dissdata/zipball/master
+$ pip install -e git+http://github.com/smnorris/dissdata.git#egg=dissdata
 ```
 
 This installs only to local folder, rather than the system python's site-packages.
@@ -18,8 +18,9 @@ pip install virtualenv
 mkdir dissdata_env
 virtualenv dissdata_env
 dissdata_env/Scripts/activate
-- download zipfile from github
-- unzip
+- manually download zipfile from github 
+- unzip, rename dissdata-master to dissdata, move into dissdata_env
+cd dissdata_env
 cd dissdata
 pip install -e .
 ```

@@ -12,6 +12,7 @@ import fnmatch
 import os
 import sys
 from csvkit import CSVKitDictReader, CSVKitDictWriter
+import shutil
 
 STAGING_AREA = r"\\data.bcgov\data_staging_bcgw\socio_economic"
 
@@ -151,8 +152,8 @@ def deliver_bcgw():
     for row in dissdata.filelist:
         srcFile = os.path.join(dissdata.path, "data", row["folder"], row["datafile"])
         if row["destination"] == 'BCGW' and row["status"] == "DLVR":
-            print os.path.join(datafile, path)
-            shutil.copy(os.path.join(datafile, path), os.path.join(STAGING_AREA, datafile))
+            print os.path.join(srcFile)
+            shutil.copy(srcFile, os.path.join(STAGING_AREA, row["datafile"]))
 
 @cli.command()
 def remap_languages():

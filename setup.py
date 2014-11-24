@@ -19,6 +19,7 @@ setup(name='dissdata',
       license='MIT',
       packages=find_packages(exclude=['ez_setup', 'examples', 'tests']),
       include_package_data=True,
+      package_data={'dissdata': ['data/*.*']},
       zip_safe=False,
       install_requires=[
           'click',

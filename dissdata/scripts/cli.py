@@ -108,8 +108,8 @@ def summarize():
      - scans all folders, reading _METADATA.csv files
      - dumps results to stdout, in a format suitable for writing to csv
     """
-    outFields = ["folder", "data_csv", "metadata_csv", "field", "type", "description"]
-    csvfiles = find_files("*_METADATA.csv", "dissdata/data")
+    outFields = ["folder", "datafile", "metadata_csv", "field", "type", "description"]
+    csvfiles = find_files("*_METADATA.csv", dissdata.path)
     csvdata = read_metafiles(csvfiles)
     write_csv(sys.stdout, outFields, csvdata)
 

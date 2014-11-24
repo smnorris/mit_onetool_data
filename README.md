@@ -9,7 +9,7 @@ pip install -e githttps://github.com/smnorris/dissdata/zipball/master
 
 This installs only to local folder, rather than the system python's site-packages.
 
-This is problematic on GTS though - git isn't installed and dealing with packages installed by other users is problematic.
+This is problematic on GTS though - git isn't installed and dealing with packages installed by other users is problematic due to permissions.
 
 install to a virtualenv instead:
 

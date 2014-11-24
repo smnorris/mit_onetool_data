@@ -1,6 +1,6 @@
 from codecs import open
 from setuptools import setup, find_packages
-
+import os
 
 # Get the long description from the relevant file
 with open('README.md', encoding='utf-8') as f:

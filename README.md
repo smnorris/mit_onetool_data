@@ -4,7 +4,7 @@ Data collection for MIT's DISS application
 
 ## Installation
 ```
-pip install -e https://github.com/smnorris/dsspy/zipball/master
+pip install -e https://github.com/smnorris/dissdata/zipball/master
 ```
 
 This installs only to local folder, rather than the system python's site-packages.

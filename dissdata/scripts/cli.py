@@ -13,6 +13,8 @@ import os
 import sys
 from csvkit import CSVKitDictReader, CSVKitDictWriter
 
+STAGING_AREA = r"\\data.bcgov\data_staging_bcgw\socio_economic"
+
 # For some reason piping result bails
 # the internet tells me to fix it like this:
 # http://stackoverflow.com/questions/14207708/ioerror-errno-32-broken-pipe-python
@@ -137,3 +139,23 @@ def add_census_year():
                    "type": "number",
                    "description": "CENSUS YEAR is the census year that the data is collected. e.g., 2006, 2011."}
         insert_row(metafile, newline, 1)
+
+@cli.command()
+def deliver_bcgw():
+    """
+    Copy all BCGW bound datafiles to STAGING_AREA
+    """
+    print 'Delivering data to BCGW staging folder'
+    for row in dissdata.filelist:
+        srcFile = os.path.join(dissdata.path, "data", row["folder"], row["datafile"])
+        if row["destination"] == 'BCGW' and row["status"] == "DLVR":
+            print os.path.join(datafile, path)
+            shutil.copy(os.path.join(datafile, path), os.path.join(STAGING_AREA, datafile))
+
+@cli.command()
+def remap_languages():
+    """
+    move language data around to match other census data
+    ie, attributes in simple columns, single row for each geography
+    """
+

@@ -4,9 +4,12 @@ Data collection for MIT's DISS application
 
 ## Installation
 ```
-$ pip install -e git+http://github.com/smnorris/dissdata.git#egg=dissdata
+pip install -e https://github.com/smnorris/dsspy/zipball/master
 ```
 
+This installs only to local folder, rather than the system python's site-packages.
+
+## Requirements
 dissdata is tested only on Python 2.7.  
 
 Python requirements are:

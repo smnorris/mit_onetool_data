@@ -4,14 +4,12 @@ Data collection for MIT's DISS application
 
 ## Installation
 ```
-pip install -e https://github.com/smnorris/dissdata/zipball/master
+pip install -e githttps://github.com/smnorris/dissdata/zipball/master
 ```
 
 This installs only to local folder, rather than the system python's site-packages.
 
-This is still problematic on GTS though due to permissions:
-- required packages installed by other users cannot be updated
-- using -e either requires git or a pip version greater than what is on GTS
+This is problematic on GTS though - git isn't installed and dealing with packages installed by other users is problematic.
 
 install to a virtualenv instead:
 
@@ -20,7 +18,10 @@ pip install virtualenv
 mkdir dissdata_env
 virtualenv dissdata_env
 dissdata_env/Scripts/activate
-pip install https://github.com/smnorris/dissdata/zipball/master
+- download zipfile from github
+- unzip
+cd dissdata
+pip install -e .
 ```
 
 

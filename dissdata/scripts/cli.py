@@ -20,8 +20,10 @@ STAGING_AREA = r"\\data.bcgov\data_staging_bcgw\socio_economic"
 # http://stackoverflow.com/questions/14207708/ioerror-errno-32-broken-pipe-python
 # note that this is also referred to in csvkit itself
 # https://github.com/onyxfish/csvkit/blob/master/csvkit/cli.py
-from signal import signal, SIGPIPE, SIG_DFL
-signal(SIGPIPE,SIG_DFL)
+# but don't use on windows!
+if not os.environ.get("OS", '').lower().startswith('windows'):
+    from signal import signal, SIGPIPE, SIG_DFL
+    signal(SIGPIPE,SIG_DFL)
 
 def find_files(filepat, top):
     for path, dirlist, filelist in os.walk(top):

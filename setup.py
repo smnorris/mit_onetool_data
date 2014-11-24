@@ -18,11 +18,6 @@ setup(name='dissdata',
       url='https://github.com/smnorris/dissdata',
       license='MIT',
       packages=find_packages(exclude=['ez_setup', 'examples', 'tests']),
-      include_package_data=True,
-      package_data = {
-          # If any package contains *.md or *.csv files, include them:
-          '': ['*.csv','*.md']
-      },
       zip_safe=False,
       install_requires=[
           'click',

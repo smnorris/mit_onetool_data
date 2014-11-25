@@ -13,7 +13,6 @@ import os
 import sys
 from csvkit import CSVKitDictReader, CSVKitDictWriter
 import shutil
-import dataset
 import pandas as pd
 from sqlalchemy import create_engine
 
@@ -160,8 +159,11 @@ def deliver_bcgw():
 
 def compare(df1, df2):
     # compare column names
-    c1= set(df1.columns)
-    c2= set(df2.columns)
+
+    c1= set([c for c in df1.columns])
+    c2= set([c for c in df2.columns])
+    print len(c1)
+    print len(c2)
     if c1 == c2:
         print 'All column names match'
     else:
@@ -171,7 +173,6 @@ def compare(df1, df2):
     types1 = [t for t in df1.dtypes]
     types2 = [t for t in df2.dtypes]
     if types1 == types2:
-        print len(types1), len(types2)
         print 'Data types match'
     else:
         print 'Data types do not exactly match'
@@ -184,6 +185,7 @@ def compare(df1, df2):
     else:
         print "n_rows1, n_rows2"+str((len(df1), len(df2)))
     # compare data values
+    df1.sort(axis=0) == df2.sort(axis=0)
     ne = (df1 != df2).any(1)
     ne_stacked = (df1 != df2).stack()
     changed = ne_stacked[ne_stacked]
@@ -196,23 +198,29 @@ def compare(df1, df2):
 
 
 @cli.command()
-@click.argument("usr")
-@click.argument("pwd")
+@click.argument("usr", default="postgres")
+@click.argument("pwd", default="postgres")
 def test(usr, pwd):
     """
     Use pandas to quickly compare data in TEST to delivered csv
     """
     # get data to test
     forTesting = [row for row in dissdata.filelist if row["status"] == "TEST"]
-    TEST = r"oracle+cx_oracle://{usr}:{pwd}@sponde.bcgov:5152/IDWTEST1".format(usr=usr,
+    TEST = r"postgresql+psycopg2://{usr}:{pwd}@localhost:5432/postgis".format(usr=usr,
                                                                                pwd=pwd)
+    schema = "idwtest1"
     for row in forTesting:
+
         #srcFile = os.path.join(STAGING_AREA, row["datafile"])
         srcFile = os.path.join(dissdata.path, "data", row["folder"], row["datafile"])
         print srcFile
+        if "_cd_bc.csv" in srcFile:
+            pk = "census_division_id"
+        else:
+            pk = "census_subdivision_id"
         # read source data
         df1 = pd.read_csv(srcFile, index_col=[0,1])
-
+        print df1.columns
         # create a quick test db for trying this out
 
         #table = os.path.splitext(srcFile)[0]
@@ -221,9 +229,13 @@ def test(usr, pwd):
         # read test data
         engine = create_engine(TEST)
         destTable = row["bcgw_table"]
-        dftmp = pd.read_sql_table(destTable, engine)
+        dftmp = pd.read_sql_table(destTable, engine, schema=schema)
         # alter indexes
-        df2 = dftmp.set_index([u'census_year', u'census_divsion_id'])
-        df2 = pd.DataFrame(df2)
+        #print dftmp
 
+        df2 = dftmp.set_index([u'census_year',pk])
+        df2 = pd.DataFrame(df2)
+        df2 = df2.drop('ogc_fid', 1)
+
+        #print df2["q"]
         compare(df1, df2)

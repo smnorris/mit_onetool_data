@@ -19,7 +19,7 @@ def get_datadef(inFile):
     # load definitions of each desired output column
     # Statscan (census, nhs) only!
     outList = []
-    for row in csv.DictReader(open(inFile, 'rb')):
+    for row in csv.DictReader(open(inFile, 'rbU')):
         if row["SOURCE_TABLE"] in ["census", "nhs"]:
             outList.append(row)
     return outList
@@ -297,11 +297,11 @@ cd = {"output": "mit.demographics_labour_cd",
 levels = [csd, cd]
 
 # create clean source tables from the data loaded to db from source csv
-create_census_source(db)
-create_nhs_source(db)
+#create_census_source(db)
+#create_nhs_source(db)
 
 # create outputs
-for level in [cd]:
+for level in [csd]:
     create_output_table(db, meta, level)
     populate_output_table(db, meta, level)
 

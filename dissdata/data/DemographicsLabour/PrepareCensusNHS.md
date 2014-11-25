@@ -128,7 +128,8 @@ $ csvsql --db postgresql://postgres:postgres@localhost:5432/postgis --table nhs_
 Also load spatial data to postgres. A .gdb was provided by GeoBC (Natalie Work) that defines the various geographical boundaries. Load csd and cd tables to the same postgres schema.
 
 ## Process the data in postgres to match MIT requirements
-This is all scripted in `src\ProcessStatsCanData.py`
+This is scripted in `src\ProcessStatsCanData.py`
 Output tables are
 - demographics_labour_csd
 - demographics_labour_cd
+Output tables manually copied to csv, slight reordering, renaming of columns.

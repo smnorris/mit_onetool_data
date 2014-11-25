@@ -31,7 +31,8 @@ dissdata is tested only on Python 2.7.
 
 Python requirements are:
 - [click](http://click.pocoo.org/3/)
-- [csvkit](http://csvkit.readthedocs.org/en/latest/index.html)  
+- [csvkit](http://csvkit.readthedocs.org/en/latest/index.html) 
+- [pandas](http://pandas.pydata.org/)
 
 When installing with pip, pip should fetch these for you.
 

@@ -9,22 +9,6 @@ $ pip install -e git+http://github.com/smnorris/dissdata.git#egg=dissdata
 
 This installs only to local folder, rather than the system python's site-packages.
 
-This is problematic on GTS though - git isn't installed and dealing with packages installed by other users is problematic due to permissions.
-
-install to a virtualenv instead:
-
-```
-pip install virtualenv
-mkdir dissdata_env
-virtualenv dissdata_env
-dissdata_env/Scripts/activate
-- manually download zipfile from github 
-- unzip, rename dissdata-master to dissdata, move into dissdata_env
-cd dissdata_env
-cd dissdata
-pip install -e .
-```
-
 
 ## Requirements
 dissdata is tested only on Python 2.7.  
@@ -35,7 +19,6 @@ Python requirements are:
 - [pandas](http://pandas.pydata.org/)
 
 When installing with pip, pip should fetch these for you.
-
 
 
 ## Usage

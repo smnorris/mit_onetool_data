@@ -1,12 +1,1 @@
-field,description,type
-CENSUS_SUBDIVISION_ID,"CENSUS_SUBDIVISION_ID: Foreign Key, linking to CENSUS_SUBDIVISION_ID in CEN_CENSUS_SUBDIVISIONS, e.g., 5901022",Text
-census_year,"CENSUS YEAR is the census year that the data is collected. e.g., 2006, 2011.",number
-TMAX01,Maximum mean temperature (째C) - January,Number
-TMAX07,Maximum mean temperature (째C) - July,Number
-TMIN01,Minimum mean temperature (째C) - January,Number
-TMIN07,Minimum mean temperature (째C) - July,Number
-TAVE01,Mean temperature (째C) - January,Number
-TAVE07,Mean temperature (째C) - July,Number
-MAP,Mean annual Precipitation (mm),Number
-PAS,Precipitation as snow (mm) between August in previous year and July in current year. Note that this corresponds roughly to snowfall in cm.,Number
-MAR,Mean annual rainfall (mm) (MAP - PAS),Number
+field,description,typeCENSUS_SUBDIVISION_ID,"CENSUS_SUBDIVISION_ID: Foreign Key, linking to CENSUS_SUBDIVISION_ID in CEN_CENSUS_SUBDIVISIONS, e.g., 5901022",stringcensus_year,"CENSUS YEAR is the census year that the data is collected. e.g., 2006, 2011.",integerTMAX01,Average daily maximum air temperature (좧) - January,floatTMAX07,Average daily maximum air temperature (좧) - July,floatTMIN01,Average daily minimum air temperature (좧) - January,floatTMIN07,Average daily minimum air temperature (좧) - July,floatTAVE01,Mean temperature (좧) - January,floatTAVE07,Mean temperature (좧) - July,floatMAP,Mean annual Precipitation (mm),floatPAS,Precipitation as snow (mm) between August in previous year and July in current year. Note that this corresponds roughly to snowfall in cm.,floatMAR,Mean annual rainfall (mm) (MAP - PAS),float

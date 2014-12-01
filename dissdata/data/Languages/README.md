@@ -49,7 +49,8 @@ $ csvsql --db postgresql://postgres:postgres@localhost:5432/postgis --table cens
 SELECT
  census_subdivision_id AS "CENSUS_SUBDIVISION_ID", 
  language AS "LANGUAGE",
- SUM(total) AS "COUNT_SPOKEN_AT_HOME"
+ SUM(total) AS "COUNT_SPOKEN_AT_HOME",
+ flag AS census_flag
 FROM 
 
 ( 
@@ -69,7 +70,8 @@ SELECT
   THEN 'English and French'
   ELSE 'Other non-official language'
  END AS language,
- total
+ total,
+ flag
 FROM 
 
 (
@@ -78,8 +80,9 @@ SELECT
  src."Geo_Code" census_subdivision_id, 
  src."CSD_Name" AS census_subdivision_name,
  src."Characteristics" AS language,
- src."Total" AS total
-FROM mitdataprep.census_src src
+ src."Total" AS total,
+ src."Flag_Total" AS flag
+FROM mit.census_src src
 WHERE "Topic" = 'Detailed language spoken most often at home'
 AND "Characteristics" NOT IN 
   ('Detailed language spoken most often at home - Total population excluding institutional residents', 
@@ -90,6 +93,43 @@ AND "Characteristics" NOT IN
    'Multiple responses')
 ORDER BY "Geo_Code", "Characteristics" ) AS subquery1
 ) AS subquery2
-GROUP BY census_subdivision_id, language
+GROUP BY census_subdivision_id, language, flag
 ORDER BY census_subdivision_id, language
+```
+- pivot data by:
+```
+# pivot_data.py
+import pandas as pd
+from collections import OrderedDict
+
+# map column names to language values
+languages = ["Arabic","Cantonese","Croatian","Czech","Dutch","English","English and French","Finnish","French","German","Greek","Hindi","Hungarian","Ilocano","Italian","Japanese","Korean","Malay","Mandarin","Other non-official language","Panjabi (Punjabi)","Persian (Farsi)","Polish","Portuguese","Romanian","Russian","Serbian","Spanish","Tagalog (Pilipino, Filipino)","Tamil","Ukrainian","Vietnamese"]
+columns = ["arabic","cantonese","croatian","czech","dutch","english","english_and_french","finnish","french","german","greek","hindi","hungarian","ilocano","italian","japanese","korean","malay","mandarin","other","panjabi","persian","polish","portuguese","romanian","russian","serbian","spanish","tagalog","tamil","ukrainian","vietnamese"]
+LANGUAGEDICT = OrderedDict()
+for l in zip(columns, languages):
+    LANGUAGEDICT[l[1]] = l[0]
+
+# read data from what was previously delivered
+datafile = r"/Volumes/Data/projects/mit/OneToolDataPrep/working/languages/econ_whse_languages_bc.csv"
+df = pd.read_csv(datafile)
+
+# pivot the data
+df = df.pivot(index="census_subdivision_id", columns="language", values="count_spoken_at_home")
+
+# rename columns
+df.rename(columns=LANGUAGEDICT, inplace=True)
+
+# put census year back in
+df['census_year'] = pd.Series(2011, index=df.index)
+
+# dump output
+df.to_csv(r'/Volumes/Data/projects/mit/OneToolDataPrep/dissdata/dissdata/data/Languages/econ_whse_languages_bc.csv')
+```
+- add census_flag 
+```SELECT
+ DISTINCT census_subdivision_id,
+ flag AS census_flag
+FROM (see query above)
+
+dump this to csv, join to the pivoted data with csvjoin, manually tweak column order
 ```

@@ -1,43 +1,1 @@
-field,type,description
-NOC_2011_CODE,Number,Occupational code as per NOC 2011 classification
-census_year,number,"CENSUS YEAR is the census year that the data is collected. e.g., 2006, 2011."
-NOC_2011_DESCRIPTION,Text,Occupational code description as per NOC 2011 classification
-B.C._MEDIAN,Number,B.C. median hourly wage
-B.C._LOW_10THPCTL,Number,B.C. 10th percentile hourly wage
-B.C._HIGH_90THPCTL,Number,B.C. 90th percentile hourly wage
-B.C._SOURCE,Text,B.C. hourly wage source
-VANCOUVER_ISLAND_COAST_MEDIAN,Number,Vancouver Island Coast median hourly wage
-VIC_LOW_10THPCTL,Number,Vancouver Island Coast 10th percentile hourly wage
-VIC_HIGH_90THPCTL,Number,Vancouver Island Coast 90th percentile hourly wage
-VIC_YEAR,Text,Vancouver Island Coast hourly wage reference year
-VIC_SOURCE,Text,Vancouver Island Coast hourly wage source
-NORTHEAST_MEDIAN,Number,Northeast median hourly wage
-NE_LOW_10THPCTL,Number,Northeast 10th percentile hourly wage
-NE_HIGH_90THPCTL,Number,Northeast 90th percentile hourly wage
-NE_YEAR,Text,Northeast hourly wage reference year
-NE_SOURCE,Text,Northeast hourly wage source
-NORTH_COAST_NECHAKO_MEDIAN,Number,North Coast Nechako median hourly wage
-NCN_LOW_10THPCTL,Number,North Coast Nechako 10th percentile hourly wage
-NCN_HIGH_90THPCTL,Number,North Coast Nechako 90th percentile hourly wage
-NCN_YEAR,Text,North Coast Nechako hourly wage reference year
-NCN_SOURCE,Text,North Coast Nechako hourly wage source
-THOMPSON-OKANAGAN_MEDIAN,Number,Thompson-Okanagan median hourly wage
-TOK_LOW_10THPCTL,Number,Thompson-Okanagan 10th percentile hourly wage
-TOK_HIGH_90THPCTL,Number,Thompson-Okanagan 90th percentile hourly wage
-TOK_YEAR,Text,Thompson-Okanagan hourly wage reference year
-TOK_SOURCE,Text,Thompson-Okanagan hourly wage source
-CARIBOO_MEDIAN,Number,Cariboo median hourly wage
-CAR_LOW_10THPCTL,Number,Cariboo 10th percentile hourly wage
-CAR_HIGH_90THPCTL,Number,Cariboo 90th percentile hourly wage
-CAR_YEAR,Text,Cariboo hourly wage reference year
-CAR_SOURCE,Text,Cariboo hourly wage source
-MAINLAND_SOUTHWEST_MEDIAN,Number,Mainland Southwest median hourly wage
-MSW_LOW_10THPCTL,Number,Mainland Southwest 10th percentile hourly wage
-MSW_HIGH_90THPCTL,Number,Mainland Southwest 90th percentile hourly wage
-MSW_YEAR,Text,Mainland Southwest hourly wage reference year
-MSW_SOURCE,Text,Mainland Southwest hourly wage source
-KOOTENAYS_MEDIAN,Number,Kootenays median hourly wage
-KOT_LOW_10THPCTL,Number,Kootenays 10th percentile hourly wage
-KOT_HIGH_90THPCTL,Number,Kootenays 90th percentile hourly wage
-KOT_YEAR,Text,Kootenays hourly wage reference year
-KOT_SOURCE,Text,Kootenays hourly wage source
+field,type,descriptionnoc_2011_code,integer,Occupational code as per NOC 2011 classificationcensus_year,integer,"CENSUS YEAR is the census year that the data is collected. e.g., 2006, 2011."noc_2011_description,string,Occupational code description as per NOC 2011 classificationb.c._median,float,B.C. median hourly wageb.c._low_10thpctl,float,B.C. 10th percentile hourly wageb.c._high_90thpctl,float,B.C. 90th percentile hourly wageb.c._source,string,B.C. hourly wage sourcevancouver_island_coast_median,float,Vancouver Island Coast median hourly wagevic_low_10thpctl,float,Vancouver Island Coast 10th percentile hourly wagevic_high_90thpctl,float,Vancouver Island Coast 90th percentile hourly wagevic_year,string,Vancouver Island Coast hourly wage reference yearvic_source,string,Vancouver Island Coast hourly wage sourcenortheast_median,float,Northeast median hourly wagene_low_10thpctl,float,Northeast 10th percentile hourly wagene_high_90thpctl,float,Northeast 90th percentile hourly wagene_year,string,Northeast hourly wage reference yearne_source,string,Northeast hourly wage sourcenorth_coast_nechako_median,float,North Coast Nechako median hourly wagencn_low_10thpctl,float,North Coast Nechako 10th percentile hourly wagencn_high_90thpctl,float,North Coast Nechako 90th percentile hourly wagencn_year,string,North Coast Nechako hourly wage reference yearncn_source,string,North Coast Nechako hourly wage sourcethompson-okanagan_median,float,Thompson-Okanagan median hourly wagetok_low_10thpctl,float,Thompson-Okanagan 10th percentile hourly wagetok_high_90thpctl,float,Thompson-Okanagan 90th percentile hourly wagetok_year,string,Thompson-Okanagan hourly wage reference yeartok_source,string,Thompson-Okanagan hourly wage sourcecariboo_median,float,Cariboo median hourly wagecar_low_10thpctl,float,Cariboo 10th percentile hourly wagecar_high_90thpctl,float,Cariboo 90th percentile hourly wagecar_year,string,Cariboo hourly wage reference yearcar_source,string,Cariboo hourly wage sourcemainland_southwest_median,float,Mainland Southwest median hourly wagemsw_low_10thpctl,float,Mainland Southwest 10th percentile hourly wagemsw_high_90thpctl,float,Mainland Southwest 90th percentile hourly wagemsw_year,string,Mainland Southwest hourly wage reference yearmsw_source,string,Mainland Southwest hourly wage sourcekootenays_median,float,Kootenays median hourly wagekot_low_10thpctl,float,Kootenays 10th percentile hourly wagekot_high_90thpctl,float,Kootenays 90th percentile hourly wagekot_year,string,Kootenays hourly wage reference yearkot_source,string,Kootenays hourly wage source

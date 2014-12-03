@@ -4,7 +4,7 @@
 A list of communities used in MIT's DISS application
 
 ## Description
-MIT's DSS applicatin is to report on a collection of communities/geographical areas.  defined as  Census Subdivisions (municipalities), First Nations, Census Divisions (Regional Districts) and Economic Regions.
+MIT's DSS application is to report on a collection of communities/geographical areas.  These are defined as  Census Subdivisions (municipalities), First Nations, Census Divisions (Regional Districts) and Economic Regions.
 
 ## Source
 Statistics Canada census geographies via GeoBC
@@ -60,6 +60,8 @@ DPLUID,DPLNAME
 ```
 extract them:
 `$ ogr2ogr -where "DPLNAME like '%Island Trust Area%'" islands_trust.shp gdp*shp`
+
+Then discard - after consultation, we aren't considering Islands Trust.
 
 
 

@@ -15,6 +15,7 @@ from csvkit import CSVKitDictReader, CSVKitDictWriter
 import shutil
 import pandas as pd
 from sqlalchemy import create_engine
+from collections import OrderedDict
 
 STAGING_AREA = r"\\data.bcgov\data_staging_bcgw\socio_economic"
 
@@ -239,3 +240,42 @@ def test(usr, pwd):
 
         #print df2["q"]
         compare(df1, df2)
+
+@cli.command()
+@click.argument("infile", type=click.Path(exists=True))
+def column_lengths(infile):
+    """
+    quickly report on max length of values in datafile
+    """
+
+    data = read_datafile(infile)
+    path, f = os.path.split(infile)
+    metafile = os.path.join(path, f.replace(".csv", "_METADATA.csv"))
+    meta = read_datafile(metafile)
+    typeDict = OrderedDict()
+
+    for c in meta:
+        column = c["field"]
+        if c["type"] == 'string':
+            typeDict[column] = ("Varchar2", str(max(set([len(row[column]) for row in data]))))
+        elif c["type"] == 'integer':
+            typeDict[column] = ("Number", str(max(set([len(row[column]) for row in data]))))
+        elif c["type"] == 'float':
+            precision = str(max(set([len(row[column].split(".")[0]) for row in data])))
+            l = []
+            for row in data:
+                if "." in row[column]:
+                    l.append(len(row[column].split(".")[1]))
+                else:
+                    l.append(0)
+            scale = max(l)
+            if scale == 0:
+                typeDict[column] = ("Number", precision)
+            else:
+                typeDict[column] = ("Number", precision+","+str(scale))
+    data = []
+    for metarow in meta:
+        data.append({"field": metarow["field"],
+                     "type": typeDict[metarow["field"]][0],
+                     "length": typeDict[metarow["field"]][1]})
+    write_csv(sys.stdout, ["field", "type","length"], data)

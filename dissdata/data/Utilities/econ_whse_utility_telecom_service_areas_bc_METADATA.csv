@@ -1,0 +1,1 @@
+field ,type,descriptioncensus_subdivision_id,string,census_subdivision_name,string,electrical_utility_id,integer,ID of electrical utility that serves the given communitygas_utility_1_id,,gas_utility_2_id,,

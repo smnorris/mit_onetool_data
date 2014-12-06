@@ -1,0 +1,1 @@
+field,type,descriptiontelecom_id,integer,"Primary key, unique identifier associated with the telecom company"telecom_name,string,Name of the telcom companyweb_url,string,Web site of the telecom companyaddress,string,Address of the telecom company

@@ -1,0 +1,1 @@
+field,type,descriptionpayroll_cost_category,string,"Type of payroll cost, ie Canada Pension, Workers Compensation, Employment Insurance"payroll_cost_details,string,Details of payroll cost item for IEDC reportingvalue,float,Amount of payroll costsource,string,Source for more info regarding given payroll costnotes,string,Notes and caveats regarding given payroll cost

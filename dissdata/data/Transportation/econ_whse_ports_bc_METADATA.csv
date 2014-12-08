@@ -1,0 +1,1 @@
+field,type,descriptioncensus_subdivision_id,string,"CENSUS_SUBDIVISION_ID: Foreign Key, linking to CENSUS_SUBDIVISION_ID in CEN_CENSUS_SUBDIVISIONS, e.g., 5901022"port_id,integer,Unique IDport_name,string,Port nameport_url,string,Port web site address

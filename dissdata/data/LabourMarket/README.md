@@ -40,6 +40,23 @@ JTST
 - modified field names to remove special characters
 - converted to utf-8
 
+### Dec 11 prep notes
+- received new file
+- in Refine, manually updated annual/hourly indicators, changing 'yes' to ANNUAL, 'no' to HOURLY
+- in Refine, manually converted salary values to number where provided as string
+- tidied column names and renamed file with this code:
+```
+import petl
+
+t = petl.fromcsv('wages_salaries.csv')
+t_header = petl.header(t)
+header_remap = {k: k.lower().replace(' ','_').replace('esdc_', '') for k in t_header}
+t2 = petl.rename(t, header_remap)
+petl.header(t2)
+petl.tocsv(t2, 'econ_labour_wages_tbl.csv')
+```
+
+
 # unemployment.csv
 
 ## Title

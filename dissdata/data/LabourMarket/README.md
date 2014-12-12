@@ -56,6 +56,9 @@ petl.header(t2)
 petl.tocsv(t2, 'econ_labour_wages_tbl.csv')
 ```
 
+### Dec 12 prep notes
+- renamed and re-orderd columns as per latest logfile
+- replaced all 'NA' occurences with (null)
 
 # unemployment.csv
 

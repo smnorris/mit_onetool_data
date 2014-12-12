@@ -1,11 +1,12 @@
 # econ_whse_energy_utilities_bc.csv
 
 ## Title
-Electrical utilities that serve British Columbia municipalities.
-Utility name, url and sample average rate charges ($/kWh) at small, medium and large levels.
+Energy utilities that serve British Columbia communities.
+
 
 ## Description
-A list of British Columbia electrical utilities and sample average rate charges ($/kWh) at small, medium and large levels.
+A list of British Columbia utilities and sample average rate charges.
+Utility name, url and sample average rate charges are provided. Intended use is for general community based economic reporting only, contact various providers for precise rate charges.
 
 ## Source
 List of utilities is from http://www.bcuc.com/Documents/MiscDocs/Regulated_Utilities.pdf. 
@@ -33,10 +34,10 @@ Use rate info with caution - average rates are approximations based on interpret
 # econ_whse_telecom_bc.ca
 
 ## Title
-A list of selected telecommunications companies serving BC municipalities.
+A list of selected major telecommunications companies serving British Columbia.
 
 ## Description
-A list of selected telecommunications companies serving BC municipalities.
+A list of selected major telecommunications companies serving British Columbia. Intended use is for general community based economic reporting.
 
 ## Source
 Telecom company names and addresses taken from their internet sites and existing Community Profiles data.
@@ -48,16 +49,19 @@ This list is not comprehensive
 Data taken from various telecom web sites and MIT Community Profiles. (community profiles data verified by internet search)
 
 
-# econ_whse_utility_telecom_service_areas_bc.csv
+# econ_whse_utility_service_areas_bc.csv
 
 ## Title
-A list identifying which utilities serve which BC municipalities.
+A matrix identifying which major utilities serve which British Columbia communities.
 
 ## Description
-For each municipality, lists electrical, natural gas, telecommunications companies that serve the municipality.
+Lists electrical, natural gas, telephone and cable companies that serve the included communities. The coverage areas are derived from Integrated Cadastral Information Society (ICIS) utility infrastructure mapping and Ministry of International Trade research. Use with caution and contact providers directly for property based service information.
 
 ## Source
-List of municipalities is from 2011 census subdivisions, plus Jumbo Glacier 
+- list of municipalities is from 2011 census subdivisions, plus Jumbo Glacier 
+- utility mapping (Telus, Shaw, Fortis) from ICIS
+- BC Utilites commission
+- MIT research for gaps in service areas
 
 ## Caveats etc
 Use the service area lists for general information only. This should not be used for site specific planning. Contact individual utilities/companies for more detailed information.

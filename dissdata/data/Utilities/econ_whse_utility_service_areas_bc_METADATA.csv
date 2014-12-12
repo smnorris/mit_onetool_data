@@ -1,1 +1,8 @@
-field ,type,descriptioncensus_subdivision_id,string,"CENSUS_SUBDIVISION_ID: Foreign Key, linking to CENSUS_SUBDIVISION_ID in CEN_CENSUS_SUBDIVISIONS_SP, e.g., 5901022"census_year,integer,"CENSUS_YEAR: is the census year that the data is collected. e.g., 2006, 2011. This field combining with CENSUS_SUBDIVISION_ID is the primary key "census_subdivision_name,string,Name of the communityenergy_utility_electric,integer,ID of electrical utility that serves the given communityenergy_utility_gas,integer,ID of gas utility that serves the communitytelcom_utility_phone,integer,ID of primary phone company that serves the communitytelcom_utility_cable,integer,ID of primary cable company that serves the community
+field,type,length,description
+census_subdivision_id,Varchar2,7,"CENSUS_SUBDIVISION_ID: Foreign Key, linking to CENSUS_SUBDIVISION_ID in CEN_CENSUS_SUBDIVISIONS_SP, e.g., 5901022"
+census_year,Number,4,"CENSUS_YEAR: is the census year that the data is collected. e.g., 2006, 2011. This field combining with CENSUS_SUBDIVISION_ID is the primary key "
+census_subdivision_name,Varchar2,22,Name of the community
+energy_utility_electric,Number,1,ID of electrical utility that serves the given community
+energy_utility_gas,Number,2,ID of gas utility that serves the community
+telcom_utility_phone,Number,1,ID of primary phone company that serves the community
+telcom_utility_cable,Number,1,ID of primary cable company that serves the community

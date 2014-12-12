@@ -255,27 +255,29 @@ def column_lengths(infile):
     typeDict = OrderedDict()
 
     for c in meta:
-        column = c["field"]
-        if c["type"] == 'string':
-            typeDict[column] = ("Varchar2", str(max(set([len(row[column]) for row in data]))))
-        elif c["type"] == 'integer':
-            typeDict[column] = ("Number", str(max(set([len(row[column]) for row in data]))))
-        elif c["type"] == 'float':
-            precision = str(max(set([len(row[column].split(".")[0]) for row in data])))
-            l = []
-            for row in data:
-                if "." in row[column]:
-                    l.append(len(row[column].split(".")[1]))
+        if c["field"]:
+            column = c["field"]
+            if c["type"] == 'string':
+                typeDict[column] = ("Varchar2", str(max(set([len(row[column]) for row in data]))))
+            elif c["type"] == 'integer':
+                typeDict[column] = ("Number", str(max(set([len(row[column]) for row in data]))))
+            elif c["type"] == 'float':
+                precision = str(max(set([len(row[column].split(".")[0]) for row in data])))
+                l = []
+                for row in data:
+                    if "." in row[column]:
+                        l.append(len(row[column].split(".")[1]))
+                    else:
+                        l.append(0)
+                scale = max(l)
+                if scale == 0:
+                    typeDict[column] = ("Number", precision)
                 else:
-                    l.append(0)
-            scale = max(l)
-            if scale == 0:
-                typeDict[column] = ("Number", precision)
-            else:
-                typeDict[column] = ("Number", precision+","+str(scale))
+                    typeDict[column] = ("Number", precision+","+str(scale))
     data = []
     for metarow in meta:
         data.append({"field": metarow["field"],
                      "type": typeDict[metarow["field"]][0],
-                     "length": typeDict[metarow["field"]][1]})
-    write_csv(sys.stdout, ["field", "type","length"], data)
+                     "length": typeDict[metarow["field"]][1],
+                     "description": metarow["description"]})
+    write_csv(sys.stdout, ["field", "type","length", "description"], data)

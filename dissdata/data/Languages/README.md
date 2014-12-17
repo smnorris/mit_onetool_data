@@ -133,4 +133,18 @@ FROM (see query above)
 
 dump this to csv, join to the pivoted data with csvjoin, manually tweak column order
 ```
-- remove '(null)' values inserted by pandas 
+- remove the '(null)' values inserted by pandas 
+```
+ipython
+
+import petl
+
+t = petl.fromcsv('econ_whse_languages_bc.csv')
+remap = {"(null)": ""}
+t2 = petl.convertall(t, remap)
+petl.tocsv("t.csv")
+exit()
+
+rm econ_whse_languages_bc.csv
+mv t.csv econ_whse_languages_bc.csv
+```

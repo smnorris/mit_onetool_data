@@ -133,3 +133,4 @@ FROM (see query above)
 
 dump this to csv, join to the pivoted data with csvjoin, manually tweak column order
 ```
+- remove '(null)' values inserted by pandas 

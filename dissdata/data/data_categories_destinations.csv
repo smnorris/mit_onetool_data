@@ -1,1 +1,29 @@
-folder,datafile,destination,bcgw_table,bcgw_status,iedc_tab,categoriesClimate,econ_whse_climate_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_CLIMATE_INDICATORS_TBL,DLVR,21 Quality of Life,ClimateDemographicsLabour,econ_whse_demographics_labour_cd_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_CENSUS_DIV_NHS_TBL,PROD,01 Demographics; 02 Labour,Household income; Employment by industry; Employment by occupation; Labour participation rate; Workforce education attainment; Commute timeDemographicsLabour,econ_whse_demographics_labour_csd_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_CENSUS_SUBDIV_POP_NHS_TBL,PROD,01 Demographics; 02 Labour,Population; Household income; Employment by industry; Employment by occupation; Labour participation rate; Workforce education attainment; Commute timeDistances,origin_destination_csd.csv,TBD,,,,Elevation,econ_whse_elevation_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_ELEVATION_STATISTICS_TBL,DLVR,21 Quality of Life,ClimateLabourMarket,econ_whse_lmsm_regional_3digitnoc_bc.csv,BCGW,,STAGE,02 Labour,Employment by industry forecastLabourMarket,econ_whse_lmsm_regional_3digitnoc_summary_bc.csv,BCGW,,STAGE,02 Labour,Employment by industry forecastLabourMarket,econ_whse_labour_wages_bc.csv,BCGW,,STAGE,11 Salaries,SalaryLabourMarket,econ_whse_unemployment_bc.csv,BCGW,,STAGE,02 Labour,Unemployment rateLanguages,econ_whse_languages_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_LANGUAGES_SPOKEN_TBL,DLVR,20 International,LanguageNetworkCoverage,network_coverage.csv,TBD,,,,Network coveragePopulationProjections,econ_whse_population_projections_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_POPULATION_PRJCTNS_TBL,DLVR,01 Demographics,Population projectionsTaxation,econ_whse_municipal_property_tax_rates_bc.csv,BCGW,,STAGE,15 Taxation,Property taxTaxation,SalesAndIncomeTax.csv,TBD,,,15 Taxation,Sales tax; Income taxTaxation,SalesTax_ItemsSubjectTo.csv,TBD,,,15 Taxation,Sales taxUtilities,econ_whse_energy_utilities_bc.csv,BCGW,,STAGE,17 Utilities,Electric power; Natural gasUtilities,econ_whse_telecom_bc.csv,BCGW,,STAGE,17 Utilities,TelecommunicationsUtilities,econ_whse_utility_service_areas_bc.csv,BCGW,,STAGE,17 Utilities,Electric power; natural gas; TelecommunicationsCommunities,census_subdivisions.csv,TBD,,,,Government,econ_whse_gov_election_dates_bc.csv,TBD,,,19 Government,Government,econ_whse_gov_local_bc,TBD,,,19 Government,Government,econ_whse_gov_regional_bc,TBD,,,19 Government,PayrollCosts,econ_whse_payroll_costs_bc,TBD,,,11 Salaries,Transportation,econ_whse_airports_bc,BCGW,,,14 Transportation,Transportation,econ_whse_customs_ports_of_entry_bc,BCGW,,,14 Transportation,Transportation,econ_whse_major_centers_bc,BCGW,,,14 Transportation,Transportation,econ_whse_ports_bc,BCGW,,,14 Transportation,Transportation,econ_whse_railways_bc,BCGW,,,14 Transportation,
+folder,datafile,destination,bcgw_table,bcgw_status,iedc_tab,categories
+Climate,econ_whse_climate_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_CLIMATE_INDICATORS_TBL,DLVR,21 Quality of Life,Climate
+DemographicsLabour,econ_whse_demographics_labour_cd_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_CENSUS_DIV_NHS_TBL,PROD,01 Demographics; 02 Labour,Household income; Employment by industry; Employment by occupation; Labour participation rate; Workforce education attainment; Commute time
+DemographicsLabour,econ_whse_demographics_labour_csd_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_CENSUS_SUBDIV_POP_NHS_TBL,PROD,01 Demographics; 02 Labour,Population; Household income; Employment by industry; Employment by occupation; Labour participation rate; Workforce education attainment; Commute time
+Distances,origin_destination_csd.csv,TBD,,,,
+Elevation,econ_whse_elevation_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_ELEVATION_STATISTICS_TBL,DLVR,21 Quality of Life,Climate
+LabourMarket,econ_whse_lmsm_regional_3digitnoc_bc.csv,BCGW,,STAGE,02 Labour,Employment by industry forecast
+LabourMarket,econ_whse_lmsm_regional_3digitnoc_summary_bc.csv,BCGW,,STAGE,02 Labour,Employment by industry forecast
+LabourMarket,econ_whse_labour_wages_bc.csv,BCGW,,STAGE,11 Salaries,Salary
+LabourMarket,econ_whse_unemployment_bc.csv,BCGW,,STAGE,02 Labour,Unemployment rate
+Languages,econ_whse_languages_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_LANGUAGES_SPOKEN_TBL,DLVR,20 International,Language
+NetworkCoverage,network_coverage.csv,TBD,,,,Network coverage
+PopulationProjections,econ_whse_population_projections_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_POPULATION_PRJCTNS_TBL,DLVR,01 Demographics,Population projections
+Taxation,econ_whse_municipal_property_tax_rates_bc.csv,BCGW,,STAGE,15 Taxation,Property tax
+Taxation,SalesAndIncomeTax.csv,TBD,,,15 Taxation,Sales tax; Income tax
+Taxation,SalesTax_ItemsSubjectTo.csv,TBD,,,15 Taxation,Sales tax
+Utilities,econ_whse_energy_utilities_bc.csv,BCGW,,STAGE,17 Utilities,Electric power; Natural gas
+Utilities,econ_whse_telecom_bc.csv,BCGW,,STAGE,17 Utilities,Telecommunications
+Utilities,econ_whse_utility_service_areas_bc.csv,BCGW,,STAGE,17 Utilities,Electric power; natural gas; Telecommunications
+Communities,census_subdivisions.csv,TBD,,,,
+Government,econ_whse_gov_election_dates_bc.csv,TBD,,,19 Government,
+Government,econ_whse_gov_local_bc,TBD,,,19 Government,
+Government,econ_whse_gov_regional_bc,TBD,,,19 Government,
+PayrollCosts,econ_whse_payroll_costs_bc,TBD,,,11 Salaries,
+Transportation,econ_whse_airports_bc,BCGW,,,14 Transportation,
+Transportation,econ_whse_customs_ports_of_entry_bc,BCGW,,,14 Transportation,
+Transportation,econ_whse_major_centers_bc,BCGW,,,14 Transportation,
+Transportation,econ_whse_ports_bc,BCGW,,,14 Transportation,
+Transportation,econ_whse_railways_bc,BCGW,,,14 Transportation,

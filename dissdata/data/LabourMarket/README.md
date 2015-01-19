@@ -87,4 +87,6 @@ JTST, Statistics Canada
   + removed 5965 geography id, added 5970 and 5960 and a new record, duplicating the values
   + replace NA value with null
   + added geography_level column
-  
+- as per JTST comments
+    + added year and month fields for current rates
+    + added forecast year field

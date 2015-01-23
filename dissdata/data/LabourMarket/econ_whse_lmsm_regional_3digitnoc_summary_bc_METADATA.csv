@@ -12,3 +12,4 @@ occupation_characteristic,float,"OCCUPATION_CHARACTERISTIC: The occupation chara
 3. Total: Estimated number of job openings over the outlook period due to expansion and replacement.
 "
 expansion_or_replacement_value,integer,"EXPANSION_REPLACEMENT_VALUE Estimated value for the specified  geography, projection start year, projection end year, occupation and characteristic combination. e.g., 25660"
+labour_market_exprep_id,integer,primary key

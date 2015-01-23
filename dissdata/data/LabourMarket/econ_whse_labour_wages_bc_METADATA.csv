@@ -1,5 +1,5 @@
 field,type,description
-CENSUS_YEAR,integer,"CENSUS_YEAR is the census year that NOC_CODE pertains to. e.g., 2006"
+NOC_YEAR,integer,"NOC_YEAR is the census year that NOC_CODE pertains to. e.g., 2006"
 NOC_CODE,integer,"NOC_CODE: Occupational code as per NOC 2011 classification. With CENSUS_YEAR, this column is a primary key. e.g., 11"
 NOC_DESCRIPTION,string,"NOC_DESCRIPTION: Occupational code description as per NOC 2011 classification. e.g., Legislators"
 WAGE_PERIOD,string,"WAGE_PERIOD: indicates whether wage value is hourly or annual wage or annual. e.g., YEAR or HOUR"

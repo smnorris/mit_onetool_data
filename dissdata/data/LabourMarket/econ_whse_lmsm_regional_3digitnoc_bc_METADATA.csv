@@ -1,4 +1,5 @@
 field,type,description
+labour_market_prjctn_id,integer,primary key
 geography_id,string,GEOGRAPHY_ID: The Statistics Canada ID associated with the geographic area associated with the value
 census_year,float,"CENSUS YEAR is the census year that the data is collected. e.g., 2006, 2011."
 geography_name,string,Name of the geography represented

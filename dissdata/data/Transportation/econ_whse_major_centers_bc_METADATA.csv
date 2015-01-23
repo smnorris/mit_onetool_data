@@ -1,1 +1,4 @@
-field,type,descriptioncensus_subdivision_id,string,"CENSUS_SUBDIVISION_ID: Foreign Key, linking to CENSUS_SUBDIVISION_ID in CEN_CENSUS_SUBDIVISIONS, e.g., 5901022"major_center_id,integer,Unique IDmajor center_name ,string,Name of major center
+field,type,description
+major_center_id,integer,Unique ID
+census_subdivision_id,string,"CENSUS_SUBDIVISION_ID: Foreign Key, linking to CENSUS_SUBDIVISION_ID in CEN_CENSUS_SUBDIVISIONS, e.g., 5901022"
+major center_name ,string,Name of major center

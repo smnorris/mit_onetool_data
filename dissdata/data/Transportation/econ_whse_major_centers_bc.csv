@@ -1,1 +1,9 @@
-census_subdivision_id,major_center_id,major center_name 5917034,1,Victoria5915022,2,Vancouver,3,Seattle,4,Edmonton,5,Calgary,6,Whitehorse,7,Spokane
+major_center_id,census_subdivision_id,major center_name
+1,5917034,Victoria
+2,5915022,Vancouver
+3,,Seattle
+4,,Edmonton
+5,,Calgary
+6,,Whitehorse
+7,,Portland
+8,,Anchorage

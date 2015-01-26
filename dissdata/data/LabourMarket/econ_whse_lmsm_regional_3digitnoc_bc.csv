@@ -1,4 +1,4 @@
-census_year,geography_id,geography_name,projection_year,occupation_code,occupation_description,demand_outlook,supply_outlook
+census_year,geography_id,geography_name,projection_year,occupation_code,occupation_description,demand_outlook_value,supply_outlook_value
 2011,59,British Columbia,2010,NOC001,Legislators and senior management,25660,26060
 2011,59,British Columbia,2011,NOC001,Legislators and senior management,26040,26430
 2011,59,British Columbia,2012,NOC001,Legislators and senior management,26490,26870

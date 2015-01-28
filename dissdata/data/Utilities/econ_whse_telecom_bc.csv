@@ -1,1 +1,7 @@
-telecom_id,telecom_name,web_url,bc_address1,Telus Communications Company,telus.com,"5-3777 Kingsway Burnaby, BC V5H 3Z7"2,Shaw Communications,shaw.ca,"900-1067 Cordova St W, Vancouver, BC V6C 1C7"3,Northwestel Inc,nwtel.ca,"5404 50th Ave Fort Nelson, BC V0C 1R0"4,Mascon Cable Systems,masconcable.ca,"PO Box 3386 4901 Auto Rd. SE, Salmon Arm, BC"5,Coast Cable,coastcable.com,"5679 Cowrie St Sechelt, BC"6,CityWest,citywest.ca,"248 3rd Ave West Prince Rupert, BC V8J 1L1"
+telecomm_utility_id,telecomm_utiltiy_name,telecomm_utiltiy_web_url,telecomm_utility_bc_address
+1,Telus Communications Company,telus.com,"5-3777 Kingsway Burnaby, BC V5H 3Z7"
+2,Shaw Communications,shaw.ca,"900-1067 Cordova St W, Vancouver, BC V6C 1C7"
+3,Northwestel Inc,nwtel.ca,"5404 50th Ave Fort Nelson, BC V0C 1R0"
+4,Mascon Cable Systems,masconcable.ca,"PO Box 3386 4901 Auto Rd. SE, Salmon Arm, BC"
+5,Coast Cable,coastcable.com,"5679 Cowrie St Sechelt, BC"
+6,CityWest,citywest.ca,"248 3rd Ave West Prince Rupert, BC V8J 1L1"

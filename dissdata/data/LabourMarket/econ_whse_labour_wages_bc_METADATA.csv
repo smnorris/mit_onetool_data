@@ -35,7 +35,7 @@ CARIBOO_REF_PERIOD,string,"CARIBOO_REF_PERIOD: Cariboo hourly or annual wage ref
 CARIBOO_DATA_SOURCE,string,"CARIBOO_DATA_SOURCE: Cariboo hourly or annual wage source. e.g., Source: Labour Force Survey - Statistics Canada"
 MAINLAND_STHWEST_LOW_10THPCTL,float,"MAINLAND_STHWEST_LOW_10THPCTL: Mainland Southwest 10th percentile hourly or annual wage. e.g., 28.85"
 MAINLAND_STHWEST_HGH_90THPCTL,float,"MAINLAND_STHWEST_HGH_90THPCTL: Mainland Southwest 90th percentile hourly or annual wage. e.g., 55.29"
-MAINLAND_SOUTHWEST_MEDIAN_WAGE,float,"MAINLAND_SOUTHWEST_MEDIAN_WAGE: Mainland Southwest median hourly or annual wage. e.g., 45.67"
+MAINLAND_STHWEST_MEDIAN_WAGE,float,"MAINLAND_SOUTHWEST_MEDIAN_WAGE: Mainland Southwest median hourly or annual wage. e.g., 45.67"
 MAINLAND_STHWEST_REF_PERIOD,string,"MAINLAND_STHWEST_REF_PERIOD: Mainland Southwest hourly or annual wage reference year. e.g., 2011-2012"
 MAINLAND_STHWEST_DATA_SOURCE,string,"MAINLAND_STHWEST_DATA_SOURCE: Mainland Southwest hourly or annual wage source. e.g., Source: Labour Force Survey - Statistics Canada"
 KOOTENAYS_LOW_10THPCTL,float,"KOOTENAYS_LOW_10THPCTL: Kootenays 10th percentile hourly or annual wage. e.g., 28.85"

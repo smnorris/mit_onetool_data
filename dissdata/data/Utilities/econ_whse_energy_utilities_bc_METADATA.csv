@@ -1,12 +1,12 @@
 field,type,length,description
-utility_id,integer,2,"Primary key, unique identifier associated with the energy utility"
-utility_name,string,53,Name of the energy utility
-utility_type,string,23,"Type of energy utility (electrical, natural gas)"
-web_url,string,14,Web site of the energy utility
-electrical_small_servce_rate,integer,"1,5","Average price of electrictiy ($/kWh) at service of approximately 40kW or less and 10,000kWh"
+energy_utility_id,integer,2,"Primary key, unique identifier associated with the energy utility"
+energy_utility_name,string,53,Name of the energy utility
+energy_utility_type,string,23,"Type of energy utility (electrical, natural gas)"
+energy_utility_web_site,string,14,Web site of the energy utility
+electrical_small_service_rate,integer,"1,5","Average price of electrictiy ($/kWh) at service of approximately 40kW or less and 10,000kWh"
 electrical_medium_service_rate,integer,"1,5","Average price of electrictiy ($/kWh) at service of approximately 500kW and 100,000kWh"
 electrical_large_service_rate,integer,"1,5","Average price of electrictiy ($/kWh) at service of approximately 5000kW and 2,340,000kWh"
 industrial_natural_gas_rate,integer,"1,3","Average price of natural gas ($/GJ) for large volume commercial, institutional, multi-family and other accounts with consumption of approximately 5,000 GJ or more annually"
 interruptible_natural_gas_rate,integer,"1,3",Average price of natural gas ($/GJ) (interruptible service rate) for large volume customers that have the ability to switch to an alternate energy source
-rate_source,string,221,url of source used to determine service rates
-notes,string,93,Caveat regarding provided rates
+source_information_url,string,221,url of source used to determine service rates
+disclaimer,string,93,Caveat regarding provided rates

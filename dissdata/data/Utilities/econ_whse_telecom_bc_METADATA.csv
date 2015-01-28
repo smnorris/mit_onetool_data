@@ -1,5 +1,5 @@
 field,type,length,description
-telecom_id,integer,1,"Primary key, unique identifier associated with the telecom company"
-telecom_name,string,28,Name of the telcom company
-web_url,string,14,Web site of the telecom company
-bc_address,string,44,Address of the telecom company
+telecomm_utility_id,integer,1,"Primary key, unique identifier associated with the telecom company"
+telecomm_utility_name,string,28,Name of the telcom company
+telecomm_utiltiy_web_site,string,14,Web site of the telecom company
+telecomm_utiltiy_bc_address,string,44,Address of the telecom company

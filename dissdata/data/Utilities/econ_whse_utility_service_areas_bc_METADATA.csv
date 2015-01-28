@@ -1,9 +1,8 @@
 field,type,length,description
 census_subdivision_id,string,7,"CENSUS_SUBDIVISION_ID: Foreign Key, linking to CENSUS_SUBDIVISION_ID in CEN_CENSUS_SUBDIVISIONS_SP, e.g., 5901022"
 census_year,integer,4,"CENSUS_YEAR: is the census year that the data is collected. e.g., 2006, 2011. This field combining with CENSUS_SUBDIVISION_ID is the primary key "
-census_subdivision_name,string,22,Name of the community
 clab_id,string,5,"CLAB_ID: is a Canada Lands Administrative Boundary (CLAB) unique identifier. e.g., 00009. This is a foreign key to WHSE_ADMIN_BOUNDARIES.CLAB_INDIAN_RESERVES."
-energy_utility_electric,integer,1,ID of electrical utility that serves the given community
-energy_utility_gas,integer,2,ID of gas utility that serves the community
-telcom_utility_phone,integer,1,ID of primary phone company that serves the community
-telcom_utility_cable,integer,1,ID of primary cable company that serves the community
+energy_utility_electric_id,integer,1,ID of electrical utility that serves the given community
+energy_utility_gas_id,integer,2,ID of gas utility that serves the community
+telcomm_utility_phone_id,integer,1,ID of primary phone company that serves the community
+telcomm_utility_cable_id,integer,1,ID of primary cable company that serves the community

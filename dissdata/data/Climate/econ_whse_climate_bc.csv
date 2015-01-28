@@ -1,4 +1,4 @@
-census_year,census_subdivision_id,clab_id,reference_point_latitude,reference_point_longitude,average_high_temperature_jan,average_high_temperature_july,average_low_temperature_jan,average_low_temperature_jul,average_temperature_jan,average_temperature_jul,average_annual_precipitation,precipitation_as_snow,average_annual_rainfall
+census_year,census_subdivision_id,clab_id,reference_point_latitude,reference_point_longitude,average_high_temperature_jan,average_high_temperature_jul,average_low_temperature_jan,average_low_temperature_jul,average_temperature_jan,average_temperature_jul,average_annual_precipitation,precipitation_as_snow,average_annual_rainfall
 2011,5901003,,50.02822,-114.893858,-3.9,21.5,-12.2,6.8,-8.1,14.2,599,251,348
 2011,5901006,,49.751971,-114.81378,-5.1,18.5,-11.7,6.9,-8.4,12.7,719,373,346
 2011,5901012,,49.505356,-115.056591,-1.3,24.6,-9.9,8.4,-5.6,16.5,812,247,565

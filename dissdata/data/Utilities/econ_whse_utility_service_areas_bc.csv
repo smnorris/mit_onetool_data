@@ -1,4 +1,4 @@
-census_year,census_subdivision_id,clab_id,energy_utility_electric_id,energy_utility_gas_id,telcomm_utility_phone_id,telcomm_utility_cable_id
+census_year,census_subdivision_id,clab_id,energy_utility_electric_id,energy_utility_gas_id,telecomm_utility_phone_id,telecomm_utility_cable_id
 2011,5909052,,1,2,1,2
 2011,5943008,,1,,1,
 2011,5915038,,1,2,1,2

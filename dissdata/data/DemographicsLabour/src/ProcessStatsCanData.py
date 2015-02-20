@@ -86,7 +86,7 @@ def create_census_source(db):
     slim down the source data, cleaning column names
     """
     print 'massaging source data'
-    db.drop_table("mit.census")
+    db.drop_table("mit.census_csd")
     sql = """CREATE TABLE mit.census_csd AS
             SELECT
               "Geo_Code" AS csduid,
@@ -297,8 +297,8 @@ cd = {"output": "mit.demographics_labour_cd",
 levels = [csd, cd]
 
 # create clean source tables from the data loaded to db from source csv
-#create_census_source(db)
-#create_nhs_source(db)
+create_census_source(db)
+create_nhs_source(db)
 
 # create outputs
 for level in [csd]:
@@ -308,4 +308,4 @@ for level in [csd]:
 # populate null flag values as per data bc requirements
 db.execute("""UPDATE mit.demographics_labour_csd SET census_flag = 'N' WHERE census_flag IS NULL""")
 db.execute("""UPDATE mit.demographics_labour_csd SET nhs_flag = 'N' WHERE nhs_flag IS NULL""")
-db.execute("""UPDATE mit.demographics_labour_cd SET nhs_flag = 'N' WHERE nhs_flag IS NULL""")
+#db.execute("""UPDATE mit.demographics_labour_cd SET nhs_flag = 'N' WHERE nhs_flag IS NULL""")

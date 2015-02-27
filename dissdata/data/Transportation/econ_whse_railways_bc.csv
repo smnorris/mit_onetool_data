@@ -1,1 +1,1077 @@
-census_subdivision_id,track_class,use_type,operator_name
+census_year,census_subdivision_id,track_usetype,track_operatoena,track_ownerena,station_stnenname,station_stntype,station_stnusr1ena
+2011,5915025,Freight and Passenger,Canadian National,Canadian National,Willingdon Junction,Unknown,Canadian National
+2011,5933037,Freight and Tourist,Canadian Pacific,Canadian Pacific,McAbee,Freight,Canadian National
+2011,5915022,Passenger,Canadian Pacific,Canadian Pacific,CN Junction,Unknown,Canadian National
+2011,5919008,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5947012,Freight,Canadian National,Canadian National,Prince Rupert,Freight,Canadian National
+2011,5933042,Freight and Tourist,Canadian Pacific,Canadian Pacific,Mackenzie,Unknown,Canadian National
+2011,5953019,Freight,Canadian National,Canadian National,Fitzwilliam,Unknown,Canadian National
+2011,5921032,Freight,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5909020,Freight,Canadian National,Canadian National,Rosedale,Unknown,Canadian National
+2011,5939039,Freight,Kelowna Pacific Railway,Knighthawk Rail Ltd.,,,
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Croydon,Unknown,Canadian National
+2011,5933039,Freight,Canadian Pacific,Canadian Pacific,Jaleslie,Unknown,Canadian National
+2011,5915020,Freight,Unknown,Unknown,,,
+2011,5909052,Freight,Southern Railway of British Columbia,Island Corridor Foundation,Page,Unknown,Canadian National
+2011,5949028,Freight and Passenger,Canadian National,Canadian National,Bulkley Canyon,Unknown,Canadian National
+2011,5926021,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5915001,Freight,Southern Railway of British Columbia,Island Corridor Foundation,Hopewell,Unknown,Canadian National
+2011,5915025,Freight and Passenger,Canadian National,Canadian National,Sperling,Unknown,Canadian National
+2011,5953012,Freight,Canadian National,Canadian National,McBride,Mixed,Canadian National
+2011,5903045,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5909016,Freight and Passenger,Canadian Pacific,Canadian Pacific,Stout,Unknown,Canadian National
+2011,5941010,Freight and Tourist,Canadian National,Canadian National,Mackin,Unknown,Canadian National
+2011,5933070,Freight,Canadian National,Canadian National,Avola West,Unknown,Canadian National
+2011,5949013,Freight,Canadian National,Canadian National,Dorreen,Passenger Station,VIA Rail
+2011,5917044,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5915011,Freight,Unknown,Unknown,,,
+2011,5915022,Freight,Canadian Pacific,Canadian Pacific,Vancouver Central Pacific,Passenger Station,VIA Rail
+2011,5915055,Freight,Canadian National,Canadian National,Horseshoe Bay,Unknown,Canadian National
+2011,5931818,Freight and Tourist,Canadian National,Canadian National,,,
+2011,5939045,Freight and Tourist,Canadian Pacific,Canadian Pacific,,,
+2011,5951043,Freight,Canadian National,Canadian National,Smithers,Mixed,Canadian National
+2011,5939007,Freight and Tourist,Canadian Pacific,Canadian Pacific,,,
+2011,5933072,Freight and Passenger,Canadian National,Canadian National,Chu Chua,Unknown,Canadian National
+2011,5933037,Freight and Passenger,Canadian Pacific,Canadian Pacific,Basque,Unknown,Canadian National
+2011,5919822,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5905005,Freight,International Rail Road Systems,International Rail Road Systems Inc.,,,
+2011,5951807,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5919801,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5933880,Freight,Canadian National,Canadian National,Chapman,Freight,Canadian National
+2011,5939808,Freight and Tourist,Canadian Pacific,Canadian Pacific,,,
+2011,5941015,Freight,Canadian National,Canadian National,Wright,Unknown,Canadian National
+2011,5933068,Freight and Passenger,Canadian National,Canadian National,Vavenby,Unknown,Canadian National
+2011,5931020,Freight,Canadian National,Canadian National,McGuire,Unknown,Canadian National
+2011,5909052,Freight and Passenger,Canadian National,Canadian National,Matsqui,Unknown,Canadian National
+2011,5909052,Freight,Southern Railway of British Columbia,Island Corridor Foundation,Glen Valley,Unknown,Canadian National
+2011,5953023,Freight,Canadian National,Canadian National,Miworth,Unknown,Canadian National
+2011,5909016,Freight,Canadian National,Canadian National,Yale,Unknown,Canadian National
+2011,5915022,Freight and Passenger,Canadian Pacific,Canadian Pacific,Vancouver,Mixed,Canadian Pacific
+2011,5919017,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5909809,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5915004,Freight and Passenger,BC Rail,Canadian National,Hampton,Unknown,Canadian National
+2011,5905026,Freight,International Rail Road Systems,International Rail Road Systems Inc.,,,
+2011,5933019,Freight,Canadian Pacific,Canadian Pacific,Ashcroft,Mixed,Canadian National
+2011,5949028,Freight and Passenger,Canadian National,Canadian National,Andimaul,Unknown,Canadian National
+2011,5953050,Freight,Canadian National,Canadian National,O'Dell,Unknown,Canadian National
+2011,5953023,Freight,Canadian National,Canadian National,Prince George South,Freight,Canadian National
+2011,5933037,Freight and Passenger,Canadian National,Canadian National,Falls Creek,Unknown,Canadian National
+2011,5955040,Freight,Canadian National,Canadian National,Buick,Unknown,Canadian National
+2011,5949013,Freight,Canadian National,Canadian National,Grande Trunk,Unknown,Canadian National
+2011,5909016,Freight,Canadian National,Canadian National,Trafalgar,Unknown,Canadian National
+2011,5933037,Freight and Passenger,Canadian National,Canadian National,Morris,Unknown,Canadian National
+2011,5951007,Freight and Passenger,Canadian National,Canadian National,Cariboo,Unknown,Canadian National
+2011,5933037,Freight and Passenger,Canadian Pacific,Canadian Pacific,Coho,Unknown,Canadian National
+2011,5953048,Freight and Passenger,Canadian National,Canadian National,Giscome,Freight,Canadian National
+2011,5949804,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5921805,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5955040,Freight,Canadian National,Canadian National,Snyder,Unknown,Canadian National
+2011,5949028,Freight,Canadian National,Canadian National,Carnaby,Unknown,Canadian National
+2011,5921018,Freight,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5953048,Freight,Canadian National,Canadian National,Upper Frazer,Passenger Station,VIA Rail
+2011,5933037,Freight,Canadian Pacific,Canadian Pacific,Spence's Bridge,Unknown,Canadian National
+2011,5933039,Freight and Passenger,Canadian National,Canadian National,Frederick,Unknown,Canadian National
+2011,5933039,Freight and Passenger,Canadian National,Canadian National,Savona,Unknown,Canadian National
+2011,5933044,Freight and Tourist,Canadian Pacific,Canadian Pacific,McLure,Unknown,Canadian National
+2011,5947007,Freight,Canadian National,Canadian National,Tyee,Unknown,Canadian National
+2011,5951053,Freight,Canadian National,Canadian National,Lucas,Unknown,Canadian National
+2011,5951806,Freight,Canadian National,Canadian National,,,
+2011,5933832,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5933037,Freight and Passenger,Canadian National,Canadian National,Walhachin,Unknown,Canadian National
+2011,5933882,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5933070,Freight and Passenger,Canadian National,Canadian National,Wabron,Unknown,Canadian National
+2011,5941005,Freight,Canadian National,Canadian National,Edmund,Unknown,Canadian National
+2011,5951028,Freight and Passenger,Canadian National,Canadian National,Broman Lake,Unknown,Canadian National
+2011,5909882,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5915004,Freight,Canadian National,Canadian National,Hampton,Unknown,Canadian National
+2011,5933028,Freight and Tourist,Canadian National,Canadian National,Clinton,Unknown,Canadian National
+2011,5951017,Freight,Canadian National,Canadian National,Savory,Unknown,Canadian National
+2011,5951019,Freight and Passenger,Canadian National,Canadian National,McCall,Unknown,Canadian National
+2011,5909833,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5909014,Freight and Passenger,Canadian Pacific,Canadian Pacific,North Bend,Mixed,Canadian Pacific
+2011,5915075,Freight and Passenger,Canadian Pacific,Canadian Pacific,Maple Meadows,Passenger Station,West Coast Express Ltd.
+2011,5951015,Freight,Canadian National,Canadian National,Takla,Unknown,Canadian National
+2011,5933039,Freight and Passenger,Canadian National,Canadian National,Kissick,Unknown,Canadian National
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Canoe River,Unknown,Canadian National
+2011,5933850,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5919043,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5933037,Freight,Canadian Pacific,Canadian Pacific,Lasha,Unknown,Canadian National
+2011,5949028,Freight and Passenger,Canadian National,Canadian National,Moricetown,Unknown,Canadian National
+2011,5951053,Freight,Canadian National,Canadian National,Barrett,Unknown,Canadian National
+2011,5933070,Freight and Passenger,Canadian National,Canadian National,Avola East,Unknown,Canadian National
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Foster,Unknown,Canadian National
+2011,5953019,Freight,Canadian National,Canadian National,Morey,Unknown,Canadian National
+2011,5909878,Freight and Passenger,Canadian National,Canadian National,Abrahamson,Unknown,Canadian National
+2011,5921030,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5915020,Freight,Canadian National,Canadian National,,,
+2011,5949013,Freight and Passenger,Canadian National,Canadian National,Hagstad,Unknown,Canadian National
+2011,5915029,Freight,Canadian National,Canadian National,Brunette,Unknown,Canadian National
+2011,5947016,Freight and Passenger,Canadian National,Canadian National,Skeena,Unknown,Canadian National
+2011,5953023,Freight and Passenger,Canadian National,Canadian National,Prince George,Mixed,Canadian National
+2011,5919802,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5909014,Freight and Passenger,Canadian Pacific,Canadian Pacific,Boston Bar,Mixed,Canadian National
+2011,5947012,Freight,Unknown,Unknown,Prince Rupert,Freight,Canadian National
+2011,5909009,Freight and Passenger,Canadian National,Canadian National,Hope,Mixed,Canadian National
+2011,5933037,Freight,Canadian Pacific,Canadian Pacific,Conrad,Unknown,Canadian National
+2011,5909806,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5951017,Freight,Canadian National,Canadian National,Endako,Mixed,Canadian National
+2011,5951019,Freight and Passenger,Canadian National,Canadian National,Hulatt,Unknown,Canadian National
+2011,5915025,Freight and Passenger,Canadian National,Canadian National,Piper,Unknown,Canadian National
+2011,5915022,Freight and Tourist,Canadian National,Canadian National,Vancouver Central Pacific,Passenger Station,VIA Rail
+2011,5951015,Freight,Canadian National,Canadian National,Sinclair,Unknown,Canadian National
+2011,5909052,Freight,Southern Railway of British Columbia,Island Corridor Foundation,Abbostford,Passenger Station,VIA Rail
+2011,5909014,Freight and Passenger,Canadian Pacific,Canadian Pacific,Martinson,Unknown,Canadian National
+2011,5953042,Freight,Canadian National,Canadian National,Nichol,Unknown,Canadian National
+2011,5931817,Freight and Tourist,Canadian National,Canadian National,,,
+2011,5933070,Freight,Canadian National,Canadian National,Wolfenden,Unknown,Canadian National
+2011,5953050,Freight,Canadian National,Canadian National,Merton,Unknown,Canadian National
+2011,5921016,Freight,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5951017,Freight and Passenger,Canadian National,Canadian National,Fort Fraser,Passenger Station,VIA Rail
+2011,5931020,Freight,Canadian National,Canadian National,Mons,Unknown,Canadian National
+2011,5933054,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5915034,Freight,Canadian Pacific,Canadian Pacific,North Road,Freight,Canadian National
+2011,5915022,Freight,Canadian National,Canadian National,Still Creek,Unknown,Canadian National
+2011,5933042,Freight,Canadian National,Canadian National,Mackenzie,Unknown,Canadian National
+2011,5939011,Freight and Tourist,Canadian Pacific,Canadian Pacific,,,
+2011,5915022,Freight and Passenger,Canadian Pacific,Canadian Pacific,Waterfront,Passenger Station,West Coast Express Ltd.
+2011,5931006,Freight,Canadian National,Canadian National,Cheakamus,Freight,Canadian National
+2011,5953050,Freight,Canadian National,Canadian National,McIntyre,Unknown,Canadian National
+2011,5933070,Freight,Canadian National,Canadian National,Blue River West,Unknown,Canadian National
+2011,5901035,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5933037,Freight,Canadian National,Canadian National,McAbee,Freight,Canadian National
+2011,5905014,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5951022,Freight,Canadian National,Canadian National,Burns Lake,Mixed,Canadian National
+2011,5933817,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5909056,Freight and Passenger,Canadian Pacific,Canadian Pacific,Mission,Passenger Station,VIA Rail
+2011,5933838,Freight and Tourist,Canadian Pacific,Canadian Pacific,,,
+2011,5939032,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5951015,Freight,Canadian National,Canadian National,Driftwood,Unknown,Canadian National
+2011,5909836,Freight and Passenger,Canadian National,Canadian National,Hicks,Unknown,Canadian National
+2011,5955003,Freight,Canadian National,Canadian National,Trend,Freight,Canadian National
+2011,5915004,Freight and Passenger,Burlington Northern Santa Fe Railway,Burlington Northern and Santa Fe Railway Company,Fraser River Junction,Unknown,Canadian National
+2011,5939804,Freight,Kelowna Pacific Railway,Knighthawk Rail Ltd.,,,
+2011,5901012,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5933068,Freight and Passenger,Canadian National,Canadian National,Birch Island,Unknown,Canadian National
+2011,5915022,Freight,Southern Railway of Vancouver Island,Island Corridor Foundation,Vancouver,Mixed,Canadian Pacific
+2011,5915029,Freight,Southern Railway of British Columbia,Island Corridor Foundation,Brunette,Unknown,Canadian National
+2011,5923039,Freight,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5951019,Freight,Canadian National,Canadian National,Wedgwood,Unknown,Canadian National
+2011,5915029,Freight and Passenger,Canadian National,Canadian National,Spruce,Unknown,Canadian National
+2011,5933042,Freight and Tourist,Canadian Pacific,Canadian Pacific,Mann,Unknown,Canadian National
+2011,5953048,Freight,Canadian National,Canadian National,Wolverine,Unknown,Canadian National
+2011,5953023,Freight,Canadian National,Canadian National,Nichols,Unknown,Canadian National
+2011,5915004,Freight,Burlington Northern Santa Fe Railway,Burlington Northern and Santa Fe Railway Company,Hampton,Unknown,Canadian National
+2011,5915011,Freight,Southern Railway of British Columbia,Island Corridor Foundation,,,
+2011,5947012,Freight,Unknown,Unknown,Prince Rupert,Passenger Station,VIA Rail
+2011,5909837,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5955030,Freight,Canadian National,Canadian National,Taylor,Freight,Canadian National
+2011,5909052,Freight and Passenger,Canadian National,Canadian National,Sumas Mtn,Unknown,Canadian National
+2011,5953023,Freight,Canadian National,Canadian National,Prince George West,Freight,Canadian National
+2011,5933849,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5931843,Freight,Canadian National,Canadian National,Mount Currie,Unknown,Canadian National
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Jackman,Unknown,Canadian National
+2011,5909014,Freight and Passenger,Canadian Pacific,Canadian Pacific,Spence,Unknown,Canadian National
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Dome Creek,Passenger Station,VIA Rail
+2011,5949024,Freight,Canadian National,Canadian National,Fleming,Unknown,Canadian National
+2011,5939043,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5941010,Freight,Canadian National,Canadian National,Soda Creek,Unknown,Canadian National
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Swiftwater,Unknown,Canadian National
+2011,5915011,Freight,Burlington Northern Santa Fe Railway,Burlington Northern and Santa Fe Railway Company,,,
+2011,5915004,Freight,Southern Railway of British Columbia,Island Corridor Foundation,Hampton,Unknown,Canadian National
+2011,5937041,Freight,Okanagan Valley Railway Company,OmniTRAX,,,
+2011,5955003,Freight,Canadian National,Canadian National,Teck,Unknown,Canadian National
+2011,5903010,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5909847,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5933880,Freight and Passenger,Canadian National,Canadian National,Batchelor,Unknown,Canadian National
+2011,5915004,Freight and Passenger,Canadian National,Canadian National,Fraser River Junction,Unknown,Canadian National
+2011,5931020,Freight,Canadian National,Canadian National,Whistler,Unknown,Canadian National
+2011,5933037,Freight,Canadian Pacific,Canadian Pacific,Martel,Unknown,Canadian National
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Loos,Mixed,Canadian National
+2011,5915022,Freight,Canadian Pacific,Canadian Pacific,CN Junction,Unknown,Canadian National
+2011,5909009,Freight and Passenger,Canadian National,Canadian National,Floods,Unknown,Canadian National
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Charles,Unknown,Canadian National
+2011,5931802,Freight and Tourist,Canadian National,Canadian National,,,
+2011,5953048,Freight,Canadian National,Canadian National,Aleza Lake,Passenger Station,VIA Rail
+2011,5933067,Freight and Passenger,Canadian National,Canadian National,Clearwater,Passenger Station,VIA Rail
+2011,5909816,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5915022,Passenger,Canadian Pacific,Canadian Pacific,Vancouver Central Pacific,Passenger Station,VIA Rail
+2011,5953023,Freight,Canadian National,Canadian National,Violato,Freight,Canadian National
+2011,5955040,Freight,Canadian National,Canadian National,Silver Lake,Unknown,Canadian National
+2011,5951051,Freight,Canadian National,Canadian National,Huntington,Unknown,Canadian National
+2011,5951015,Freight,Canadian National,Canadian National,Lovell,Freight,Canadian National
+2011,5955023,Freight,Canadian National,Canadian National,Pinesul,Unknown,Canadian National
+2011,5909052,Freight,Canadian National,Canadian National,Abbostford,Passenger Station,VIA Rail
+2011,5953023,Freight and Tourist,Canadian National,Canadian National,Prince George Intermodal Terminal,Intermodal,Canadian National
+2011,5931026,Freight and Tourist,Canadian National,Canadian National,Coopers,Unknown,Canadian National
+2011,5955023,Freight,Canadian National,Canadian National,Wabi,Unknown,Canadian National
+2011,5953048,Freight,Canadian National,Canadian National,Hutton,Passenger Station,VIA Rail
+2011,5933032,Freight and Tourist,Canadian National,Canadian National,Koster,Unknown,Canadian National
+2011,5903056,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5951015,Freight,Canadian National,Canadian National,Richardson,Unknown,Canadian National
+2011,5955040,Freight,Canadian National,Canadian National,Murdale,Unknown,Canadian National
+2011,5915004,Freight,BC Rail,Canadian National,Fraser River Junction,Unknown,Canadian National
+2011,5947012,Freight,Canadian National,Canadian National,Prince Rupert,Passenger Station,VIA Rail
+2011,5909814,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5951028,Freight and Passenger,Canadian National,Canadian National,Watson Bc,Unknown,Canadian National
+2011,5951015,Freight,Canadian National,Canadian National,Tetana,Unknown,Canadian National
+2011,5909014,Freight,Canadian Pacific,Canadian Pacific,Boston Bar West,Freight,Canadian National
+2011,5909052,Freight,Canadian National,Canadian National,Page,Unknown,Canadian National
+2011,5939801,Freight and Tourist,Canadian Pacific,Canadian Pacific,,,
+2011,5941009,Freight and Tourist,Canadian National,Canadian National,Lakeside,Unknown,Canadian National
+2011,5951009,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5915022,Freight,Southern Railway of Vancouver Island,Island Corridor Foundation,Waterfront,Passenger Station,West Coast Express Ltd.
+2011,5933070,Freight and Passenger,Canadian National,Canadian National,Pyramid,Unknown,Canadian National
+2011,5915001,Freight,Canadian National,Canadian National,Hopewell,Unknown,Canadian National
+2011,5931814,Freight,Canadian National,Canadian National,,,
+2011,5915025,Freight,Canadian Pacific,Canadian Pacific,Lake City,Unknown,Canadian National
+2011,5947016,Freight,Unknown,Unknown,Kwinitsa,Mixed,Canadian National
+2011,5915022,Freight and Tourist,Canadian National,Canadian National,CN Junction,Unknown,Canadian National
+2011,5953801,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5939023,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5933886,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5909020,Freight,Southern Railway of British Columbia,Island Corridor Foundation,Rosedale,Unknown,Canadian National
+2011,5939043,Freight,Okanagan Valley Railway Company,OmniTRAX,,,
+2011,5959007,Freight,Canadian National,Canadian National,Needley,Unknown,Canadian National
+2011,5931034,Freight and Tourist,Canadian National,Canadian National,Retaskit,Unknown,Canadian National
+2011,5933866,Freight and Passenger,Canadian National,Canadian National,Cisco,Unknown,Canadian National
+2011,5915075,Freight,Canadian Pacific,Canadian Pacific,Port Haney,Passenger Station,West Coast Express Ltd.
+2011,5931807,Freight and Tourist,Canadian National,Canadian National,,,
+2011,5915070,Freight,Canadian Pacific,Canadian Pacific,Vancouver Intermodal Terminal,Intermodal,Canadian Pacific
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Grant Brook,Unknown,Canadian National
+2011,5949028,Freight and Passenger,Canadian National,Canadian National,Cedarvale,Mixed,Canadian National
+2011,5915055,Freight,Canadian National,Canadian National,Westbay,Unknown,Canadian National
+2011,5915065,Freight,Canadian National,Canadian National,Brunswick,Unknown,Canadian National
+2011,5909020,Freight and Passenger,Canadian National,Canadian National,Chilliwack,Mixed,Canadian National
+2011,5939037,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5941012,Freight and Tourist,Canadian National,Canadian National,Onward,Unknown,Canadian National
+2011,5953048,Freight,Canadian National,Canadian National,Shelley,Freight,Canadian National
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Von Zuben,Unknown,Canadian National
+2011,5921036,Freight,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5953044,Freight and Tourist,Canadian National,Canadian National,Carrier,Unknown,Canadian National
+2011,5955023,Freight,Canadian National,Canadian National,Hulcross,Unknown,Canadian National
+2011,5909014,Freight,Canadian Pacific,Canadian Pacific,Boston Bar East,Unknown,Canadian National
+2011,5933060,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5953019,Freight,Canadian National,Canadian National,McCabe,Unknown,Canadian National
+2011,5953019,Freight,Canadian National,Canadian National,Mooke Lake,Unknown,Canadian National
+2011,5915034,Freight and Passenger,Canadian National,Canadian National,Coquitlam Central,Passenger Station,West Coast Express Ltd.
+2011,5933070,Freight,Canadian National,Canadian National,Redsand,Unknown,Canadian National
+2011,5909014,Freight,Canadian Pacific,Canadian Pacific,Komo,Unknown,Canadian National
+2011,5959007,Freight,Canadian National,Canadian National,Ekwan,Unknown,Canadian National
+2011,5931034,Freight and Tourist,Canadian National,Canadian National,Fountain,Unknown,Canadian National
+2011,5953019,Freight,Canadian National,Canadian National,Yellowhead,Unknown,Canadian National
+2011,5933015,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5933042,Freight,Canadian National,Canadian National,Mann,Unknown,Canadian National
+2011,5941019,Freight,Canadian National,Canadian National,Dragon,Unknown,Canadian National
+2011,5931034,Freight and Tourist,Canadian National,Canadian National,Polley,Unknown,Canadian National
+2011,5909052,Freight,Canadian National,Canadian National,Glen Valley,Unknown,Canadian National
+2011,5909804,Freight and Passenger,Canadian Pacific,Canadian Pacific,Katz,Passenger Station,VIA Rail
+2011,5953023,Freight and Tourist,Canadian National,Canadian National,Prince George,Mixed,Canadian National
+2011,5909885,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5933037,Freight,Canadian Pacific,Canadian Pacific,Falls Creek,Unknown,Canadian National
+2011,5939019,Freight and Tourist,Canadian Pacific,Canadian Pacific,,,
+2011,5931006,Freight and Tourist,Canadian National,Canadian National,Shannon,Unknown,Canadian National
+2011,5909016,Freight and Passenger,Canadian Pacific,Canadian Pacific,Trafalgar,Unknown,Canadian National
+2011,5935010,Freight,Kelowna Pacific Railway,Knighthawk Rail Ltd.,,,
+2011,5931821,Freight and Tourist,Canadian National,Canadian National,,,
+2011,5933019,Freight and Passenger,Canadian National,Canadian National,Ashcroft,Mixed,Canadian National
+2011,5941026,Freight and Tourist,Canadian National,Canadian National,,,
+2011,5915001,Freight,Canadian National,Canadian National,Hydro,Unknown,Canadian National
+2011,5915022,Freight,Canadian National,Canadian National,Vancouver,Mixed,Canadian Pacific
+2011,5915808,Freight and Tourist,Canadian National,Canadian National,,,
+2011,5955023,Freight,Canadian National,Canadian National,Sundance,Unknown,Canadian National
+2011,5947012,Freight and Passenger,Canadian National,Canadian National,Watson Island,Freight,Canadian National
+2011,5951028,Freight and Passenger,Canadian National,Canadian National,Tintagel,Unknown,Canadian National
+2011,5901037,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5915004,Freight and Passenger,BC Rail,Canadian National,MacDonald,Freight,Canadian National
+2011,5915015,Freight,Southern Railway of British Columbia,Island Corridor Foundation,,,
+2011,5909016,Freight and Passenger,Canadian Pacific,Canadian Pacific,Yale,Unknown,Canadian National
+2011,5933039,Freight,Canadian Pacific,Canadian Pacific,Savona,Unknown,Canadian National
+2011,5903013,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5941021,Freight,Canadian National,Canadian National,Dunkley,Freight,Canadian National
+2011,5921007,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5933037,Freight and Passenger,Canadian National,Canadian National,Spence's Bridge,Unknown,Canadian National
+2011,5955021,Freight,Canadian National,Canadian National,Dawson Creek,Unknown,Canadian National
+2011,5933039,Freight,Canadian Pacific,Canadian Pacific,Frederick,Unknown,Canadian National
+2011,5901043,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5931034,Freight,Canadian National,Canadian National,Marne,Unknown,Canadian National
+2011,5933037,Freight,Canadian National,Canadian National,Coho,Unknown,Canadian National
+2011,5933830,Freight and Passenger,Canadian National,Canadian National,Seddall,Unknown,Canadian National
+2011,5953033,Freight,Canadian National,Canadian National,Findlay,Unknown,Canadian National
+2011,5909879,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5933037,Freight,Canadian Pacific,Canadian Pacific,Morris,Unknown,Canadian National
+2011,5941021,Freight and Tourist,Canadian National,Canadian National,Greening,Unknown,Canadian National
+2011,5953033,Freight,Canadian National,Canadian National,Church,Unknown,Canadian National
+2011,5915025,Freight,Canadian Pacific,Canadian Pacific,Sperling,Unknown,Canadian National
+2011,5933039,Freight and Passenger,Canadian National,Canadian National,Jaleslie,Unknown,Canadian National
+2011,5955042,Freight,Canadian National,Canadian National,Barr,Unknown,Canadian National
+2011,5933070,Freight and Passenger,Canadian National,Canadian National,Clemina West,Unknown,Canadian National
+2011,5941809,Freight and Tourist,Canadian National,Canadian National,,,
+2011,5953048,Freight and Passenger,Canadian National,Canadian National,Sinclair Mills,Passenger Station,VIA Rail
+2011,5953048,Freight,Canadian National,Canadian National,Matheson,Unknown,Canadian National
+2011,5931034,Freight and Tourist,Canadian National,Canadian National,Glen Fraser,Unknown,Canadian National
+2011,5915025,Freight,Canadian Pacific,Canadian Pacific,Willingdon Junction,Unknown,Canadian National
+2011,5953048,Freight,Canadian National,Canadian National,Longworth,Mixed,Canadian National
+2011,5909032,Freight and Passenger,Canadian Pacific,Canadian Pacific,Agassiz,Passenger Station,VIA Rail
+2011,5953050,Freight,Canadian National,Canadian National,Hodda,Unknown,Canadian National
+2011,5947012,Freight and Passenger,Canadian National,Canadian National,Nemoto,Freight,Canadian National
+2011,5949024,Freight,Canadian National,Canadian National,McLeod,Unknown,Canadian National
+2011,5933070,Freight,Canadian National,Canadian National,Lempriere,Unknown,Canadian National
+2011,5909052,Freight,Canadian Pacific,Canadian Pacific,Matsqui,Unknown,Canadian National
+2011,5903017,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5955023,Freight,Canadian National,Canadian National,Sukunka,Unknown,Canadian National
+2011,5901003,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5931006,Freight and Tourist,Canadian National,Canadian National,Squamish South,Unknown,Canadian National
+2011,5933037,Freight,Canadian National,Canadian National,Basque,Unknown,Canadian National
+2011,5949013,Freight and Passenger,Canadian National,Canadian National,Lakelse,Unknown,Canadian National
+2011,5901006,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5915022,Freight and Passenger,Canadian National,Canadian National,Vancouver Central Pacific,Passenger Station,VIA Rail
+2011,5915029,Freight,Canadian National,Canadian National,Fraser River Bridge,Unknown,Canadian National
+2011,5933044,Freight and Passenger,Canadian National,Canadian National,Vinsulla,Unknown,Canadian National
+2011,5915029,Freight,Canadian National,Canadian National,Braid,Freight,Canadian National
+2011,5955023,Freight,Canadian National,Canadian National,Tremblay,Unknown,Canadian National
+2011,5941013,Freight and Tourist,Canadian National,Canadian National,Quesnel,Freight,Canadian National
+2011,5933070,Freight,Canadian National,Canadian National,Blue River,Mixed,Canadian National
+2011,5949024,Freight,Canadian National,Canadian National,New Hazelton,Passenger Station,VIA Rail
+2011,5909016,Freight,Canadian National,Canadian National,Stout,Unknown,Canadian National
+2011,5933074,Freight and Passenger,Canadian National,Canadian National,Barriere,Unknown,Canadian National
+2011,5951015,Freight,Canadian National,Canadian National,Martin,Unknown,Canadian National
+2011,5953048,Freight,Canadian National,Canadian National,Dewey,Unknown,Canadian National
+2011,5941812,Freight and Tourist,Canadian National,Canadian National,,,
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Bend,Mixed,Canadian National
+2011,5941010,Freight and Tourist,Canadian National,Canadian National,Gibraltar,Unknown,Canadian National
+2011,5933037,Freight and Tourist,Canadian Pacific,Canadian Pacific,Basque,Unknown,Canadian National
+2011,5941005,Freight and Tourist,Canadian National,Canadian National,Exeter,Unknown,Canadian National
+2011,5951820,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5909014,Freight,Canadian National,Canadian National,Martinson,Unknown,Canadian National
+2011,5909020,Freight and Passenger,Canadian National,Canadian National,Arnold,Unknown,Canadian National
+2011,5951034,Freight and Passenger,Canadian National,Canadian National,Houston,Mixed,Canadian Pacific
+2011,5951810,Freight,Canadian National,Canadian National,,,
+2011,5933070,Freight,Canadian National,Canadian National,Ewasiuk,Unknown,Canadian National
+2011,5949013,Freight and Passenger,Canadian National,Canadian National,Salvus,Unknown,Canadian National
+2011,5949819,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5953050,Freight,Canadian National,Canadian National,McEwan,Unknown,Canadian National
+2011,5949816,Freight,Canadian National,Canadian National,Kitwanga,Passenger Station,VIA Rail
+2011,5953023,Freight,Canadian National,Canadian National,Basford,Freight,Canadian National
+2011,5915025,Freight,Canadian Pacific,Canadian Pacific,Piper,Unknown,Canadian National
+2011,5915004,Freight,Burlington Northern Santa Fe Railway,Burlington Northern and Santa Fe Railway Company,Douglas Island,Freight,Canadian National
+2011,5931026,Freight and Tourist,Canadian National,Canadian National,Lillooet,Freight,Canadian National
+2011,5915001,Freight,Southern Railway of British Columbia,Island Corridor Foundation,Rawlison,Unknown,Canadian National
+2011,5901803,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5917041,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5947007,Freight and Passenger,Canadian National,Canadian National,Sockeye,Unknown,Canadian National
+2011,5953019,Freight,Canadian National,Canadian National,Taverna,Unknown,Canadian National
+2011,5933037,Freight and Passenger,Canadian Pacific,Canadian Pacific,McAbee,Freight,Canadian National
+2011,5909052,Freight,Southern Railway of British Columbia,Island Corridor Foundation,Matsqui Junction,Unknown,Canadian National
+2011,5941017,Freight and Tourist,Canadian National,Canadian National,Norris,Unknown,Canadian National
+2011,5915034,Freight and Passenger,Canadian National,Canadian National,North Road,Freight,Canadian National
+2011,5915022,Freight and Passenger,Canadian Pacific,Canadian Pacific,Still Creek,Unknown,Canadian National
+2011,5949013,Freight,Canadian National,Canadian National,Pacific,Mixed,Canadian National
+2011,5915022,Freight,Canadian National,Canadian National,Waterfront,Passenger Station,West Coast Express Ltd.
+2011,5915004,Freight,Southern Railway of British Columbia,Island Corridor Foundation,Douglas Island,Freight,Canadian National
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Red Pass Junction,Unknown,Canadian National
+2011,5939803,Freight and Tourist,Canadian Pacific,Canadian Pacific,,,
+2011,5937801,Freight,Kelowna Pacific Railway,Knighthawk Rail Ltd.,,,
+2011,5933039,Freight,Canadian Pacific,Canadian Pacific,Kissick,Unknown,Canadian National
+2011,5915004,Freight,Canadian National,Canadian National,MacDonald,Freight,Canadian National
+2011,5931844,Freight and Tourist,Canadian National,Canadian National,Darcy,Unknown,Canadian National
+2011,5909014,Freight,Canadian National,Canadian National,North Bend,Mixed,Canadian Pacific
+2011,5919015,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5915029,Freight,Canadian National,Canadian National,New Westminster,Freight,Canadian National
+2011,5959007,Freight,Canadian National,Canadian National,Allen,Unknown,Canadian National
+2011,5909817,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5953046,Freight,Canadian National,Canadian National,Crysdale,Unknown,Canadian National
+2011,5933037,Freight,Canadian Pacific,Canadian Pacific,Walhachin,Unknown,Canadian National
+2011,5955003,Freight,Canadian National,Canadian National,Tumbler,Freight,Canadian National
+2011,5933832,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5917812,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5933037,Freight and Tourist,Canadian Pacific,Canadian Pacific,Coho,Unknown,Canadian National
+2011,5915046,Freight,Canadian National,Canadian National,North Vancouver,Freight,Canadian National
+2011,5933037,Freight and Passenger,Canadian National,Canadian National,Conrad,Unknown,Canadian National
+2011,5941009,Freight,Canadian National,Canadian National,Williams Lake,Freight,Canadian National
+2011,5931034,Freight,Canadian National,Canadian National,Pavilion,Unknown,Canadian National
+2011,5915043,Freight,Canadian Pacific,Canadian Pacific,Port Moody,Passenger Station,West Coast Express Ltd.
+2011,5933060,Freight,Kelowna Pacific Railway,Knighthawk Rail Ltd.,,,
+2011,5949013,Freight,Canadian National,Canadian National,Exstew,Unknown,Canadian National
+2011,5909014,Freight,Canadian National,Canadian National,Boston Bar,Mixed,Canadian National
+2011,5915004,Freight,Southern Railway of British Columbia,Island Corridor Foundation,Vancouver Intermodal Terminal,Intermodal,Canadian National
+2011,5915004,Freight,Burlington Northern Santa Fe Railway,Burlington Northern and Santa Fe Railway Company,Vancouver Intermodal Terminal,Intermodal,Canadian National
+2011,5951051,Freight,Canadian National,Canadian National,Evelyn,Unknown,Canadian National
+2011,5933037,Freight and Passenger,Canadian National,Canadian National,Lasha,Unknown,Canadian National
+2011,5931006,Freight and Tourist,Canadian National,Canadian National,Brackendale,Unknown,Canadian National
+2011,5949013,Freight and Passenger,Canadian National,Canadian National,Usk,Passenger Station,VIA Rail
+2011,5909810,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5909052,Freight,Canadian National,Canadian National,Matsqui Junction,Unknown,Canadian National
+2011,5933037,Freight and Passenger,Canadian National,Canadian National,Martel,Unknown,Canadian National
+2011,5931017,Freight,Canadian National,Canadian National,Birken,Unknown,Canadian National
+2011,5941013,Freight,Canadian National,Canadian National,Westply,Unknown,Canadian National
+2011,5915022,Freight and Passenger,Canadian National,Canadian National,CN Junction,Unknown,Canadian National
+2011,5953019,Freight,Canadian National,Canadian National,Dunster,Passenger Station,VIA Rail
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Raush Valley,Unknown,Canadian National
+2011,5915004,Freight,Canadian National,Canadian National,Douglas Island,Freight,Canadian National
+2011,5915004,Freight,Canadian Pacific,Canadian Pacific,Fraser River Junction,Unknown,Canadian National
+2011,5955023,Freight,Canadian National,Canadian National,Garbitt,Unknown,Canadian National
+2011,5915001,Freight,Canadian National,Canadian National,Rawlison,Unknown,Canadian National
+2011,5953019,Freight,Canadian National,Canadian National,Harvey,Mixed,Canadian National
+2011,5915015,Freight,Unknown,Unknown,,,
+2011,5953050,Freight,Canadian National,Canadian National,Azouzetta,Unknown,Canadian National
+2011,5933824,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5947021,Freight,Unknown,Unknown,,,
+2011,5941017,Freight,Canadian National,Canadian National,Potter,Unknown,Canadian National
+2011,5953042,Freight,Canadian National,Canadian National,Nechako,Unknown,Canadian National
+2011,5915811,Freight,Canadian National,Canadian National,,,
+2011,5947012,Freight and Passenger,Canadian National,Canadian National,Prince Rupert,Intermodal,Canadian National
+2011,5955014,Freight,Canadian National,Canadian National,Dawson Creek,Freight,Canadian National
+2011,5931831,Freight,Canadian National,Canadian National,Seton,Unknown,Canadian National
+2011,5933851,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5919816,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5915055,Freight,Canadian National,Canadian National,Ambleside,Unknown,Canadian National
+2011,5919051,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5931017,Freight and Tourist,Canadian National,Canadian National,Creekside,Unknown,Canadian National
+2011,5953023,Freight and Passenger,Canadian National,Canadian National,Prince George Intermodal Terminal,Intermodal,Canadian National
+2011,5953019,Freight,Canadian National,Canadian National,Peterson,Unknown,Canadian National
+2011,5951043,Freight and Passenger,Canadian National,Canadian National,Babine,Unknown,Canadian National
+2011,5941021,Freight and Tourist,Canadian National,Canadian National,Cotwood,Unknown,Canadian National
+2011,5953048,Freight and Passenger,Canadian National,Canadian National,Willow River,Passenger Station,VIA Rail
+2011,5933070,Freight,Canadian National,Canadian National,Clemina East,Unknown,Canadian National
+2011,5931021,Freight,Canadian National,Canadian National,Garibaldi,Unknown,Canadian National
+2011,5953048,Freight and Passenger,Canadian National,Canadian National,Penny,Passenger Station,VIA Rail
+2011,5951007,Freight and Passenger,Canadian National,Canadian National,Vanderhoof,Mixed,Canadian National
+2011,5915835,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5915029,Freight,Canadian Pacific,Canadian Pacific,Spruce,Unknown,Canadian National
+2011,5909808,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5951019,Freight and Passenger,Canadian National,Canadian National,Engen,Freight,Canadian National
+2011,5953048,Freight,Canadian National,Canadian National,Newlands,Unknown,Canadian National
+2011,5951015,Freight,Canadian National,Canadian National,Leo Creek,Unknown,Canadian National
+2011,5941010,Freight and Tourist,Canadian National,Canadian National,Comer,Unknown,Canadian National
+2011,5949013,Freight and Passenger,Canadian National,Canadian National,Amsbury,Unknown,Canadian National
+2011,5915004,Freight,Canadian National,Canadian National,Vancouver Intermodal Terminal,Intermodal,Canadian National
+2011,5933880,Freight,Canadian National,Canadian National,Kamloops,Mixed,Canadian National
+2011,5953019,Freight,Canadian National,Canadian National,Lubin,Unknown,Canadian National
+2011,5951015,Freight,Canadian National,Canadian National,Nation,Unknown,Canadian National
+2011,5933068,Freight,Canadian National,Canadian National,Black Pool,Unknown,Canadian National
+2011,5901039,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5915029,Freight,Southern Railway of British Columbia,Island Corridor Foundation,New Westminster,Freight,Canadian National
+2011,5941019,Freight and Tourist,Canadian National,Canadian National,Australian,Unknown,Canadian National
+2011,5915004,Freight,Burlington Northern Santa Fe Railway,Burlington Northern and Santa Fe Railway Company,MacDonald,Freight,Canadian National
+2011,5909014,Freight,Canadian National,Canadian National,Spence,Unknown,Canadian National
+2011,5953050,Freight,Canadian National,Canadian National,Table,Unknown,Canadian National
+2011,5951051,Freight,Canadian National,Canadian National,Roberts Creek,Unknown,Canadian National
+2011,5915004,Freight,Southern Railway of British Columbia,Island Corridor Foundation,MacDonald,Freight,Canadian National
+2011,5909052,Freight,Canadian Pacific,Canadian Pacific,Sumas Mtn,Unknown,Canadian National
+2011,5953050,Freight,Canadian National,Canadian National,Killy,Unknown,Canadian National
+2011,5933070,Freight,Canadian National,Canadian National,Messiter West,Unknown,Canadian National
+2011,5933825,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5949011,Freight,Canadian National,Canadian National,Terrace,Freight,Canadian National
+2011,5941021,Freight,Canadian National,Canadian National,Baker,Unknown,Canadian National
+2011,5921016,Freight,Unknown,Unknown,,,
+2011,5915039,Freight,Canadian Pacific,Canadian Pacific,Port Coquitlam,Passenger Station,West Coast Express Ltd.
+2011,5915004,Freight and Passenger,BC Rail,Canadian National,Vancouver Intermodal Terminal,Intermodal,Canadian National
+2011,5953044,Freight and Tourist,Canadian National,Canadian National,Cale Creek,Unknown,Canadian National
+2011,5931021,Freight and Tourist,Canadian National,Canadian National,Porteau,Unknown,Canadian National
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Albreda,Unknown,Canadian National
+2011,5951017,Freight and Passenger,Canadian National,Canadian National,Willowvle,Unknown,Canadian National
+2011,5941021,Freight,Canadian National,Canadian National,Colebank,Unknown,Canadian National
+2011,5915002,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5951028,Freight,Canadian National,Canadian National,Palling,Freight,Canadian National
+2011,5917811,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5915070,Freight,Canadian Pacific,Canadian Pacific,Pitt Meadows,Passenger Station,West Coast Express Ltd.
+2011,5953019,Freight,Canadian National,Canadian National,Goat River,Mixed,Canadian National
+2011,5953046,Freight and Tourist,Canadian National,Canadian National,Hixon,Unknown,Canadian National
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Kidd,Unknown,Canadian National
+2011,5933070,Freight,Canadian National,Canadian National,McMurphy,Unknown,Canadian National
+2011,5933035,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5919049,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5909062,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5941015,Freight and Tourist,Canadian National,Canadian National,Tatton,Unknown,Canadian National
+2011,5915015,Freight,Canadian National,Canadian National,,,
+2011,5903041,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5933070,Freight,Canadian National,Canadian National,Blue River East,Unknown,Canadian National
+2011,5941015,Freight,Canadian National,Canadian National,Lac La Hache,Unknown,Canadian National
+2011,5941015,Freight,Canadian National,Canadian National,Graham,Unknown,Canadian National
+2011,5935801,Freight,Kelowna Pacific Railway,Knighthawk Rail Ltd.,,,
+2011,5941010,Freight and Tourist,Canadian National,Canadian National,MacAlister,Unknown,Canadian National
+2011,5909014,Freight and Passenger,Canadian National,Canadian National,Komo,Unknown,Canadian National
+2011,5955010,Freight,Canadian National,Canadian National,Dokie,Unknown,Canadian National
+2011,5931012,Freight and Tourist,Canadian National,Canadian National,Tisdall,Freight,Canadian National
+2011,5915034,Freight,Canadian Pacific,Canadian Pacific,Coquitlam Central,Passenger Station,West Coast Express Ltd.
+2011,5933068,Freight and Passenger,Canadian National,Canadian National,Irvine,Unknown,Canadian National
+2011,5915001,Freight,Southern Railway of British Columbia,Island Corridor Foundation,Hydro,Unknown,Canadian National
+2011,5933857,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5909014,Freight and Passenger,Canadian National,Canadian National,Boston Bar East,Unknown,Canadian National
+2011,5915029,Freight,Southern Railway of British Columbia,Island Corridor Foundation,Fraser River Bridge,Unknown,Canadian National
+2011,5931017,Freight,Canadian National,Canadian National,Green River,Unknown,Canadian National
+2011,5949018,Freight,Canadian National,Canadian National,Snelling,Unknown,Canadian National
+2011,5909014,Freight and Passenger,Canadian National,Canadian National,Boston Bar West,Freight,Canadian National
+2011,5931012,Freight and Tourist,Canadian National,Canadian National,Pemberton,Unknown,Canadian National
+2011,5933070,Freight,Canadian National,Canadian National,Messiter East,Unknown,Canadian National
+2011,5953048,Freight and Passenger,Canadian National,Canadian National,McGregor,Passenger Station,VIA Rail
+2011,5915029,Freight,Southern Railway of British Columbia,Island Corridor Foundation,Braid,Freight,Canadian National
+2011,5951053,Freight,Canadian National,Canadian National,Topley,Unknown,Canadian National
+2011,5909812,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5933072,Freight and Passenger,Canadian National,Canadian National,Boulder,Unknown,Canadian National
+2011,5951848,Freight,Canadian National,Canadian National,,,
+2011,5903015,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5915004,Freight and Passenger,BC Rail,Canadian National,Douglas Island,Freight,Canadian National
+2011,5949810,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5931829,Freight,Canadian National,Canadian National,Moran,Unknown,Canadian National
+2011,5921023,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5917034,Freight,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5953050,Freight,Canadian National,Canadian National,Caswell,Unknown,Canadian National
+2011,5951015,Freight,Canadian National,Canadian National,Bulkley House,Unknown,Canadian National
+2011,5953050,Freight,Canadian National,Canadian National,Wakely,Unknown,Canadian National
+2011,5915025,Freight and Passenger,Canadian National,Canadian National,Lake City,Unknown,Canadian National
+2011,5941014,Freight and Tourist,Canadian National,Canadian National,,,
+2011,5933032,Freight,Canadian National,Canadian National,Kelly Lake,Unknown,Canadian National
+2011,5953019,Freight,Canadian National,Canadian National,Poser,Unknown,Canadian National
+2011,5953019,Freight,Canadian National,Canadian National,Spicer,Unknown,Canadian National
+2011,5933070,Freight and Passenger,Canadian National,Canadian National,Thunder River,Unknown,Canadian National
+2011,5955040,Freight,Canadian National,Canadian National,Beatton River,Unknown,Canadian National
+2011,5949011,Freight,Canadian National,Canadian National,Terrace,Mixed,Canadian National
+2011,5951017,Freight and Passenger,Canadian National,Canadian National,Encombe,Unknown,Canadian National
+2011,5931006,Freight,Canadian National,Canadian National,Thompson,Unknown,Canadian National
+2011,5915022,Freight,Southern Railway of Vancouver Island,Island Corridor Foundation,Still Creek,Unknown,Canadian National
+2011,5909844,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5931034,Freight,Canadian National,Canadian National,Polley,Unknown,Canadian National
+2011,5941019,Freight and Tourist,Canadian National,Canadian National,Dragon,Unknown,Canadian National
+2011,5933070,Freight and Passenger,Canadian National,Canadian National,Clemina East,Unknown,Canadian National
+2011,5953048,Freight,Canadian National,Canadian National,Penny,Passenger Station,VIA Rail
+2011,5931034,Freight,Canadian National,Canadian National,Fountain,Unknown,Canadian National
+2011,5951007,Freight,Canadian National,Canadian National,Vanderhoof,Mixed,Canadian National
+2011,5933060,Freight and Tourist,Canadian Pacific,Canadian Pacific,,,
+2011,5951019,Freight,Canadian National,Canadian National,Engen,Freight,Canadian National
+2011,5953048,Freight and Passenger,Canadian National,Canadian National,Newlands,Unknown,Canadian National
+2011,5953044,Freight,Canadian National,Canadian National,Carrier,Unknown,Canadian National
+2011,5905018,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5941882,Freight and Tourist,Canadian National,Canadian National,,,
+2011,5955023,Freight,Canadian National,Canadian National,Septimus,Unknown,Canadian National
+2011,5951038,Freight and Passenger,Canadian National,Canadian National,Telkwa,Passenger Station,VIA Rail
+2011,5949013,Freight,Canadian National,Canadian National,Amsbury,Unknown,Canadian National
+2011,5915004,Freight and Passenger,Canadian National,Canadian National,Vancouver Intermodal Terminal,Intermodal,Canadian National
+2011,5933880,Freight and Passenger,Canadian National,Canadian National,Kamloops,Mixed,Canadian National
+2011,5953050,Freight,Canadian National,Canadian National,Carp,Unknown,Canadian National
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Lubin,Unknown,Canadian National
+2011,5941012,Freight,Canadian National,Canadian National,Onward,Unknown,Canadian National
+2011,5909805,Freight and Passenger,Canadian National,Canadian National,Inkitsaph,Unknown,Canadian National
+2011,5939037,Freight and Tourist,Canadian Pacific,Canadian Pacific,,,
+2011,5933068,Freight and Passenger,Canadian National,Canadian National,Black Pool,Unknown,Canadian National
+2011,5903058,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5933849,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5915004,Freight and Passenger,Burlington Northern Santa Fe Railway,Burlington Northern and Santa Fe Railway Company,MacDonald,Freight,Canadian National
+2011,5909014,Freight and Passenger,Canadian National,Canadian National,Spence,Unknown,Canadian National
+2011,5951051,Freight and Passenger,Canadian National,Canadian National,Roberts Creek,Unknown,Canadian National
+2011,5939811,Freight and Tourist,Canadian Pacific,Canadian Pacific,,,
+2011,5953050,Freight,Canadian National,Canadian National,Anzac,Unknown,Canadian National
+2011,5931034,Freight,Canadian National,Canadian National,Retaskit,Unknown,Canadian National
+2011,5955023,Freight,Canadian National,Canadian National,Lemoray,Unknown,Canadian National
+2011,5933070,Freight and Passenger,Canadian National,Canadian National,Messiter West,Unknown,Canadian National
+2011,5915065,Freight and Tourist,Canadian National,Canadian National,Brunswick,Unknown,Canadian National
+2011,5915055,Freight and Tourist,Canadian National,Canadian National,Westbay,Unknown,Canadian National
+2011,5949011,Freight and Passenger,Canadian National,Canadian National,Terrace,Freight,Canadian National
+2011,5921010,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5933037,Freight,Canadian National,Canadian National,Martel,Unknown,Canadian National
+2011,5909052,Freight and Passenger,Canadian National,Canadian National,Matsqui Junction,Unknown,Canadian National
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Dunster,Passenger Station,VIA Rail
+2011,5915022,Freight,Canadian National,Canadian National,CN Junction,Unknown,Canadian National
+2011,5953019,Freight,Canadian National,Canadian National,Raush Valley,Unknown,Canadian National
+2011,5915004,Freight and Passenger,Canadian National,Canadian National,Douglas Island,Freight,Canadian National
+2011,5955042,Freight,Canadian National,Canadian National,Liwiski,Unknown,Canadian National
+2011,5939023,Freight and Tourist,Canadian Pacific,Canadian Pacific,,,
+2011,5915001,Freight and Passenger,Canadian National,Canadian National,Rawlison,Unknown,Canadian National
+2011,5939801,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5921014,Freight,Unknown,Unknown,,,
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Harvey,Mixed,Canadian National
+2011,5903043,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5941810,Freight and Tourist,Canadian National,Canadian National,,,
+2011,5917047,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5941009,Freight,Canadian National,Canadian National,Lakeside,Unknown,Canadian National
+2011,5901022,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5953042,Freight and Passenger,Canadian National,Canadian National,Nechako,Unknown,Canadian National
+2011,5909052,Freight,Canadian Pacific,Canadian Pacific,Abbostford,Passenger Station,VIA Rail
+2011,5909020,Freight,Southern Railway of British Columbia,Island Corridor Foundation,Arnold,Unknown,Canadian National
+2011,5947012,Freight,Canadian National,Canadian National,Prince Rupert,Intermodal,Canadian National
+2011,5957022,Tourist,White Pass & Yukon Railway Co.,Unknown,Connelly,Unknown,Canadian National
+2011,5915801,Freight and Passenger,Burlington Northern Santa Fe Railway,Burlington Northern and Santa Fe Railway Company,,,
+2011,5955034,Freight,Canadian National,Canadian National,Fort St John,Freight,Canadian National
+2011,5931026,Freight,Canadian National,Canadian National,Coopers,Unknown,Canadian National
+2011,5919051,Freight,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5953023,Freight,Canadian National,Canadian National,Prince George Intermodal Terminal,Intermodal,Canadian National
+2011,5955040,Freight,Canadian National,Canadian National,Blue Hills,Unknown,Canadian National
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Peterson,Unknown,Canadian National
+2011,5957022,Freight,Canadian National,Canadian National,Connelly,Unknown,Canadian National
+2011,5909009,Freight and Passenger,Canadian Pacific,Canadian Pacific,Floods,Unknown,Canadian National
+2011,5933032,Freight,Canadian National,Canadian National,Koster,Unknown,Canadian National
+2011,5951043,Freight,Canadian National,Canadian National,Babine,Unknown,Canadian National
+2011,5953048,Freight,Canadian National,Canadian National,Willow River,Passenger Station,VIA Rail
+2011,5953023,Freight and Tourist,Canadian National,Canadian National,Violato,Freight,Canadian National
+2011,5957022,Tourist,White Pass & Yukon Railway Co.,Unknown,Sloane,Unknown,Canadian National
+2011,5951015,Freight,Canadian National,Canadian National,Bluff,Unknown,Canadian National
+2011,5955023,Freight,Canadian National,Canadian National,Windy,Unknown,Canadian National
+2011,5909014,Freight,Canadian National,Canadian National,Boston Bar West,Freight,Canadian National
+2011,5933070,Freight and Passenger,Canadian National,Canadian National,Messiter East,Unknown,Canadian National
+2011,5953048,Freight,Canadian National,Canadian National,McGregor,Passenger Station,VIA Rail
+2011,5951053,Freight and Passenger,Canadian National,Canadian National,Topley,Unknown,Canadian National
+2011,5915802,Freight,BC Rail,Canadian National,,,
+2011,5933072,Freight and Passenger,Canadian National,Canadian National,Exlou,Unknown,Canadian National
+2011,5915004,Freight,BC Rail,Canadian National,Douglas Island,Freight,Canadian National
+2011,5949810,Freight,Canadian National,Canadian National,,,
+2011,5957022,Freight,Canadian National,Canadian National,Sloane,Unknown,Canadian National
+2011,5917034,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5953007,Freight and Passenger,Canadian National,Canadian National,Valemount,Mixed,Canadian National
+2011,5959007,Freight,Canadian National,Canadian National,Klua,Unknown,Canadian National
+2011,5915022,Passenger,Canadian Pacific,Canadian Pacific,Still Creek,Unknown,Canadian National
+2011,5915025,Freight,Canadian National,Canadian National,Lake City,Unknown,Canadian National
+2011,5933037,Freight and Tourist,Canadian Pacific,Canadian Pacific,Martel,Unknown,Canadian National
+2011,5955005,Freight,Canadian National,Canadian National,,,
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Poser,Unknown,Canadian National
+2011,5901048,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5933070,Freight,Canadian National,Canadian National,Thunder River,Unknown,Canadian National
+2011,5931020,Freight and Tourist,Canadian National,Canadian National,Whistler,Unknown,Canadian National
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Spicer,Unknown,Canadian National
+2011,5915001,Freight,Canadian Pacific,Canadian Pacific,Hopewell,Unknown,Canadian National
+2011,5949011,Freight and Passenger,Canadian National,Canadian National,Terrace,Mixed,Canadian National
+2011,5951017,Freight,Canadian National,Canadian National,Encombe,Unknown,Canadian National
+2011,5909807,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5909052,Freight,Canadian Pacific,Canadian Pacific,Page,Unknown,Canadian National
+2011,5915004,Freight,BC Rail,Canadian National,Vancouver Intermodal Terminal,Intermodal,Canadian National
+2011,5915039,Freight and Passenger,Canadian Pacific,Canadian Pacific,Port Coquitlam,Passenger Station,West Coast Express Ltd.
+2011,5931843,Freight and Tourist,Canadian National,Canadian National,Mount Currie,Unknown,Canadian National
+2011,5953023,Freight and Tourist,Canadian National,Canadian National,Prince George West,Freight,Canadian National
+2011,5921008,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5953019,Freight,Canadian National,Canadian National,Albreda,Unknown,Canadian National
+2011,5951015,Freight,Canadian National,Canadian National,Tachie,Unknown,Canadian National
+2011,5941010,Freight and Tourist,Canadian National,Canadian National,Soda Creek,Unknown,Canadian National
+2011,5939043,Freight and Tourist,Canadian Pacific,Canadian Pacific,,,
+2011,5951017,Freight,Canadian National,Canadian National,Willowvle,Unknown,Canadian National
+2011,5955023,Freight,Canadian National,Canadian National,Teko,Unknown,Canadian National
+2011,5953023,Freight and Tourist,Canadian National,Canadian National,Nichols,Unknown,Canadian National
+2011,5953050,Freight,Canadian National,Canadian National,Liersch,Unknown,Canadian National
+2011,5951028,Freight and Passenger,Canadian National,Canadian National,Palling,Freight,Canadian National
+2011,5901019,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5915070,Freight and Passenger,Canadian Pacific,Canadian Pacific,Pitt Meadows,Passenger Station,West Coast Express Ltd.
+2011,5947012,Freight,Unknown,Unknown,Prince Rupert,Intermodal,Canadian National
+2011,5953019,Freight,Canadian National,Canadian National,Kidd,Unknown,Canadian National
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Goat River,Mixed,Canadian National
+2011,5933070,Freight and Passenger,Canadian National,Canadian National,McMurphy,Unknown,Canadian National
+2011,5909062,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5905009,Freight,International Rail Road Systems,International Rail Road Systems Inc.,,,
+2011,5933070,Freight and Passenger,Canadian National,Canadian National,Blue River East,Unknown,Canadian National
+2011,5909052,Freight,Canadian Pacific,Canadian Pacific,Glen Valley,Unknown,Canadian National
+2011,5933042,Freight,Canadian Pacific,Canadian Pacific,Mann,Unknown,Canadian National
+2011,5933015,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5953038,Freight,Canadian National,Canadian National,Frost,Unknown,Canadian National
+2011,5909014,Freight,Canadian National,Canadian National,Komo,Unknown,Canadian National
+2011,5933068,Freight,Canadian National,Canadian National,Irvine,Unknown,Canadian National
+2011,5915034,Freight and Passenger,Canadian Pacific,Canadian Pacific,Coquitlam Central,Passenger Station,West Coast Express Ltd.
+2011,5933857,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5951815,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5909014,Freight,Canadian National,Canadian National,Boston Bar East,Unknown,Canadian National
+2011,5909048,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5959007,Freight,Canadian National,Canadian National,Elleh,Unknown,Canadian National
+2011,5933834,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5939032,Freight and Tourist,Canadian Pacific,Canadian Pacific,,,
+2011,5915025,Freight and Passenger,Canadian Pacific,Canadian Pacific,Sperling,Unknown,Canadian National
+2011,5937802,Freight,Okanagan Valley Railway Company,OmniTRAX,,,
+2011,5933070,Freight,Canadian National,Canadian National,Clemina West,Unknown,Canadian National
+2011,5933039,Freight,Canadian National,Canadian National,Jaleslie,Unknown,Canadian National
+2011,5953048,Freight,Canadian National,Canadian National,Sinclair Mills,Passenger Station,VIA Rail
+2011,5937024,Freight,Kelowna Pacific Railway,Knighthawk Rail Ltd.,,,
+2011,5951013,Freight,Canadian National,Canadian National,Manson,Unknown,Canadian National
+2011,5939011,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5915022,Freight and Tourist,Canadian National,Canadian National,Still Creek,Unknown,Canadian National
+2011,5949005,Freight,Canadian National,Canadian National,Kitimat,Unknown,Canadian National
+2011,5933054,Freight and Tourist,Canadian Pacific,Canadian Pacific,,,
+2011,5931020,Freight and Tourist,Canadian National,Canadian National,Mons,Unknown,Canadian National
+2011,5953048,Freight and Passenger,Canadian National,Canadian National,Matheson,Unknown,Canadian National
+2011,5915025,Freight and Passenger,Canadian Pacific,Canadian Pacific,Willingdon Junction,Unknown,Canadian National
+2011,5923037,Freight,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5953048,Freight and Passenger,Canadian National,Canadian National,Longworth,Mixed,Canadian National
+2011,5931006,Freight and Tourist,Canadian National,Canadian National,Cheakamus,Freight,Canadian National
+2011,5909032,Freight,Canadian Pacific,Canadian Pacific,Agassiz,Passenger Station,VIA Rail
+2011,5947012,Freight,Canadian National,Canadian National,Nemoto,Freight,Canadian National
+2011,5949024,Freight and Passenger,Canadian National,Canadian National,McLeod,Unknown,Canadian National
+2011,5933070,Freight and Passenger,Canadian National,Canadian National,Lempriere,Unknown,Canadian National
+2011,5915807,Freight,Canadian National,Canadian National,,,
+2011,5953050,Freight,Canadian National,Canadian National,Whitford,Unknown,Canadian National
+2011,5933037,Freight and Passenger,Canadian National,Canadian National,Basque,Unknown,Canadian National
+2011,5949013,Freight,Canadian National,Canadian National,Lakelse,Unknown,Canadian National
+2011,5955021,Freight,Canadian National,Canadian National,Kiskatinaw,Unknown,Canadian National
+2011,5915022,Freight,Canadian National,Canadian National,Vancouver Central Pacific,Passenger Station,VIA Rail
+2011,5937028,Freight,Kelowna Pacific Railway,Knighthawk Rail Ltd.,,,
+2011,5915029,Freight and Passenger,Canadian National,Canadian National,Fraser River Bridge,Unknown,Canadian National
+2011,5915029,Freight and Passenger,Canadian National,Canadian National,Braid,Freight,Canadian National
+2011,5933070,Freight and Passenger,Canadian National,Canadian National,Blue River,Mixed,Canadian National
+2011,5909016,Freight and Passenger,Canadian National,Canadian National,Stout,Unknown,Canadian National
+2011,5949024,Freight and Passenger,Canadian National,Canadian National,New Hazelton,Passenger Station,VIA Rail
+2011,5933037,Freight and Passenger,Canadian Pacific,Canadian Pacific,Falls Creek,Unknown,Canadian National
+2011,5923008,Freight,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5933037,Freight and Tourist,Canadian Pacific,Canadian Pacific,Conrad,Unknown,Canadian National
+2011,5933019,Freight,Canadian National,Canadian National,Ashcroft,Mixed,Canadian National
+2011,5915001,Freight and Passenger,Canadian National,Canadian National,Hydro,Unknown,Canadian National
+2011,5909832,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5915022,Freight and Passenger,Canadian National,Canadian National,Vancouver,Mixed,Canadian Pacific
+2011,5947012,Freight,Canadian National,Canadian National,Watson Island,Freight,Canadian National
+2011,5915051,Freight,Canadian National,Canadian National,,,
+2011,5933037,Freight and Tourist,Canadian Pacific,Canadian Pacific,Lasha,Unknown,Canadian National
+2011,5951028,Freight,Canadian National,Canadian National,Tintagel,Unknown,Canadian National
+2011,5959007,Freight,Canadian National,Canadian National,Niteal,Unknown,Canadian National
+2011,5939045,Freight,Okanagan Valley Railway Company,OmniTRAX,,,
+2011,5915020,Freight and Tourist,Canadian National,Canadian National,,,
+2011,5915004,Freight,BC Rail,Canadian National,MacDonald,Freight,Canadian National
+2011,5919012,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5905030,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5921007,Freight,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5909880,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5933037,Freight,Canadian National,Canadian National,Spence's Bridge,Unknown,Canadian National
+2011,5909815,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5933037,Freight and Passenger,Canadian National,Canadian National,Coho,Unknown,Canadian National
+2011,5941005,Freight and Tourist,Canadian National,Canadian National,Edmund,Unknown,Canadian National
+2011,5953050,Freight,Canadian National,Canadian National,Goad,Unknown,Canadian National
+2011,5937014,Freight,Kelowna Pacific Railway,Knighthawk Rail Ltd.,,,
+2011,5955023,Freight,Canadian National,Canadian National,Worth,Unknown,Canadian National
+2011,5933037,Freight and Passenger,Canadian Pacific,Canadian Pacific,Morris,Unknown,Canadian National
+2011,5933028,Freight,Canadian National,Canadian National,Clinton,Unknown,Canadian National
+2011,5953019,Freight,Canadian National,Canadian National,Red Pass Junction,Unknown,Canadian National
+2011,5933037,Freight and Tourist,Canadian Pacific,Canadian Pacific,Spence's Bridge,Unknown,Canadian National
+2011,5931826,Freight and Tourist,Canadian National,Canadian National,,,
+2011,5915004,Freight and Passenger,Canadian National,Canadian National,MacDonald,Freight,Canadian National
+2011,5915007,Freight and Passenger,Burlington Northern Santa Fe Railway,Burlington Northern and Santa Fe Railway Company,,,
+2011,5909014,Freight and Passenger,Canadian National,Canadian National,North Bend,Mixed,Canadian Pacific
+2011,5955040,Freight,Canadian National,Canadian National,Gutah,Unknown,Canadian National
+2011,5915029,Freight and Passenger,Canadian National,Canadian National,New Westminster,Freight,Canadian National
+2011,5953050,Freight,Canadian National,Canadian National,Parsnip,Unknown,Canadian National
+2011,5915004,Freight,Canadian Pacific,Canadian Pacific,Hampton,Unknown,Canadian National
+2011,5933037,Freight and Passenger,Canadian Pacific,Canadian Pacific,Walhachin,Unknown,Canadian National
+2011,5933832,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5949814,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5947012,Freight,Unknown,Unknown,Nemoto,Freight,Canadian National
+2011,5933037,Freight,Canadian National,Canadian National,Conrad,Unknown,Canadian National
+2011,5909009,Freight and Passenger,Canadian Pacific,Canadian Pacific,Hope,Mixed,Canadian National
+2011,5915043,Freight and Passenger,Canadian Pacific,Canadian Pacific,Port Moody,Passenger Station,West Coast Express Ltd.
+2011,5933019,Freight and Tourist,Canadian Pacific,Canadian Pacific,Ashcroft,Mixed,Canadian National
+2011,5905052,Freight,Grand Forks Railway,Pope & Talbot,,,
+2011,5949013,Freight and Passenger,Canadian National,Canadian National,Exstew,Unknown,Canadian National
+2011,5915029,Freight,Canadian Pacific,Canadian Pacific,Brunette,Unknown,Canadian National
+2011,5933865,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5953023,Freight and Tourist,Canadian National,Canadian National,Prince George South,Freight,Canadian National
+2011,5909014,Freight and Passenger,Canadian National,Canadian National,Boston Bar,Mixed,Canadian National
+2011,5915004,Freight and Passenger,Burlington Northern Santa Fe Railway,Burlington Northern and Santa Fe Railway Company,Vancouver Intermodal Terminal,Intermodal,Canadian National
+2011,5949020,Freight,Canadian National,Canadian National,Dubose,Unknown,Canadian National
+2011,5901046,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5953023,Freight and Tourist,Canadian National,Canadian National,Miworth,Unknown,Canadian National
+2011,5905050,Freight,Burlington Northern Santa Fe Railway,Burlington Northern and Santa Fe Railway Company,,,
+2011,5951051,Freight and Passenger,Canadian National,Canadian National,Evelyn,Unknown,Canadian National
+2011,5933037,Freight,Canadian National,Canadian National,Lasha,Unknown,Canadian National
+2011,5949013,Freight,Canadian National,Canadian National,Usk,Passenger Station,VIA Rail
+2011,5909810,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5953048,Freight and Passenger,Canadian National,Canadian National,Dewey,Unknown,Canadian National
+2011,5953019,Freight,Canadian National,Canadian National,Bend,Mixed,Canadian National
+2011,5931020,Freight and Tourist,Canadian National,Canadian National,McGuire,Unknown,Canadian National
+2011,5941015,Freight and Tourist,Canadian National,Canadian National,Wright,Unknown,Canadian National
+2011,5917054,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5917040,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5941010,Freight,Canadian National,Canadian National,Mackin,Unknown,Canadian National
+2011,5909014,Freight and Passenger,Canadian National,Canadian National,Martinson,Unknown,Canadian National
+2011,5909020,Freight,Canadian National,Canadian National,Arnold,Unknown,Canadian National
+2011,5951034,Freight,Canadian National,Canadian National,Houston,Mixed,Canadian Pacific
+2011,5933070,Freight and Passenger,Canadian National,Canadian National,Ewasiuk,Unknown,Canadian National
+2011,5949013,Freight,Canadian National,Canadian National,Salvus,Unknown,Canadian National
+2011,5953038,Freight,Canadian National,Canadian National,Quaw,Unknown,Canadian National
+2011,5939007,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5939045,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5901040,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5933044,Freight and Tourist,Canadian Pacific,Canadian Pacific,Vinsulla,Unknown,Canadian National
+2011,5953023,Freight and Passenger,Canadian National,Canadian National,Basford,Freight,Canadian National
+2011,5949816,Freight and Passenger,Canadian National,Canadian National,Kitwanga,Passenger Station,VIA Rail
+2011,5915055,Freight and Tourist,Canadian National,Canadian National,Horseshoe Bay,Unknown,Canadian National
+2011,5915025,Freight and Passenger,Canadian Pacific,Canadian Pacific,Piper,Unknown,Canadian National
+2011,5915004,Freight and Passenger,Burlington Northern Santa Fe Railway,Burlington Northern and Santa Fe Railway Company,Douglas Island,Freight,Canadian National
+2011,5933039,Freight and Tourist,Canadian Pacific,Canadian Pacific,Jaleslie,Unknown,Canadian National
+2011,5947012,Freight,Unknown,Unknown,Watson Island,Freight,Canadian National
+2011,5947007,Freight,Canadian National,Canadian National,Sockeye,Unknown,Canadian National
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Taverna,Unknown,Canadian National
+2011,5933037,Freight,Canadian Pacific,Canadian Pacific,McAbee,Freight,Canadian National
+2011,5915022,Freight,Canadian Pacific,Canadian Pacific,Still Creek,Unknown,Canadian National
+2011,5915034,Freight,Canadian National,Canadian National,North Road,Freight,Canadian National
+2011,5949013,Freight and Passenger,Canadian National,Canadian National,Pacific,Mixed,Canadian National
+2011,5915022,Freight and Passenger,Canadian National,Canadian National,Waterfront,Passenger Station,West Coast Express Ltd.
+2011,5933042,Freight,Canadian Pacific,Canadian Pacific,Mackenzie,Unknown,Canadian National
+2011,5937005,Freight,Kelowna Pacific Railway,Knighthawk Rail Ltd.,,,
+2011,5901017,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5957022,Tourist,White Pass & Yukon Railway Co.,Unknown,Minaret,Unknown,Canadian National
+2011,5937805,Freight,Kelowna Pacific Railway,Knighthawk Rail Ltd.,,,
+2011,5953050,Freight,Canadian National,Canadian National,Kennedy,Unknown,Canadian National
+2011,5931006,Freight and Tourist,Canadian National,Canadian National,Thompson,Unknown,Canadian National
+2011,5915001,Freight,Canadian Pacific,Canadian Pacific,Rawlison,Unknown,Canadian National
+2011,5933880,Freight,Canadian National,Canadian National,Batchelor,Unknown,Canadian National
+2011,5915004,Freight,Canadian Pacific,Canadian Pacific,Douglas Island,Freight,Canadian National
+2011,5957022,Freight,Canadian National,Canadian National,Minaret,Unknown,Canadian National
+2011,5901806,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5953033,Freight,Canadian National,Canadian National,Mackenzie,Freight,Canadian National
+2011,5915004,Freight,Canadian National,Canadian National,Fraser River Junction,Unknown,Canadian National
+2011,5933037,Freight and Passenger,Canadian Pacific,Canadian Pacific,Martel,Unknown,Canadian National
+2011,5909052,Freight,Canadian Pacific,Canadian Pacific,Matsqui Junction,Unknown,Canadian National
+2011,5933032,Freight and Tourist,Canadian National,Canadian National,Kelly Lake,Unknown,Canadian National
+2011,5941014,Freight,Canadian National,Canadian National,,,
+2011,5953019,Freight,Canadian National,Canadian National,Loos,Mixed,Canadian National
+2011,5919046,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5915022,Freight and Passenger,Canadian Pacific,Canadian Pacific,CN Junction,Unknown,Canadian National
+2011,5909009,Freight,Canadian National,Canadian National,Floods,Unknown,Canadian National
+2011,5931829,Freight and Tourist,Canadian National,Canadian National,Moran,Unknown,Canadian National
+2011,5915022,Freight,Southern Railway of Vancouver Island,Island Corridor Foundation,Vancouver Central Pacific,Passenger Station,VIA Rail
+2011,5953019,Freight,Canadian National,Canadian National,Charles,Unknown,Canadian National
+2011,5953048,Freight and Passenger,Canadian National,Canadian National,Aleza Lake,Passenger Station,VIA Rail
+2011,5933067,Freight,Canadian National,Canadian National,Clearwater,Passenger Station,VIA Rail
+2011,5931017,Freight and Tourist,Canadian National,Canadian National,Green River,Unknown,Canadian National
+2011,5953023,Freight and Passenger,Canadian National,Canadian National,Violato,Freight,Canadian National
+2011,5951051,Freight and Passenger,Canadian National,Canadian National,Huntington,Unknown,Canadian National
+2011,5931012,Freight,Canadian National,Canadian National,Pemberton,Unknown,Canadian National
+2011,5909052,Freight and Passenger,Canadian National,Canadian National,Abbostford,Passenger Station,VIA Rail
+2011,5955023,Freight,Canadian National,Canadian National,Bond,Unknown,Canadian National
+2011,5915004,Freight,Canadian Pacific,Canadian Pacific,Vancouver Intermodal Terminal,Intermodal,Canadian National
+2011,5931012,Freight,Canadian National,Canadian National,Tisdall,Freight,Canadian National
+2011,5933068,Freight,Canadian National,Canadian National,Birch Island,Unknown,Canadian National
+2011,5941010,Freight,Canadian National,Canadian National,MacAlister,Unknown,Canadian National
+2011,5941015,Freight and Tourist,Canadian National,Canadian National,Graham,Unknown,Canadian National
+2011,5955021,Freight,Canadian National,Canadian National,Rowland,Unknown,Canadian National
+2011,5935016,Freight,Kelowna Pacific Railway,Knighthawk Rail Ltd.,,,
+2011,5941015,Freight and Tourist,Canadian National,Canadian National,Lac La Hache,Unknown,Canadian National
+2011,5947016,Freight and Passenger,Canadian National,Canadian National,Kwinitsa,Mixed,Canadian National
+2011,5923033,Freight,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5959007,Freight,Canadian National,Canadian National,Ft Nelson Yard,Freight,Canadian National
+2011,5951019,Freight and Passenger,Canadian National,Canadian National,Wedgwood,Unknown,Canadian National
+2011,5955010,Freight,Canadian National,Canadian National,Chetwynd,Unknown,Canadian National
+2011,5915840,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5915022,Passenger,Canadian Pacific,Canadian Pacific,Vancouver,Mixed,Canadian Pacific
+2011,5915029,Freight,Canadian National,Canadian National,Spruce,Unknown,Canadian National
+2011,5909878,Freight,Southern Railway of British Columbia,Island Corridor Foundation,Abrahamson,Unknown,Canadian National
+2011,5953048,Freight and Passenger,Canadian National,Canadian National,Wolverine,Unknown,Canadian National
+2011,5955023,Freight,Canadian National,Canadian National,Foss,Unknown,Canadian National
+2011,5941015,Freight,Canadian National,Canadian National,Tatton,Unknown,Canadian National
+2011,5951840,Freight,Canadian National,Canadian National,,,
+2011,5953023,Freight and Passenger,Canadian National,Canadian National,Nichols,Unknown,Canadian National
+2011,5915004,Freight and Passenger,Burlington Northern Santa Fe Railway,Burlington Northern and Santa Fe Railway Company,Hampton,Unknown,Canadian National
+2011,5953046,Freight,Canadian National,Canadian National,Hixon,Unknown,Canadian National
+2011,5955040,Freight,Canadian National,Canadian National,Nunes,Unknown,Canadian National
+2011,5909052,Freight,Canadian National,Canadian National,Sumas Mtn,Unknown,Canadian National
+2011,5953023,Freight and Passenger,Canadian National,Canadian National,Prince George West,Freight,Canadian National
+2011,5953044,Freight,Canadian National,Canadian National,Cale Creek,Unknown,Canadian National
+2011,5953019,Freight,Canadian National,Canadian National,Jackman,Unknown,Canadian National
+2011,5909014,Freight,Canadian Pacific,Canadian Pacific,Spence,Unknown,Canadian National
+2011,5953019,Freight,Canadian National,Canadian National,Dome Creek,Passenger Station,VIA Rail
+2011,5949024,Freight and Passenger,Canadian National,Canadian National,Fleming,Unknown,Canadian National
+2011,5941021,Freight and Tourist,Canadian National,Canadian National,Colebank,Unknown,Canadian National
+2011,5953019,Freight,Canadian National,Canadian National,Swiftwater,Unknown,Canadian National
+2011,5915011,Freight and Passenger,Burlington Northern Santa Fe Railway,Burlington Northern and Santa Fe Railway Company,,,
+2011,5931021,Freight,Canadian National,Canadian National,Porteau,Unknown,Canadian National
+2011,5953050,Freight,Canadian National,Canadian National,Sentinel,Unknown,Canadian National
+2011,5915075,Freight and Passenger,Canadian Pacific,Canadian Pacific,Port Haney,Passenger Station,West Coast Express Ltd.
+2011,5915070,Freight and Passenger,Canadian Pacific,Canadian Pacific,Vancouver Intermodal Terminal,Intermodal,Canadian Pacific
+2011,5941021,Freight and Tourist,Canadian National,Canadian National,Baker,Unknown,Canadian National
+2011,5949028,Freight,Canadian National,Canadian National,Cedarvale,Mixed,Canadian National
+2011,5953019,Freight,Canadian National,Canadian National,Grant Brook,Unknown,Canadian National
+2011,5909034,Freight and Passenger,Canadian National,Canadian National,Cheam View,Unknown,Canadian National
+2011,5909020,Freight,Canadian National,Canadian National,Chilliwack,Mixed,Canadian National
+2011,5941019,Freight,Canadian National,Canadian National,Australian,Unknown,Canadian National
+2011,5937024,Freight,Okanagan Valley Railway Company,OmniTRAX,,,
+2011,5953048,Freight and Passenger,Canadian National,Canadian National,Shelley,Freight,Canadian National
+2011,5905026,Freight,Kettle Falls International Railway Co.,OmniTRAX,,,
+2011,5953050,Freight,Canadian National,Canadian National,Tacheeda,Unknown,Canadian National
+2011,5905052,Freight,Burlington Northern Santa Fe Railway,Burlington Northern and Santa Fe Railway Company,,,
+2011,5953019,Freight,Canadian National,Canadian National,Von Zuben,Unknown,Canadian National
+2011,5921036,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5909014,Freight and Passenger,Canadian Pacific,Canadian Pacific,Boston Bar East,Unknown,Canadian National
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,McCabe,Unknown,Canadian National
+2011,5955040,Freight,Canadian National,Canadian National,Tamarack,Unknown,Canadian National
+2011,5941010,Freight,Canadian National,Canadian National,Comer,Unknown,Canadian National
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Mooke Lake,Unknown,Canadian National
+2011,5915034,Freight,Canadian National,Canadian National,Coquitlam Central,Passenger Station,West Coast Express Ltd.
+2011,5933070,Freight and Passenger,Canadian National,Canadian National,Redsand,Unknown,Canadian National
+2011,5909014,Freight and Passenger,Canadian Pacific,Canadian Pacific,Komo,Unknown,Canadian National
+2011,5955023,Freight,Canadian National,Canadian National,Perry,Unknown,Canadian National
+2011,5915015,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5909062,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5933881,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Yellowhead,Unknown,Canadian National
+2011,5933879,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5933042,Freight and Passenger,Canadian National,Canadian National,Mann,Unknown,Canadian National
+2011,5937028,Freight,Okanagan Valley Railway Company,OmniTRAX,,,
+2011,5933015,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5909052,Freight and Passenger,Canadian National,Canadian National,Glen Valley,Unknown,Canadian National
+2011,5931021,Freight and Tourist,Canadian National,Canadian National,Garibaldi,Unknown,Canadian National
+2011,5903052,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5951013,Freight,Canadian National,Canadian National,Fort St James,Freight,Canadian National
+2011,5909843,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5931017,Freight,Canadian National,Canadian National,Creekside,Unknown,Canadian National
+2011,5915055,Freight and Tourist,Canadian National,Canadian National,Ambleside,Unknown,Canadian National
+2011,5953048,Freight and Passenger,Canadian National,Canadian National,Hutton,Passenger Station,VIA Rail
+2011,5909052,Freight,Southern Railway of British Columbia,Island Corridor Foundation,Matsqui,Unknown,Canadian National
+2011,5941021,Freight,Canadian National,Canadian National,Cotwood,Unknown,Canadian National
+2011,5921007,Freight,Unknown,Unknown,,,
+2011,5915004,Freight and Passenger,BC Rail,Canadian National,Fraser River Junction,Unknown,Canadian National
+2011,5959806,Freight,Canadian National,Canadian National,,,
+2011,5941017,Freight and Tourist,Canadian National,Canadian National,Potter,Unknown,Canadian National
+2011,5951028,Freight,Canadian National,Canadian National,Watson Bc,Unknown,Canadian National
+2011,5947012,Freight and Passenger,Canadian National,Canadian National,Prince Rupert,Passenger Station,VIA Rail
+2011,5909014,Freight and Passenger,Canadian Pacific,Canadian Pacific,Boston Bar West,Freight,Canadian National
+2011,5931831,Freight and Tourist,Canadian National,Canadian National,Seton,Unknown,Canadian National
+2011,5909052,Freight and Passenger,Canadian National,Canadian National,Page,Unknown,Canadian National
+2011,5921034,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5951009,Freight,Canadian National,Canadian National,,,
+2011,5915001,Freight and Passenger,Canadian National,Canadian National,Hopewell,Unknown,Canadian National
+2011,5933070,Freight,Canadian National,Canadian National,Pyramid,Unknown,Canadian National
+2011,5926010,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5955023,Freight,Canadian National,Canadian National,Norris,Unknown,Canadian National
+2011,5915025,Freight and Passenger,Canadian Pacific,Canadian Pacific,Lake City,Unknown,Canadian National
+2011,5941013,Freight and Tourist,Canadian National,Canadian National,Westply,Unknown,Canadian National
+2011,5931017,Freight and Tourist,Canadian National,Canadian National,Birken,Unknown,Canadian National
+2011,5953801,Freight,Canadian National,Canadian National,,,
+2011,5933846,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5915022,Passenger,Canadian Pacific,Canadian Pacific,Waterfront,Passenger Station,West Coast Express Ltd.
+2011,5933042,Freight,Kelowna Pacific Railway,Knighthawk Rail Ltd.,Mackenzie,Unknown,Canadian National
+2011,5909016,Freight and Passenger,Canadian National,Canadian National,Yale,Unknown,Canadian National
+2011,5953023,Freight and Passenger,Canadian National,Canadian National,Miworth,Unknown,Canadian National
+2011,5951814,Freight,Canadian National,Canadian National,Trembleur,Unknown,Canadian National
+2011,5915022,Freight,Canadian Pacific,Canadian Pacific,Vancouver,Mixed,Canadian Pacific
+2011,5931006,Freight,Canadian National,Canadian National,Brackendale,Unknown,Canadian National
+2011,5915011,Freight,BC Rail,Canadian National,,,
+2011,5915004,Freight,BC Rail,Canadian National,Hampton,Unknown,Canadian National
+2011,5931034,Freight and Tourist,Canadian National,Canadian National,Pavilion,Unknown,Canadian National
+2011,5941009,Freight and Tourist,Canadian National,Canadian National,Williams Lake,Freight,Canadian National
+2011,5955010,Freight,Canadian National,Canadian National,Chetwynd,Freight,Canadian National
+2011,5915001,Freight,Canadian Pacific,Canadian Pacific,Hydro,Unknown,Canadian National
+2011,5915046,Freight and Tourist,Canadian National,Canadian National,North Vancouver,Freight,Canadian National
+2011,5949028,Freight,Canadian National,Canadian National,Andimaul,Unknown,Canadian National
+2011,5933037,Freight,Canadian National,Canadian National,Falls Creek,Unknown,Canadian National
+2011,5949013,Freight and Passenger,Canadian National,Canadian National,Grande Trunk,Unknown,Canadian National
+2011,5953023,Freight and Passenger,Canadian National,Canadian National,Prince George South,Freight,Canadian National
+2011,5909016,Freight and Passenger,Canadian National,Canadian National,Trafalgar,Unknown,Canadian National
+2011,5933037,Freight,Canadian National,Canadian National,Morris,Unknown,Canadian National
+2011,5951007,Freight,Canadian National,Canadian National,Cariboo,Unknown,Canadian National
+2011,5919021,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5933037,Freight,Canadian Pacific,Canadian Pacific,Coho,Unknown,Canadian National
+2011,5937010,Freight,Kelowna Pacific Railway,Knighthawk Rail Ltd.,,,
+2011,5933845,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5953048,Freight,Canadian National,Canadian National,Giscome,Freight,Canadian National
+2011,5933037,Freight and Tourist,Canadian Pacific,Canadian Pacific,Walhachin,Unknown,Canadian National
+2011,5953046,Freight and Tourist,Canadian National,Canadian National,Crysdale,Unknown,Canadian National
+2011,5953048,Freight and Passenger,Canadian National,Canadian National,Upper Frazer,Passenger Station,VIA Rail
+2011,5933039,Freight and Tourist,Canadian Pacific,Canadian Pacific,Kissick,Unknown,Canadian National
+2011,5949028,Freight and Passenger,Canadian National,Canadian National,Carnaby,Unknown,Canadian National
+2011,5921018,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5933037,Freight and Passenger,Canadian Pacific,Canadian Pacific,Spence's Bridge,Unknown,Canadian National
+2011,5939803,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5933039,Freight,Canadian National,Canadian National,Frederick,Unknown,Canadian National
+2011,5933039,Freight,Canadian National,Canadian National,Savona,Unknown,Canadian National
+2011,5909020,Freight,Southern Railway of British Columbia,Island Corridor Foundation,Chilliwack,Mixed,Canadian National
+2011,5953050,Freight,Canadian National,Canadian National,Alward,Unknown,Canadian National
+2011,5947007,Freight and Passenger,Canadian National,Canadian National,Tyee,Unknown,Canadian National
+2011,5931844,Freight,Canadian National,Canadian National,Darcy,Unknown,Canadian National
+2011,5951053,Freight and Passenger,Canadian National,Canadian National,Lucas,Unknown,Canadian National
+2011,5951806,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5915025,Freight,Canadian National,Canadian National,Willingdon Junction,Unknown,Canadian National
+2011,5947012,Freight and Passenger,Canadian National,Canadian National,Prince Rupert,Freight,Canadian National
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Fitzwilliam,Unknown,Canadian National
+2011,5947016,Freight,Unknown,Unknown,Skeena,Unknown,Canadian National
+2011,5937017,Freight,Kelowna Pacific Railway,Knighthawk Rail Ltd.,,,
+2011,5915022,Freight and Tourist,Canadian National,Canadian National,Waterfront,Passenger Station,West Coast Express Ltd.
+2011,5909020,Freight and Passenger,Canadian National,Canadian National,Rosedale,Unknown,Canadian National
+2011,5921032,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5941017,Freight,Canadian National,Canadian National,Norris,Unknown,Canadian National
+2011,5953019,Freight,Canadian National,Canadian National,Croydon,Unknown,Canadian National
+2011,5915022,Freight,Southern Railway of Vancouver Island,Island Corridor Foundation,CN Junction,Unknown,Canadian National
+2011,5931026,Freight,Canadian National,Canadian National,Lillooet,Freight,Canadian National
+2011,5955023,Freight,Canadian National,Canadian National,Williams,Unknown,Canadian National
+2011,5949028,Freight,Canadian National,Canadian National,Bulkley Canyon,Unknown,Canadian National
+2011,5937022,Freight,Kelowna Pacific Railway,Knighthawk Rail Ltd.,,,
+2011,5915025,Freight,Canadian National,Canadian National,Sperling,Unknown,Canadian National
+2011,5953012,Freight and Passenger,Canadian National,Canadian National,McBride,Mixed,Canadian National
+2011,5915029,Freight,Canadian Pacific,Canadian Pacific,Braid,Freight,Canadian National
+2011,5933070,Freight and Passenger,Canadian National,Canadian National,Avola West,Unknown,Canadian National
+2011,5949013,Freight and Passenger,Canadian National,Canadian National,Dorreen,Passenger Station,VIA Rail
+2011,5915022,Freight and Passenger,Canadian Pacific,Canadian Pacific,Vancouver Central Pacific,Passenger Station,VIA Rail
+2011,5953023,Freight and Tourist,Canadian National,Canadian National,Basford,Freight,Canadian National
+2011,5951043,Freight and Passenger,Canadian National,Canadian National,Smithers,Mixed,Canadian National
+2011,5915029,Freight,Canadian Pacific,Canadian Pacific,Fraser River Bridge,Unknown,Canadian National
+2011,5941010,Freight,Canadian National,Canadian National,Gibraltar,Unknown,Canadian National
+2011,5933037,Freight,Canadian Pacific,Canadian Pacific,Basque,Unknown,Canadian National
+2011,5959007,Freight,Canadian National,Canadian National,Fontas,Unknown,Canadian National
+2011,5933880,Freight and Passenger,Canadian National,Canadian National,Chapman,Freight,Canadian National
+2011,5909052,Freight,Canadian National,Canadian National,Matsqui,Unknown,Canadian National
+2011,5933068,Freight,Canadian National,Canadian National,Vavenby,Unknown,Canadian National
+2011,5941005,Freight,Canadian National,Canadian National,Exeter,Unknown,Canadian National
+2011,5951017,Freight and Passenger,Canadian National,Canadian National,Endako,Mixed,Canadian National
+2011,5921804,Freight,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5951019,Freight,Canadian National,Canadian National,Hulatt,Unknown,Canadian National
+2011,5915025,Freight,Canadian National,Canadian National,Piper,Unknown,Canadian National
+2011,5953042,Freight and Passenger,Canadian National,Canadian National,Nichol,Unknown,Canadian National
+2011,5941013,Freight,Canadian National,Canadian National,Quesnel,Freight,Canadian National
+2011,5909014,Freight,Canadian Pacific,Canadian Pacific,Martinson,Unknown,Canadian National
+2011,5905032,Freight,Grand Forks Railway,Pope & Talbot,,,
+2011,5933070,Freight and Passenger,Canadian National,Canadian National,Wolfenden,Unknown,Canadian National
+2011,5933897,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5921016,Freight and Passenger,Southern Railway of Vancouver Island,Island Corridor Foundation,,,
+2011,5931006,Freight,Canadian National,Canadian National,Squamish South,Unknown,Canadian National
+2011,5951017,Freight,Canadian National,Canadian National,Fort Fraser,Passenger Station,VIA Rail
+2011,5915022,Freight and Passenger,Canadian National,Canadian National,Still Creek,Unknown,Canadian National
+2011,5915004,Freight,Southern Railway of British Columbia,Island Corridor Foundation,Fraser River Junction,Unknown,Canadian National
+2011,5915034,Freight and Passenger,Canadian Pacific,Canadian Pacific,North Road,Freight,Canadian National
+2011,5933042,Freight and Passenger,Canadian National,Canadian National,Mackenzie,Unknown,Canadian National
+2011,5915022,Freight,Canadian Pacific,Canadian Pacific,Waterfront,Passenger Station,West Coast Express Ltd.
+2011,5931034,Freight,Canadian National,Canadian National,Glen Fraser,Unknown,Canadian National
+2011,5933070,Freight and Passenger,Canadian National,Canadian National,Blue River West,Unknown,Canadian National
+2011,5951022,Freight and Passenger,Canadian National,Canadian National,Burns Lake,Mixed,Canadian National
+2011,5933037,Freight and Passenger,Canadian National,Canadian National,McAbee,Freight,Canadian National
+2011,5949805,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5955023,Freight,Canadian National,Canadian National,Wolverine,Unknown,Canadian National
+2011,5909056,Freight,Canadian Pacific,Canadian Pacific,Mission,Passenger Station,VIA Rail
+2011,5955040,Freight,Canadian National,Canadian National,Sikanni,Unknown,Canadian National
+2011,5941021,Freight,Canadian National,Canadian National,Greening,Unknown,Canadian National
+2011,5915004,Freight,Burlington Northern Santa Fe Railway,Burlington Northern and Santa Fe Railway Company,Fraser River Junction,Unknown,Canadian National
+2011,5941809,Freight,Canadian National,Canadian National,,,
+2011,5933037,Freight,Canadian National,Canadian National,Walhachin,Unknown,Canadian National
+2011,5951028,Freight,Canadian National,Canadian National,Broman Lake,Unknown,Canadian National
+2011,5931034,Freight and Tourist,Canadian National,Canadian National,Marne,Unknown,Canadian National
+2011,5933070,Freight,Canadian National,Canadian National,Wabron,Unknown,Canadian National
+2011,5915004,Freight and Passenger,Canadian National,Canadian National,Hampton,Unknown,Canadian National
+2011,5951017,Freight and Passenger,Canadian National,Canadian National,Savory,Unknown,Canadian National
+2011,5915029,Freight,Canadian Pacific,Canadian Pacific,New Westminster,Freight,Canadian National
+2011,5933037,Freight and Tourist,Canadian Pacific,Canadian Pacific,Morris,Unknown,Canadian National
+2011,5951019,Freight,Canadian National,Canadian National,McCall,Unknown,Canadian National
+2011,5909014,Freight,Canadian Pacific,Canadian Pacific,North Bend,Mixed,Canadian Pacific
+2011,5903004,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5941021,Freight and Tourist,Canadian National,Canadian National,Dunkley,Freight,Canadian National
+2011,5915075,Freight,Canadian Pacific,Canadian Pacific,Maple Meadows,Passenger Station,West Coast Express Ltd.
+2011,5933039,Freight and Tourist,Canadian Pacific,Canadian Pacific,Savona,Unknown,Canadian National
+2011,5933044,Freight and Passenger,Canadian National,Canadian National,McLure,Unknown,Canadian National
+2011,5933039,Freight and Tourist,Canadian Pacific,Canadian Pacific,Frederick,Unknown,Canadian National
+2011,5909052,Freight,Southern Railway of British Columbia,Island Corridor Foundation,Sumas Mtn,Unknown,Canadian National
+2011,5953019,Freight,Canadian National,Canadian National,Canoe River,Unknown,Canadian National
+2011,5915004,Freight,Canadian Pacific,Canadian Pacific,MacDonald,Freight,Canadian National
+2011,5933039,Freight,Canadian National,Canadian National,Kissick,Unknown,Canadian National
+2011,5933887,Freight and Passenger,Canadian National,Canadian National,Chinook Cove,Unknown,Canadian National
+2011,5933037,Freight and Passenger,Canadian Pacific,Canadian Pacific,Lasha,Unknown,Canadian National
+2011,5949028,Freight,Canadian National,Canadian National,Moricetown,Unknown,Canadian National
+2011,5951053,Freight and Passenger,Canadian National,Canadian National,Barrett,Unknown,Canadian National
+2011,5937033,Freight,Okanagan Valley Railway Company,OmniTRAX,,,
+2011,5933070,Freight,Canadian National,Canadian National,Avola East,Unknown,Canadian National
+2011,5915029,Freight,Southern Railway of British Columbia,Island Corridor Foundation,Spruce,Unknown,Canadian National
+2011,5909841,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5915808,Freight,Canadian National,Canadian National,,,
+2011,5915022,Freight and Tourist,Canadian National,Canadian National,Vancouver,Mixed,Canadian Pacific
+2011,5953019,Freight,Canadian National,Canadian National,Foster,Unknown,Canadian National
+2011,5953019,Freight and Passenger,Canadian National,Canadian National,Morey,Unknown,Canadian National
+2011,5955040,Freight,Canadian National,Canadian National,Zeke,Unknown,Canadian National
+2011,5949013,Freight,Canadian National,Canadian National,Hagstad,Unknown,Canadian National
+2011,5933042,Freight,Kelowna Pacific Railway,Knighthawk Rail Ltd.,Mann,Unknown,Canadian National
+2011,5915029,Freight and Passenger,Canadian National,Canadian National,Brunette,Unknown,Canadian National
+2011,5931821,Freight,Canadian National,Canadian National,,,
+2011,5931006,Freight,Canadian National,Canadian National,Shannon,Unknown,Canadian National
+2011,5949844,Freight and Passenger,Canadian National,Canadian National,,,
+2011,5909876,Freight and Passenger,Canadian Pacific,Canadian Pacific,,,
+2011,5939019,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5933037,Freight and Tourist,Canadian Pacific,Canadian Pacific,Falls Creek,Unknown,Canadian National
+2011,5953023,Freight,Canadian National,Canadian National,Prince George,Mixed,Canadian National
+2011,5909014,Freight,Canadian Pacific,Canadian Pacific,Boston Bar,Mixed,Canadian National
+2011,5933037,Freight and Passenger,Canadian Pacific,Canadian Pacific,Conrad,Unknown,Canadian National
+2011,5909806,Freight,Canadian Pacific,Canadian Pacific,,,
+2011,5909009,Freight,Canadian National,Canadian National,Hope,Mixed,Canadian National

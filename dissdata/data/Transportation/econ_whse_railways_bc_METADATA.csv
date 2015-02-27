@@ -1,1 +1,9 @@
-field,type,descriptioncensus_subdivision_id,string,"CENSUS_SUBDIVISION_ID: Foreign Key, linking to CENSUS_SUBDIVISION_ID in CEN_CENSUS_SUBDIVISIONS, e.g., 5901022"track_class,string,"Class of track, such as main, siding, spur etc"use_type,string,identification of what is transported on the trackoperator_name,string,Name of track operatorowner_name,string,Name of track owner
+field,type,description
+census_year,integer,"CENSUS YEAR is the census year that the data is collected. e.g., 2006, 2011."
+census_subdivision_id,string,"CENSUS_SUBDIVISION_ID: Foreign Key, linking to CENSUS_SUBDIVISION_ID in CEN_CENSUS_SUBDIVISIONS, e.g., 5901022"
+track_usetype,string,**get description from source table**
+track_operatoena,string,**get description from source table**
+track_ownerena,string,**get description from source table**
+station_stnenname,string,**get description from source table**
+station_stntype,string,**get description from source table**
+station_stnusr1ena,string,**get description from source table**

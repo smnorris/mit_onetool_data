@@ -1,7 +1,7 @@
-field	type	description
-major_center_id	integer	Primary key
-census_year	integer	"CENSUS YEAR is the census year that the data is collected. e.g., 2006, 2011."
-census_subdivision_id	string	"CENSUS_SUBDIVISION_ID: Foreign Key, linking to CENSUS_SUBDIVISION_ID in CEN_CENSUS_SUBDIVISIONS, e.g., 5901022"
-major_center_name	string	Name of the major center
-lat	float	Latitude of the major center
-lon	float	Longitude of the major center
+field,type,description
+major_center_id,integer,Primary key
+census_year,integer,"CENSUS YEAR is the census year that the data is collected. e.g., 2006, 2011."
+census_subdivision_id,string,"CENSUS_SUBDIVISION_ID: Foreign Key, linking to CENSUS_SUBDIVISION_ID in CEN_CENSUS_SUBDIVISIONS, e.g., 5901022"
+major_center_name,string,Name of the major center
+lat,float,Latitude of the major center
+lon,float,Longitude of the major center

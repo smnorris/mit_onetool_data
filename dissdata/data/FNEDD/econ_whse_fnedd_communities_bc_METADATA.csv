@@ -1,0 +1,19 @@
+field,type,description
+NAME,string,Name of the First Nation
+FIRST_NATIONS_BAND NAME,string,Alternate name associated with the First Nation
+NATION,string,Larger First Nation with which the given First Nation is affiliated
+REGION,string,BC Economic region in which First Nation is located
+POPULATION,integer,Total population of the First Nation
+PRIMARY_CONTACT,string,
+CONTACT_TITLE,string,
+EMAIL,string,
+PHONE,string,
+FAX,string,
+WEB_SITE,string,
+ADDRESS,string,
+CITY,string,
+PROVINCE,string,
+POSTAL_CODE,string,
+LATITUDE,float,
+LONGITUDE,float,
+PHOTO,boolean,

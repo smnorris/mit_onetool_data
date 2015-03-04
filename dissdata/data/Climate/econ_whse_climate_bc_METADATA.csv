@@ -5,7 +5,7 @@ clab_id,integer,"CLAB_ID: is a Canada Lands Administrative Boundary (CLAB) uniqu
 reference_point_latitude,float,Latitude of the reference point
 reference_point_longitude,float,Longitude of the reference point
 average_high_temperature_jan,float,Average daily maximum air temperature (C) - January
-average_high_temperature_july,float,Average daily maximum air temperature (C) - July
+average_high_temperature_jul,float,Average daily maximum air temperature (C) - July
 average_low_temperature_jan,float,Average daily minimum air temperature (C) - January
 average_low_temperature_jul,float,Average daily minimum air temperature (C) - July
 average_temperature_jan,float,Mean temperature (C) - January

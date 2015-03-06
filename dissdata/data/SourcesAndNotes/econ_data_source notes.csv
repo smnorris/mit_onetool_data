@@ -1,0 +1,19 @@
+DATA_SOURCE_NOTE_ID,DATASET_NAME,DATA_SOURCE_NAME,DATA_NOTES,UPDATE_CYCLE
+,ECON_CLIMATE_INDICATORS,"Wang, T., Hamann, A. Spittlehouse, D.L. and Murdock, T.Q. 2012. ClimateWNA - High-resolution spatial climate data for western North America. Journal of Applied
+Meteorology and Climatology 51:16-29, ClimateBC v5.03",See ClimateBC web site for details on the source data: http://climatemodels.forestry.ubc.ca/climatebc/downloads/help_v510.pdf,irregular
+,ECON_ELEVATION_STATISTICS,"GeoBC, Base Mapping, BC TRIM Digital Elevation Model (1:20,000, 25m resolution), 2015",Values are based entirely on the Digital Elevation Model,irregular
+,ECON_LANGUAGES_SPOKEN,"Statistics Canada, Census, 2011",Languages selected are based on Ministry criteria. For census details see http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/help-aide/help-aide.cfm?Lang=E,5 years
+,ECON_POPULATION_PRJCTNS,"BC Stats, Sub-Provincial Population Projections, 2014",,annual
+,ECON_UNEMPLOYMENT_PRJCTNS,"Ministry of Jobs, Tourism and Skills Training (Labour Market Outlook Model), 2015",,Current unemployment updated monthly. Forecasts updated annually.
+,ECON_LABOUR_MARKET_PRJCTNS,"Ministry of Jobs, Tourism and Skills Training (Labour Market Outlook Model), 2014",,annual
+,ECON_LABOUR_MARKET_EXPREP,"Ministry of Jobs, Tourism and Skills Training (Labour Market Outlook Model), 2014",,annual
+,ECON_LABOUR_WAGES,"Employment and Social Development Canada (http://www.jobbank.gc.ca), 2014",,annual
+,ECON_ENERGY_UTILITIES,"Ministry of International Trade research, 2015",Published rates are estimates only.  Average rates are approximations based on interpretation of several sources. Users should check with the individual utility for quotes at required service level.,as required
+,ECON_TELECOMM_UTILITIES,"Ministry of International Trade research, 2015","This list is not comprehensive, it is only a selection of major providers. Users may wish to check with the community of interest for alternate providers.",as required
+,ECON_UTILITY_SERVICE_AREAS,"Ministry of International Trade research; Integrated Cadastral Information Society, 2015",Use the service area definition for general information only. This should not be used for site specific planning. Contact individual utilities/companies for more detailed information.,as required
+,ECON_CENSUS_DIV_POP_NHS_TBL,"Statistics Canada, Census and National Household Survey, 2011",,5 years
+,ECON_CENSUS_SUBDIV_POP_NHS_TBL,"Statistics Canada, Census and National Household Survey, 2011",,5 years
+,ECON_POST_SECONDARY_INSTTTNS,"BC Ministry of Advanced Education, 2014",,as required
+,ECON_POST_SECONDARY_CLUSTERS,"BC Ministry of Advanced Education, 2014",,annual
+,TBD - railways,"Natural Resources Canada; Earth Sciences Sector; Canada Centre for Mapping and Earth Observation, National Railway Network, 2013",See http://geogratis.gc.ca/api/en/nrcan-rncan/ess-sst/efde26d7-83e3-48ed-a4bf-0e0ece8cfd36.html for more info,irregular
+,TBD - first nations location/population,"Aboriginal Affairs and Northern Development Canada, First Nations Profiles, December 31 2014",See http://fnp-ppn.aandc-aadnc.gc.ca/fnp/Main/Index.aspx?lang=eng for more info,annual

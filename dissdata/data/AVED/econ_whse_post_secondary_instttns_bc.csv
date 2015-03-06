@@ -1,0 +1,26 @@
+POST_SECONDARY_EDUC_ID,POST_SECONDAYR_INST_ID,POST_SECONDARY_INSTTTN_NAME,POST_SECONDARY_INSTTTN_CMTY,POST_SECONDARY_INST_RESRCH_IND,CENSUS_YEAR,CENSUS_SUBDIVISION_ID,CLAB_ID,POST_SECONDARY_INST_WEBSITE
+9,1,British Columbia Institute of Technology,Burnaby,,2011,5915025,,http://www.bcit.ca/
+17,2,Camosun College,Saanich,,2011,5917021,,http://camosun.ca/
+22,3,Capilano University,North Vancouver,,2011,5915046,,https://www.capilanou.ca/
+31,4,College of New Caledonia,Prince George,,2011,5953023,,http://www.cnc.bc.ca/
+43,5,College of the Rockies,Cranbrook,,2011,5901022,,http://www.cotr.bc.ca/
+49,6,Douglas College,New Westminster,,2011,5915029,,http://www.douglas.bc.ca/home.html
+54,7,Emily Carr University of Art and Design,Vancouver,,2011,5915022,,http://www.ecuad.ca/
+57,8,Justice Institute of British Columbia,New Westminster,,2011,5915029,,http://www.jibc.ca/
+65,9,Kwantlen Polytechnic University,Surrey,,2011,5915004,,http://www.kwantlen.ca/home.html
+70,10,Langara College,Vancouver,,2011,5915022,,http://www.langara.bc.ca/
+71,11,Nicola Valley Institute of Technology,Merritt,,2011,5933006,,http://www.nvit.bc.ca/default.htm
+77,12,North Island College,Courtenay,,2011,5926010,,http://www.nic.bc.ca/
+87,13,Northern Lights College,Dawson Creek,,2011,5955014,,http://www.nlc.bc.ca/
+105,14,Northwest Community College,Terrace,,2011,5949011,,http://www.nwcc.bc.ca/
+114,15,Okanagan College,Kelowna,,2011,5935010,,http://www.okanagan.bc.ca/
+121,16,Royal Roads University,Colwood,,2011,5917041,,http://www.royalroads.ca/
+125,17,Selkirk College,Central Kootenay J,,2011,5903058,,http://www.selkirk.bc.ca/
+131,18,Simon Fraser University,Burnaby,Y,2011,5915025,,http://www.sfu.ca/
+139,19,Thompson Rivers University,Kamloops,,2011,5933042,,http://www.tru.ca/
+142,20,University of British Columbia,Greater Vancouver A,Y,2011,5915020,,http://www.ubc.ca/
+145,21,University of Northern British Columbia,Prince George,Y,2011,5953023,,http://www.unbc.ca/
+154,22,University of the Fraser Valley,Abbotsford,,2011,5909052,,http://www.ufv.ca/
+157,23,University of Victoria,Saanich,Y,2011,5917021,,http://www.uvic.ca/
+159,24,Vancouver Community College,Vancouver,,2011,5915022,,http://www.vcc.bc.ca/
+164,25,Vancouver Island University,Nanaimo,,2011,5921007,,http://www.viu.ca/

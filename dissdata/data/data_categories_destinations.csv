@@ -1,7 +1,7 @@
 folder,datafile,destination,bcgw_table,bcgw_status,iedc_tab,categories
 Climate,econ_whse_climate_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_CLIMATE_INDICATORS,PROD,21 Quality of Life,Climate
-DemographicsLabour,econ_whse_demographics_labour_cd_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_CENSUS_DIV_POP_NHS_TBL,STAGE,01 Demographics; 02 Labour,Household income; Employment by industry; Employment by occupation; Labour participation rate; Workforce education attainment; Commute time
-DemographicsLabour,econ_whse_demographics_labour_csd_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_CENSUS_SUBDIV_POP_NHS_TBL,STAGE,01 Demographics; 02 Labour,Population; Household income; Employment by industry; Employment by occupation; Labour participation rate; Workforce education attainment; Commute time
+DemographicsLabour,econ_whse_demographics_labour_cd_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_CENSUS_DIV_POP_NHS_TBL,DLVR,01 Demographics; 02 Labour,Household income; Employment by industry; Employment by occupation; Labour participation rate; Workforce education attainment; Commute time
+DemographicsLabour,econ_whse_demographics_labour_csd_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_CENSUS_SUBDIV_POP_NHS_TBL,DLVR,01 Demographics; 02 Labour,Population; Household income; Employment by industry; Employment by occupation; Labour participation rate; Workforce education attainment; Commute time
 Elevation,econ_whse_elevation_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_ELEVATION_STATISTICS,PROD,21 Quality of Life,Climate
 LabourMarket,econ_whse_lmsm_regional_3digitnoc_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_LABOUR_MARKET_PRJCTNS,PROD,02 Labour,Employment by industry forecast
 LabourMarket,econ_whse_lmsm_regional_3digitnoc_summary_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_LABOUR_MARKET_EXPREP,PROD,02 Labour,Employment by industry forecast

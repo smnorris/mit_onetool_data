@@ -1,0 +1,201 @@
+CHECK,census_subdivision_id,census_year,clab_id,fn_name_1,fn_name_2,pop_total_registered,pop_on_reserve_crown,pop_off_reserve_crown,notes,census_subdivision_name,census_subdivision_type_code,band_number,band_name
+Is using same CSD as New West technically feasible?,5915029,2011,,Qayqayt,New Westminster,,,,The CSD record used to locate this First Nation is the the City of New Westminster CSD.,New Westminster,CY,566,New Westminster
+,5929803,2011,,Sechelt,,1356,668,688,,Sechelt (Part),IGD,551,Sechelt
+,5901804,2011,,?Akisq'nuk First Nation,Columbia Lake Indian Band,271,154,117,,Columbia Lake 3,IRI,604,?Akisq'nuk First Nation
+,5941882,2011,,?Esdilagh First Nation,Alexandria Indian Band,196,53,143,,Alexandria,IRI,709,?Esdilagh First Nation
+,5933884,2011,,Adams Lake,,765,416,349,,Sahhaltkum 4,IRI,684,Adams Lake
+,5923808,2011,,Ahousaht,,2083,789,1294,,Marktosis 15,IRI,659,Ahousaht
+,5909835,2011,,Aitchelitz,,42,25,17,,Aitchelitch 9,IRI,558,Aitchelitz
+,5941839,2011,,Tsi Del Del,Alexis Creek,682,356,326,,Redstone Flat 1,IRI,710,Alexis Creek
+,5933844,2011,,Ashcroft,,270,78,192,,Ashcroft 4,IRI,685,Ashcroft
+,5917809,2011,,Beecher Bay,Scia'new First Nation,250,112,138,,Becher Bay 1,IRI,640,Beecher Bay
+,5955803,2011,,Blueberry River First Nations,,471,225,246,,Blueberry River 205,IRI,547,Blueberry River First Nations
+,5933812,2011,,Bonaparte,,919,240,679,,Bonaparte 3,IRI,686,Bonaparte
+,5909819,2011,,Boothroyd,,283,90,193,,Kahmoose 4,IRI,700,Boothroyd
+,5909806,2011,,Boston Bar First Nation,,263,94,169,,Kopchitchin 2,IRI,701,Boston Bar First Nation
+"Xwisten is listed as Beecher Bay in source, likely an error",5931813,2011,,Xwisten,Bridge River,454,234,220,,Bridge River 1,IRI,590,Bridge River
+,5951815,2011,,Burns Lake,,128,48,80,,Burns Lake 18,IRI,619,Burns Lake
+,5924804,2011,,Campbell River,We Wai Kum First Nation,792,390,402,,Campbell River 11,IRI,622,Campbell River
+,5941802,2011,,Canim Lake,Tsq'escen’,605,440,165,,Canim Lake 1,IRI,713,Canim Lake
+,5924812,2011,,Cape Mudge,We Wai Kai,1096,395,701,,Quinsam 12,IRI,623,Cape Mudge
+,5931814,2011,,Cayoose Creek,Sekw'el'was,198,89,109,,Cayoosh Creek 1,IRI,591,Cayoose Creek
+,5909804,2011,,Chawathil,Hope Indian Band,591,386,205,,Chawathil 4,IRI,583,Chawathil
+,5909837,2011,,Cheam,,524,253,271,,Cheam 1,IRI,584,Cheam
+,5951818,2011,,Cheslatta Carrier Nation,,351,170,181,,Cheslatta 1,IRI,620,Cheslatta Carrier Nation
+,5933801,2011,,Coldwater,,831,392,439,,Coldwater 1,IRI,693,Coldwater
+,5933834,2011,,Cook's Ferry,,344,81,263,,Kumcheen 1,IRI,694,Cook's Ferry
+,5919822,2011,,Cowichan Tribes,,4772,2763,2009,,Cowichan,IRI,642,Cowichan
+,5919814,2011,,Ditidaht,,770,248,522,,Malachan 11,IRI,662,Ditidaht
+,5955804,2011,,Doig River First Nation,,303,143,160,,Doig River 206,IRI,548,Doig River First Nation
+,5909842,2011,,Xa’xtsa,Douglas First Nation,295,104,191,,Douglas 8,IRI,561,Douglas
+,5943813,2011,,Dzawada'enuxw First Nation,Tsawataineuk,533,148,385,,Quaee 7,IRI,636,Dzawada'enuxw First Nation
+,5924805,2011,,Ehattesaht,,462,141,321,,Chenahkint 12,IRI,634,Ehattesaht
+,5941801,2011,,Esk'etemc,,956,434,522,,Alkali Lake 1,IRI,711,Esk'etemc
+,5917811,2011,,Esquimalt,,300,195,105,,Esquimalt,IRI,644,Esquimalt
+,5959806,2011,,Fort Nelson First Nation,,908,467,441,,Fort Nelson 2,IRI,543,Fort Nelson First Nation
+,5949812,2011,,Gitanmaax,,2367,793,1574,,Gitanmaax 1,IRI,531,Gitanmaax
+,5949815,2011,,Gitanyow,,839,423,416,,Gitanyow 1,IRI,537,Gitanyow
+,5947806,2011,,Gitga'at First Nation,,737,148,589,,Kulkayu (Hartley Bay) 4,IRI,675,Gitga'at First Nation
+,5949814,2011,,Gitsegukla,Kitsegugkla - Gitxsan,988,457,531,,Gitsegukla 1,IRI,535,Gitsegukla
+,5949816,2011,,Gitwangak Band Council,Kitwanga,1304,421,883,,Gitwangak 1,IRI,536,Gitwangak
+,5947807,2011,,Gitxaala Nation,Kitkatla,1916,467,1449,,Dolphin Island 1,IRI,672,Gitxaala Nation
+,5949818,2011,,,,414,205,209,,Sik-e-dakh 2,IRI,533,Glen Vowell
+,5943806,2011,,Gwa'sala-Nakwaxda'xw Nation,,952,552,400,,Tsulquate 4,IRI,724,Gwa'Sala-Nakwaxda'xw
+,5943809,2011,,Gwawaenuk Tribe,,41,15,26,,Hopetown 10A,IRI,627,Gwawaenuk Tribe
+,5949811,2011,,Hagwilget Village Council,,773,222,551,,Hagwilget 1,IRI,534,Hagwilget Village
+,5949803,2011,,Haisla Nation,Kitimaat Village Council,1823,671,1152,,Kitamaat 2,IRI,676,Haisla Nation
+,5919801,2011,,Halalt,,209,105,104,,Halalt 2,IRI,645,Halalt
+,5955808,2011,,Halfway River First Nation,,276,154,122,,Halfway River 168,IRI,546,Halfway River First Nation
+,5945801,2011,,Heiltsuk,Bella Bella Indian Band,2380,1191,1189,,Bella Bella 1,IRI,538,Heiltsuk
+,5923824,2011,,Hesquiaht,,722,162,560,,Refuge Cove 6,IRI,661,Hesquiaht
+,5933819,2011,,High Bar,,117,,,,High Bar 1,IRI,703,High Bar
+,5924840,2011,,Homalco,,471,243,228,,Homalco 9,IRI,552,Homalco
+,5923801,2011,,Hupacasath First Nation,,313,142,171,,Ahahswinis 1,IRI,664,Hupacasath First Nation
+,5923803,2011,,Huu-Ay-Aht First Nation,,709,133,576,,Anacla 12,IRI,663,Huu-ay-aht First Nations
+,5949832,2011,,Iskut,,746,361,385,,Iskut 6,IRI,683,Iskut
+,5926801,2011,,K'ómoks First Nation,Comox Indian Band,330,112,218,,Comox 1,IRI,624,K'ómoks First Nation
+,5924806,2011,,Ka:'yu:'k't'h'/Che:k:tles7et'h' First Nations,Kyoquot First Nation,556,186,370,,Houpsitas 6,IRI,638,Ka:'yu:'k't'h'/Che:k:tles7et'h' First Nations
+,5933882,2011,,Kanaka Bar,,230,78,152,,Kanaka Bar,IRI,704,Kanaka Bar
+,5915830,2011,,Katzie,,562,322,240,,Katzie 1,IRI,563,Katzie
+,5949813,2011,,Kispiox,,1608,717,891,,Kispiox 1,IRI,532,Kispiox
+,5949802,2011,,Kitasoo/Xai'xais,Klemtu,516,323,193,,Kitasoo 1,IRI,540,Kitasoo
+,5949807,2011,,Kitselas,,628,296,332,,Kulspai 6,IRI,680,Kitselas
+,5949804,2011,,Kitsumkalum,,736,249,487,,Kitsumkaylum 1,IRI,681,Kitsumkalum
+,5924820,2011,,Klahoose First Nation,,398,85,313,,Tork 7,IRI,553,Klahoose First Nation
+,5955807,2011,,Kwadacha,Fort Ware,540,306,234,,Fort Ware 1,IRI,610,Kwadacha
+,5943815,2011,,Kwakiutl,,765,337,428,,Kippase 2,IRI,626,Kwakiutl
+,5915816,2011,,Kwantlen First Nation,Fort Langley Band,255,99,156,,McMillan Island 6,IRI,564,Kwantlen First Nation
+,5909821,2011,,Kwaw-Kwaw-a-pilt First Nation,,44,34,10,,Kwawkwawapilt 6,IRI,580,Kwaw-kwaw-Apilt
+,5943837,2011,,Kwikwasut'inuxw Haxwa'mis,Kwicksutaineuk/Ah-Kwa-Mish Tribes,295,77,218,,Alert Bay,IRI,625,Kwikwasut'inuxw Haxwa'mis
+,5915805,2011,,Kwikwetlem First Nation,,85,39,46,,Coquitlam 1,IRI,560,Kwikwetlem First Nation
+,5951827,2011,,Lake Babine Nation,,2440,1418,1022,,Woyenne 27,IRI,607,Lake Babine Nation
+,5919812,2011,,Lake Cowichan First Nation,,,,,,Cowichan Lake,IRI,643,Lake Cowichan First Nation
+,5947809,2011,,Lax Kw'alaams,,3710,709,3001,,Lax Kw'alaams 1,IRI,674,Lax Kw'alaams
+,5909880,2011,,Leq' A: Mel First Nation,Lakahahmen,401,138,263,,Lakahahmen 11,IRI,579,Leq' a: mel First Nation
+,5953801,2011,,Lheidli T'enneh,,415,122,293,,Fort George (Shelley) 2,IRI,611,Lheidli T'enneh
+,5941833,2011,,Lhoosk'uz Dene Nation,Kluskus Indian Band,234,73,161,,Kluskus 1,IRI,721,Lhoosk'uz Dene Nation
+,5943837,2011,,Lhtako Dene Nation,Red Bluff,174,70,104,,Alert Bay,IRI,715,Lhtako Dene Nation
+,5931843,2011,,Lil'wat,Mount Currie Indian Band,2154,1513,641,,Mount Currie,IRI,557,Lil'wat Nation
+,5939805,2011,,Little Shuswap Lake,,343,238,105,,Quaaout 1,IRI,689,Little Shuswap Lake
+,5903807,2011,,Lower Kootenay,Yaqan nu?kiy,234,119,115,,Creston 1,IRI,606,Lower Kootenay
+,5933807,2011,,Lower Nicola,,1225,561,664,,Nicola Mameet 1,IRI,695,Lower Nicola
+,5907805,2011,,Lower Similkameen,,495,288,207,,Chopaka 7 & 8,IRI,598,Lower Similkameen
+,5919811,2011,,Lyackson,,209,39,170,,Shingle Point 4,IRI,646,Lyackson
+,5933853,2011,,Lytton,,1989,953,1036,,Nuuautin 2,IRI,705,Lytton
+,5919815,2011,,Malahat First Nation,,319,173,146,,Malahat 11,IRI,647,Malahat First Nation
+,5909878,2011,,Matsqui,,262,117,145,,Matsqui Main 2,IRI,565,Matsqui
+,5953802,2011,,Mcleod Lake,,535,140,395,,McLeod Lake 1,IRI,618,McLeod Lake
+,5947810,2011,,Metlakatla,,890,94,796,,S1/2 Tsimpsean 2,IRI,673,Metlakatla
+,5949817,2011,,Moricetown,,2007,719,1288,,Moricetown 1,IRI,530,Moricetown
+,5924803,2011,,Mowachaht/Muchalaht,,603,254,349,,Ahaminaquus 12,IRI,630,Mowachaht/Muchalaht
+,5915803,2011,,Musqueam,,1355,783,572,,Musqueam 2,IRI,550,Musqueam
+,5931844,2011,,N'quatqua,Anderson Lake,345,204,141,,Nequatque,IRI,556,N'Quatqua
+,5951802,2011,,Nadleh Whuten,,543,279,264,,Nautley (Fort Fraser) 1,IRI,612,Nadleh Whuten
+,5951803,2011,,Nak'azdli,,1883,753,1130,,Nak'azdli (Necoslie 1),IRI,614,Nak'azdli
+,5943837,2011,,Namgis First Nation,,1804,971,833,,Alert Bay,IRI,631,Namgis First Nation
+,5921805,2011,,Nanoose First Nation,Snaw-naw-as,251,175,76,,Nanoose,IRI,649,Nanoose First Nation
+,5941837,2011,,Nazko First Nation,,374,177,197,,Nazco 20,IRI,720,Nazko First Nation
+,5951819,2011,,Nee-Tahi-Buhn Band,,144,54,90,,Omineca 1,IRI,726,Nee-Tahi-Buhn
+,5951819,2011,,Nee-Tahi-Buhn Band,,144,54,90,,Omineca 1,IRI,729,Nee-Tahi-Buhn
+,5933838,2011,,Neskonlith,,650,324,326,,Neskonlith,IRI,690,Neskonlith
+,5933851,2011,,Nicomen,,134,66,68,,Nicomen 1,IRI,696,Nicomen
+,5933808,2011,,Nooaitch,,220,124,96,,Nooaitch 10,IRI,699,Nooaitch
+,5924833,2011,,Nuchatlaht,,158,38,120,,Oclucje 7,IRI,639,Nuchatlaht
+,5945802,2011,,Nuxalk Nation,Bella Coola Band,1686,929,757,,Bella Coola 1,IRI,539,Nuxalk Nation
+,5939804,2011,,Okanagan Indian Band,,1955,899,1056,,Okanagan (Part) 1,IRI,616,Okanagan
+,5947803,2011,,Old Massett Village Council,,2977,754,2223,,Masset 1,IRI,669,Old Massett Village Council
+,5933854,2011,,Oregon Jack Creek,,65,20,45,,Paska Island 3,IRI,692,Oregon Jack Creek
+,5907802,2011,,Osoyoos Indian Band,,533,389,144,,Osoyoos 1,IRI,596,Osoyoos
+,5945803,2011,,Oweekeno Nation,Wuikinuxv,289,91,198,,Katit 1,IRI,541,Oweekeno/Wuikinuxv Nation
+,5917815,2011,,Pacheedaht First Nation,,277,124,153,,Gordon River 2,IRI,658,Pacheedaht First Nation
+,5917801,2011,,Pauquachin,,402,286,116,,Cole Bay 3,IRI,652,Pauquachin
+,5919809,2011,,Penelakut Tribe,,933,586,347,,Kuper Island 7,IRI,650,Penelakut Tribe
+,5907803,2011,,Penticton,,1033,615,418,,Penticton 1,IRI,597,Penticton
+,5909843,2011,,Peters,,157,47,110,,Peters 1,IRI,586,Peters
+,5909844,2011,,Popkum,,,,,,Popkum 1,IRI,585,Popkum
+,5959810,2011,,Prophet River First Nation,Denetsaa Tse K'Nai,270,116,154,,Prophet River 4,IRI,544,Prophet River First Nation
+,5921806,2011,,Qualicum First Nation,,124,58,66,,Qualicum,IRI,651,Qualicum First Nation
+,5943816,2011,,Quatsino,,538,245,293,,Quatsino Subdivision 18,IRI,633,Quatsino
+,5951809,2011,,Saik'uz First Nation,,951,456,495,,Stony Creek 1,IRI,615,Saik'uz First Nation
+,5909883,2011,,Samahquam,,361,112,249,,Sachteen,IRI,567,Samahquam
+,5955801,2011,,Saulteau First Nations,,1033,392,641,,East Moberly Lake 169,IRI,542,Saulteau First Nations
+,5909882,2011,,Scowlitz,,251,106,145,,Squawkum Creek 3,IRI,568,Scowlitz
+,5909832,2011,,Seabird Island,,947,592,355,,Seabird Island,IRI,581,Seabird Island
+,5915801,2011,,Semiahmoo,,90,57,33,,Semiahmoo,IRI,569,Semiahmoo
+,5931831,2011,,Seton Lake,,673,356,317,,Slosh 1,IRI,595,Seton Lake
+,5933859,2011,,Shackan,,131,78,53,,Shackan 11,IRI,698,Shackan
+,5901806,2011,,Shuswap,,267,121,146,,Shuswap,IRI,605,Shuswap
+,5909807,2011,,Shxw'ow'hamel First Nation,,186,100,86,,Ohamil 1,IRI,587,Shxw'ow'hamel First Nation
+,5909826,2011,,Shxwhá:y Village,Skway,397,99,298,,Skway 5,IRI,570,Shxwhá:y Village
+,5933887,2011,,Simpcw First Nation,North Thompson River Indian Band,705,245,460,,North Thompson 1,IRI,691,Simpcw First Nation
+,5933849,2011,,Siska,,312,104,208,,Siska Flat,IRI,706,Siska
+,5909845,2011,,Skatin Nations,Skookumchuck,420,142,278,,Skookumchuck 4,IRI,562,Skatin Nations
+,5909814,2011,,Skawahlook First Nation,,86,12,74,,Skawahlook 1,IRI,582,Skawahlook First Nation
+,5933817,2011,,Skeetchestn Indian Band,Deadman's Creek,532,250,282,,Skeetchestn,IRI,687,Skeetchestn
+,5947804,2011,,Skidegate,,1614,741,873,,Skidegate 1,IRI,670,Skidegate
+,5951823,2011,,Skin Tyee,,179,58,121,,Skins Lake 16A,IRI,726,Skin Tyee
+,5951823,2011,,Skin Tyee,,179,58,121,,Skins Lake 16A,IRI,729,Skin Tyee
+,5909884,2011,,Skowkale,,251,180,71,,Skowkale,IRI,571,Skowkale
+,5933825,2011,,Skuppah,,119,66,53,,Inklyuhkinatko 2,IRI,707,Skuppah
+,5909824,2011,,Skwah,,514,288,226,,Skwah 4,IRI,573,Skwah
+,5927802,2011,,Sliammon,Tla'amin,1052,592,460,,Sliammon 1,IRI,554,Sliammon
+,5921804,2011,,Snuneymuxw First Nation,,1734,704,1030,,Nanaimo Town 1,IRI,648,Snuneymuxw First Nation
+,5941805,2011,,Xat'sull,Soda Creek Indian Band,422,177,245,,Deep Creek 2,IRI,716,Soda Creek
+,5917812,2011,,Songhees First Nation,,556,378,178,,New Songhees 1A,IRI,656,Songhees First Nation
+,5909827,2011,,Soowahlie,,371,176,195,,Soowahlie 14,IRI,572,Soowahlie
+,5937802,2011,,Splatsin,Spallumcheen,878,392,486,,Enderby 2,IRI,600,Splatsin
+,5909816,2011,,Spuzzum,,276,50,226,,Spuzzum 1,IRI,708,Spuzzum
+,5915807,2011,,Squamish,,4119,2427,1692,,Mission 1,IRI,555,Squamish
+,5909885,2011,,Squiala First Nation,,208,142,66,,Squiaala,IRI,574,Squiala First Nation
+,5901803,2011,,?Aq'am,St. Mary's,380,218,162,,Kootenay 1,IRI,602,St. Mary's
+,5951807,2011,,Stellat'en First Nation,,534,223,311,,Stellaquo (Stella) 1,IRI,613,Stellat'en First Nation
+,5909839,2011,,Sts'ailes,Chehalis Indian Band,1080,568,512,,Chehalis 5,IRI,559,Sts'ailes
+,5941806,2011,,Stswecem'c Xgat'tem First Nation,Canoe Creek Indian Band,726,312,414,,Dog Creek 1,IRI,723,Stswecem'c Xgat'tem First Nation
+,5919804,2011,,Stz'uminus First Nation,Chemainus First Nation,1246,798,448,,Chemainus 13,IRI,641,Stz'uminus First Nation
+,5909877,2011,,Sumas First Nation,,325,176,149,,Upper Sumas 6,IRI,578,Sumas First Nation
+,5917819,2011,,T'sou-Ke First Nation,Sooke,257,134,123,,T'Sou-ke,IRI,657,T'Sou-ke First Nation
+,5931821,2011,,T'it'q'et Administration,Lillooet Indian Band,417,202,215,,Lillooet 1,IRI,593,T'it'q'et
+,5949843,2011,,Tahltan,,1867,325,1542,,Guhthe Tah 12,IRI,682,Tahltan
+,5951848,2011,,Takla Lake First Nation,,765,430,335,,North Tacla Lake,IRI,608,Takla Lake First Nation
+,5957802,2011,,Taku River Tlingit,Atlin First Nation,401,89,312,"AANDC First Nation Profiles includes this nation in Yukon, not BC.                                                         ",Unnamed 10,IRI,501,Taku River Tlingit
+,5933880,2011,,Tk'emlúps te Secwépemc,Kamloops Indian Band,1274,652,622,,Kamloops 1,IRI,688,Tk'emlúps te Secwépemc
+,5951810,2011,,Tl'azt'en Nation,,1741,582,1159,,Tache 1,IRI,617,Tl'azt'en Nation
+,5941821,2011,,Tl'etinqox Government,Anaham Indian Band,1571,601,970,,Anahim's Flat 1,IRI,712,Tl'etinqox Government
+,5923813,2011,,Tla-o-qui-aht First Nations,Clayoquot,1074,400,674,,Opitsat 1,IRI,660,Tla-o-qui-aht First Nations
+,5943836,2011,,Tlatlasikwala,,66,47,19,,Hope Island 1,IRI,632,Tlatlasikwala
+,5901801,2011,,Tobacco Plains Indian Band,,202,94,108,,Tobacco Plains 2,IRI,603,Tobacco Plains
+,5941850,2011,,Toosey,Tl'esqox,333,164,169,,Toosey 1,IRI,718,Toosey
+,5923810,2011,,Toquaht,,146,18,128,,Macoah 1,IRI,666,Toquaht
+,5931829,2011,,Ts'kw'aylaxw First Nation,Pavilion,556,277,279,,Pavilion 1,IRI,594,Ts'kw'aylaxw First Nation
+,5917804,2011,,Tsartlip,,983,640,343,,South Saanich 1,IRI,653,Tsartlip
+,5917803,2011,,Tsawout First Nation,,872,600,272,,East Saanich 2,IRI,654,Tsawout First Nation
+,5915802,2011,,Tsawwassen First Nation,,354,191,163,,Tsawwassen,IRI,577,Tsawwassen First Nation
+,5923816,2011,,Tseshaht First Nation,,1145,460,685,,Tsahaheh 1,IRI,665,Tseshaht
+,5917802,2011,,Tseycum First Nation,,184,125,59,,Union Bay 4,IRI,655,Tseycum
+,5915806,2011,,Tsleil-Waututh Nation,Burrard Band,565,322,243,,Burrard Inlet 3,IRI,549,Tsleil-Waututh Nation
+,5909830,2011,,Tzeachten,,503,265,238,,Tzeachten 13,IRI,575,Tzeachten
+,5923805,2011,,Uchucklesaht,,212,32,180,,Elhlateese 2,IRI,667,Uchucklesaht
+,5923807,2011,,Ucluelet First Nation,,647,216,431,,Ittatsoo 1,IRI,668,Ucluelet First Nation
+,5941840,2011,,Ulkatcho,,1031,683,348,,Squinas 2,IRI,722,Ulkatcho
+,5909808,2011,,Union Bar,,119,10,109,,Puckatholetchin 11,IRI,588,Union Bar
+,5933802,2011,,Upper Nicola,,961,432,529,,Douglas Lake 3,IRI,697,Upper Nicola
+,5907807,2011,,Upper Similkameen,,88,68,20,,Chuchuwayha 2,IRI,599,Upper Similkameen
+,5955802,2011,,West Moberly First Nations,,281,120,161,,West Moberly Lake 168A,IRI,545,West Moberly First Nations
+,5935802,2011,,Westbank First Nation,,832,449,383,,Tsinstikeptum  9,IRI,601,Westbank First Nation
+,5951820,2011,,Wet'suwet'en First Nation,,242,96,146,,Palling 1,IRI,725,Wet'suwet'en First Nation
+,5933877,2011,,Whispering Pines/Clinton,,153,59,94,,Whispering Pines 4,IRI,702,Whispering Pines/Clinton
+,5941812,2011,,Williams Lake,,767,272,495,,Williams Lake 1,IRI,719,Williams Lake
+,5931816,2011,,Xaxli'p,Fountain,1026,401,625,,Fountain  1,IRI,592,Xaxli'p
+,5941829,2011,,Xeni Gwet'in First Nations Government,Nemaiah Band,431,256,175,,Chilco Lake 1A,IRI,714,Xeni Gwet'in First Nations Government
+,5909831,2011,,Yakweakwioose,,67,35,32,,Yakweakwioose 12,IRI,576,Yakweakwioose
+,5909818,2011,,Yale First Nation,,164,67,97,,Yale Town 1,IRI,589,Yale First Nation
+,5951801,2011,,Yekooche First Nation,,230,106,124,,Ye Koo Che 3,IRI,728,Yekooche First Nation
+,5941841,2011,,Yunesit'in Government,Stone Indian Band,446,256,190,,Stone 1,IRI,717,Yunesit'in Government
+,5949035,2011,,Nisga'a Lisims Government,Villages of Gingolx (Kincolith); Gitwinksihlkw; Laxgalt'sap; New Aiyansh (Gitlaxt'aamix),6000,2255,3745,AANDC First Nation Profiles considers each Nisga'a village a separate First Nation.  Population for all villages is totalled.,Nisga'a,NL,671; 677; 678; 679,Nisga'a Lisims Government
+,5957804,2011,,Dease River,,180,65,115,"AANDC First Nation Profiles includes this nation in Yukon, not BC.",Good Hope Lake,S-E,504,Dease River
+,5957813,2011,,Lower Post First Nation,Daylu Dene Nation,1190,507,683,"AANDC First Nation Profiles includes this nation in Yukon, not BC. Population is for entire Liard First Nation.",Lower Post,S-E,502,Liard First Nation
+,5955812,2011,,Tsay Keh Dene,,477,239,238,Location matched to CSD based on map on FN web site.,Ingenika Point,S-E,609,Tsay Keh Dene
+,,,7095,Da'naxda'xw/Awaetlala First Nation,Tanakteuk Indian Band,219,56,163,"No matching CSD, matching ADMIN_INDIAN_RESERVES_BANDS_SP location used instead.",,,635,Da'naxda'xw First Nation
+,,,7029,Kwiakah,,,,,"No matching CSD, matching ADMIN_INDIAN_RESERVES_BANDS_SP location used instead.",,,628,Kwiakah
+,,,7030,Mamalilikulla-Qwe'qwa'sot'em,,414,64,350,"No matching CSD, matching ADMIN_INDIAN_RESERVES_BANDS_SP location used instead.",,,629,Mamalilikulla-Qwe'Qwa'Sot'Em
+,,,7113,Tlowitsis Nation,,407,74,333,"No matching CSD, matching ADMIN_INDIAN_RESERVES_BANDS_SP location used instead.",,,637,Tlowitsis Tribe

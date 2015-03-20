@@ -1,28 +1,27 @@
-folder,datafile,destination,bcgw_table,bcgw_status,iedc_tab,categories
-Climate,econ_whse_climate_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_CLIMATE_INDICATORS,PROD,21 Quality of Life,Climate
-DemographicsLabour,econ_whse_demographics_labour_cd_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_CENSUS_DIV_POP_NHS,DLVR,01 Demographics; 02 Labour,Household income; Employment by industry; Employment by occupation; Labour participation rate; Workforce education attainment; Commute time
-DemographicsLabour,econ_whse_demographics_labour_csd_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_CENSUS_SUBDIV_POP_NHS,DLVR,01 Demographics; 02 Labour,Population; Household income; Employment by industry; Employment by occupation; Labour participation rate; Workforce education attainment; Commute time
-Elevation,econ_whse_elevation_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_ELEVATION_STATISTICS,PROD,21 Quality of Life,Climate
-LabourMarket,econ_whse_lmsm_regional_3digitnoc_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_LABOUR_MARKET_PRJCTNS,PROD,02 Labour,Employment by industry forecast
-LabourMarket,econ_whse_lmsm_regional_3digitnoc_summary_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_LABOUR_MARKET_EXPREP,PROD,02 Labour,Employment by industry forecast
-LabourMarket,econ_whse_labour_wages_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_LABOUR_WAGES,PROD,11 Salaries,Salary
-LabourMarket,econ_whse_unemployment_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_UNEMPLOYMENT_PRJCTNS,PROD,02 Labour,Unemployment rate
-Languages,econ_whse_languages_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_LANGUAGES_SPOKEN,PROD,20 International,Language
-NetworkCoverage,network_coverage.csv,TBD,,,,Network coverage
-PopulationProjections,econ_whse_population_projections_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_POPULATION_PRJCTNS,PROD,01 Demographics,Population projections
-Taxation,econ_whse_municipal_property_tax_rates_bc.csv,BCGW,,,15 Taxation,Property tax
-Taxation,SalesAndIncomeTax.csv,TBD,,,15 Taxation,Sales tax; Income tax
-Taxation,SalesTax_ItemsSubjectTo.csv,TBD,,,15 Taxation,Sales tax
-Utilities,econ_whse_energy_utilities_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_ENERGY_UTILITIES,PROD,17 Utilities,Electric power; Natural gas
-Utilities,econ_whse_telecom_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_TELECOMM_UTILITIES,PROD,17 Utilities,Telecommunications
-Utilities,econ_whse_utility_service_areas_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_UTILITY_SERVICE_AREAS,PROD,17 Utilities,Electric power; natural gas; Telecommunications
-Government,econ_whse_gov_election_dates_bc.csv,TBD,,,19 Government,
-Government,econ_whse_gov_local_bc,TBD,,,19 Government,
-Government,econ_whse_gov_regional_bc,TBD,,,19 Government,
-PayrollCosts,econ_whse_payroll_costs_bc,TBD,,,11 Salaries,
-Transportation,econ_whse_major_centers_bc.csv,BCGW,,STAGE,14 Transportation,
-Transportation,econ_whse_railways_bc.csv,BCGW,,STAGE,14 Transportation,
-FNEDD,econ_whse_fnedd_communities_bc.csv,BCGW,,,,
-AVED,econ_whse_post_secondary_clusters_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_POST_SECONDARY_CLUSTERS,STAGE,,
-AVED,econ_whse_post_secondary_instttns_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_POST_SECONDARY_INSTTTNS,STAGE,,
-SourcesAndNotes,econ_whse_data_source_notes_bc.csv,BCGW,,STAGE,,
+folder,datafile,destination,bcgw_table,bcgw_status
+Climate,econ_whse_climate_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_CLIMATE_INDICATORS,PROD
+DemographicsLabour,econ_whse_demographics_labour_cd_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_CENSUS_DIV_POP_NHS,DLVR
+DemographicsLabour,econ_whse_demographics_labour_csd_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_CENSUS_SUBDIV_POP_NHS,DLVR
+Elevation,econ_whse_elevation_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_ELEVATION_STATISTICS,PROD
+LabourMarket,econ_whse_lmsm_regional_3digitnoc_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_LABOUR_MARKET_PRJCTNS,PROD
+LabourMarket,econ_whse_lmsm_regional_3digitnoc_summary_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_LABOUR_MARKET_EXPREP,PROD
+LabourMarket,econ_whse_labour_wages_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_LABOUR_WAGES,PROD
+LabourMarket,econ_whse_unemployment_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_UNEMPLOYMENT_PRJCTNS,PROD
+Languages,econ_whse_languages_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_LANGUAGES_SPOKEN,PROD
+PopulationProjections,econ_whse_population_projections_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_POPULATION_PRJCTNS,PROD
+Utilities,econ_whse_energy_utilities_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_ENERGY_UTILITIES,PROD
+Utilities,econ_whse_telecom_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_TELECOMM_UTILITIES,PROD
+Utilities,econ_whse_utility_service_areas_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_UTILITY_SERVICE_AREAS,PROD
+Transportation,econ_whse_major_centers_bc.csv,BCGW,,STAGE
+FirstNations,econ_whse_first_nations_population_bc.csv,BCGW,,STAGE
+AVED,econ_whse_post_secondary_clusters_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_POST_SECONDARY_CLUSTERS,STAGE
+AVED,econ_whse_post_secondary_instttns_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_POST_SECONDARY_INSTTTNS,STAGE
+SourcesAndNotes,econ_whse_data_source_notes_bc.csv,BCGW,,STAGE
+Transportation,econ_whse_railways_bc.csv,NA,,
+NetworkCoverage,network_coverage.csv,TBD,,
+Taxation,SalesAndIncomeTax.csv,TBD,,
+Taxation,SalesTax_ItemsSubjectTo.csv,TBD,,
+Government,econ_whse_gov_election_dates_bc.csv,TBD,,
+Government,econ_whse_gov_local_bc,TBD,,
+Government,econ_whse_gov_regional_bc,TBD,,
+PayrollCosts,econ_whse_payroll_costs_bc,TBD,,

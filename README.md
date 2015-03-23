@@ -1,6 +1,7 @@
-# OneTool data
+# mit_onetool_data
 
-Data collection for MIT's DISS application.  
+Collect, clean and aggregate economic data for Ministry of International Trade stats navigator. IEDC http://www.iedconline.org/ standards for community level economic reporting were used as the guide for data collection.  
+
 Folders are by general category, browse each folder to see included data.  
 
 See `README.md` files in each folder for information about the data files included, such as:

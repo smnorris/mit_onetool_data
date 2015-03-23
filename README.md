@@ -1,18 +1,19 @@
-# dissdata
+# OneTool data
 
-Data collection for MIT's DISS application
+Data collection for MIT's DISS application.  
+Folders are by general category, browse each folder to see included data.  
 
-## Usage
-Browse the the `/dissdata/data` folder to see included data.  
-
-README files in each subfolder for information about the data files included, such as:
+See `README.md` files in each folder for information about the data files included, such as:
 - title
 - description
 - source
 - caveats
 - preparation notes  
 
-Data files noted in the READMEs are all held as .csv.
+Data are provided as .csv.  
 
-A data dictionary for each data file is included in the corresponding `_METADATA.csv`, with type and description for each column included in the data file.  
+For each .csv data file included, there is a corresponding `_METADATA.csv` file which documents column types and descriptions for the associated data file.  
+
+Where applicable, data preparation scripts are included.
+
 

@@ -62,10 +62,9 @@ FN Name, Population and location had to be linked, each is from a different data
 # census_subdivisions.csv
 
 ## Title
-A list of communities used in MIT's DISS application
+A working list of non FN communities used in MIT's OneTool application
 
 ## Description
-MIT's DSS application is to report on a collection of communities/geographical areas.  These are defined as  Census Subdivisions (municipalities), First Nations, Census Divisions (Regional Districts) and Economic Regions.
 
 ## Source
 Statistics Canada census geographies via GeoBC
@@ -97,29 +96,9 @@ DPLUID,DPLNAME
 590003,Gabriola Island Trust Area part A
 590232,Gabriola Island Trust Area part B
 590233,Gabriola Island Trust Area part C
-590004,Galiano Island Trust Area
-590249,Gambier Island Trust Area part A
-590250,Gambier Island Trust Area part B
-590251,Gambier Island Trust Area part C
-590252,Gambier Island Trust Area part D
-590253,Gambier Island Trust Area part E
-590006,Hornby Island Trust Area
-590007,Lasqueti Island Trust Area
-590008,Mayne Island Trust Area
-590009,North Pender Island Trust Area
-590234,Saltspring Island Trust Area part A
-590235,Saltspring Island Trust Area part B
-590236,Saltspring Island Trust Area part C
-590237,Saltspring Island Trust Area part D
-590238,Saltspring Island Trust Area part E
-590239,Saltspring Island Trust Area part F
-590241,Saltspring Island Trust Area part H
-590011,Saturna Island Trust Area
-590013,South Pender Island Trust Area
-590012,Thetis Island Trust Area part A
-590248,Thetis Island Trust Area part B
+... etc
 ```
 extract them:
 `$ ogr2ogr -where "DPLNAME like '%Island Trust Area%'" islands_trust.shp gdp*shp`
 
-Then discard - after consultation, we aren't considering Islands Trust.
+UPDATE - Discard islands Trust - after consultation, we aren't considering this area. So the list is simply all incorporated areas in 2011 Census, plus Jumbo Glacier.

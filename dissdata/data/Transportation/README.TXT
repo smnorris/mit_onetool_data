@@ -1,19 +1,23 @@
-# Railway.csv
+# major_centers.csv
 
 ## Title
-Railway service for BC Census Subdivisions
+Major centers for OneTool application
 
 ## Description
-Railway service information for BC Census Subdivisions
+A collection of cities designated as major centers for BC and area.
 
 ## Source
-National Rail Network
+MIT
 
 ## Caveats etc
-
+None
 
 ## Preparation notes
-- source track layer projected into BC Albers and loaded to postgres
-``` 
-ogr2ogr -f PostgreSQL PG:'host=localhost user=postgres dbname=postgis password=postgres port=5432' -lco OVERWRITE=YES -t_srs EPSG:3005 -lco SCHEMA=temp -lco GEOMETRY_NAME=geom -nln nrn -nlt PROMOTE_TO_MULTI NRN.shp
-```
+Recieved list of cities from MIT.
+Extracted locations for BC cities from CSD reference points.
+Googled coordinates of non BC cities.
+
+
+# Railways.sql
+- rail data is being loaded to BCGW separately
+- railways.sql joins railway data to CSDs to allow query by onetool

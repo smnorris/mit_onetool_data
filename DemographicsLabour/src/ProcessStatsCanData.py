@@ -8,6 +8,11 @@ Required input tables:
    - nhs_csd_src (nhs data at csd level)
    - cen_census_subdivisions (spatial table, from GeoBC Census_2011.gdb)
    - cen_census_divisions (spatial, from GeoBC Census_2011.gdb)
+
+Note that this script was created in March 2014, before the exact usage
+of required data was defined. It functions as is but could definitely be
+cleaned/improved.
+
 """
 
 import os

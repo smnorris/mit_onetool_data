@@ -31,7 +31,7 @@ Use rate info with caution - average rates are approximations based on interpret
 - manually compile natural gas rates by interpreting various rate schedules. Note that charges are averages for various service areas and include delivery charges.
 
 
-# econ_whse_telecom_bc.ca
+# econ_whse_telecom_bc.csv
 
 ## Title
 A list of selected major telecommunications companies serving British Columbia.

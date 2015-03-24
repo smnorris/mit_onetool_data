@@ -16,7 +16,7 @@ Transportation,econ_whse_major_centers_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.
 Communities,econ_whse_first_nations_population_bc.csv,BCGW,,STAGE
 AVED,econ_whse_post_secondary_clusters_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_POST_SECONDARY_CLUSTERS,STAGE
 AVED,econ_whse_post_secondary_instttns_bc.csv,BCGW,WHSE_HUMAN_CULTURAL_ECONOMIC.ECON_POST_SECONDARY_INSTTTNS,STAGE
-SourcesAndNotes,econ_whse_data_source_notes_bc.csv,BCGW,,STAGE
+SourcesAndNotes,econ_whse_data_source_notes_bc.csv,MIT,,
 Taxation,SalesAndIncomeTax.csv,MIT,,
 Taxation,SalesTax_ItemsSubjectTo.csv,MIT,,
 Government,econ_whse_gov_election_dates_bc.csv,MIT,,

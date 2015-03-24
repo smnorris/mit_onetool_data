@@ -1,11 +1,11 @@
 # first_nations_population.csv
 
 ## Title
-BC First Nation Communities, preferred name(s), location, and population.
+BC First Nation Community name(s), location, and population.
 
 ## Description
 A list of British Columbia First Nations communities, including
-- preferred name(s)
+- primary name(s)
 - location (by matching to Census Subdivision or Canada Lands Administrative Boundary (CLAB) ID)
 - population, broken down by
   + number of individuals registered with the First Nation and living on reserve or Crown lands

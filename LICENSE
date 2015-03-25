@@ -1,7 +1,5 @@
-Copyright (c) 2014 Province of British Columbia
+Copyright (c) 2015 Province of British Columbia
+http://www2.gov.bc.ca/gov/admin/copyright.page
 
-British Columbia data:
-http://www.data.gov.bc.ca/local/dbc/docs/license/OGL-vbc2.0.pdf
+For licensing of individual datasets, see column `publication_license` in file `data_categories_destinations.csv1
 
-Statistics Canada data:
-http://www.statcan.gc.ca/reference/licence-eng.html

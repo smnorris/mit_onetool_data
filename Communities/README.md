@@ -58,3 +58,4 @@ FN Name, Population and location had to be linked, each is from a different data
 
     Where matches were outside of BC or otherwise complicated, notes were made in the Notes column.
 
+5. Add Nation column, populate with values from FNEDD data

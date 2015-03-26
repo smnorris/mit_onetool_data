@@ -6,6 +6,7 @@ BC First Nation Community name(s), location, and population.
 ## Description
 A list of British Columbia First Nations communities, including
 - primary name(s)
+- associated Nation
 - location (by matching to Census Subdivision or Canada Lands Administrative Boundary (CLAB) ID)
 - population, broken down by
   + number of individuals registered with the First Nation and living on reserve or Crown lands

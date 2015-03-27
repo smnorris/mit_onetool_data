@@ -105,4 +105,9 @@ Radium Hot Springs
 Sun Peaks Mountain
 Jumbo Glacier
 ```
+These were loaded manually by querying civicinfobc
 
+### Load gov_regional.csv
+Populated this data manually, copying and pasting from civicinfobc.  
+
+Note that there is no regional government for Northern Rockies or Stikine Census Subdivisions, these CDs are not included in the table

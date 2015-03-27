@@ -155,8 +155,8 @@ census_subdivision_id,census_year,clab_id,census_subdivision_name,top_elected_of
 5915004,2011,,Surrey,Linda Hepner,9
 5917034,2011,,Victoria,Lisa Helps,9
 5915022,2011,,Vancouver,Gregor Robertson,11
-5901043,2011,,Canal Flats,(null),(null)
-5947026,2011,,Queen Charlotte,(null),(null)
-5901040,2011,,Radium Hot Springs,(null),(null)
-5933045,2011,,Sun Peaks Mountain,(null),(null)
-,,,Jumbo Glacier,,
+5901043,2011,,Canal Flats,Ute Juras,5
+5947026,2011,,Queen Charlotte,Greg Martin,5
+5901040,2011,,Radium Hot Springs,Clara Reinhardt,5
+5933045,2011,,Sun Peaks Mountain,Al Raine,4
+,,,Jumbo Glacier,Greg Deck,3

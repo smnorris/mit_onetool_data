@@ -1,0 +1,6 @@
+field,type,description
+census_subdivision_id,string,"CENSUS_SUBDIVISION_ID: Foreign Key, linking to CENSUS_SUBDIVISION_ID in CEN_CENSUS_SUBDIVISIONS, e.g., 5901022"
+census_year,integer,"CENSUS YEAR is the census year that the data is collected. e.g., 2006, 2011."
+clab_id,string,"CLAB_ID: is a Canada Lands Administrative Boundary (CLAB) unique identifier. e.g., 00009. This is a foreign key to WHSE_ADMIN_BOUNDARIES.CLAB_INDIAN_RESERVES."
+top_elected_official,string,Name of the community's top elected official
+n_elected_officials,integer,Number of local government elected officials for given community

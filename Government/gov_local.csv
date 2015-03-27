@@ -1,0 +1,162 @@
+census_subdivision_id,census_year,clab_id,census_subdivision_name,top_elected_official,n_elected_official
+5943008,2011,,Alert Bay,Michael Barry,5
+5915038,2011,,Anmore,James McEwen,5
+5933019,2011,,Ashcroft,Jack Jeyes,5
+5915036,2011,,Belcarra,Ralph E. Drew,5
+5951022,2011,,Burns Lake,Luke Strimbold,5
+5933024,2011,,Cache Creek,John Ranta,5
+5933054,2011,,Chase,Rick Berrigan,5
+5933028,2011,,Clinton,James Rivett,5
+5926014,2011,,Cumberland,Leslie Baird,5
+5951013,2011,,Fort St. James,Rob MacDougall,5
+5951009,2011,,Fraser Lake,Dwayne L. Lindstrom,5
+5905005,2011,,Fruitvale,Patricia-Lynn Cecchini,5
+5929005,2011,,Gibsons,Wayne Rowe,5
+5924025,2011,,Gold River,Brad Unger,5
+5951032,2011,,Granisle,Linda McGuire,5
+5905042,2011,,Greenwood,Ed Smith,5
+5909027,2011,,Harrison Hot Springs,Leo Facio,5
+5949022,2011,,Hazelton,Alice Maitland,5
+5951034,2011,,Houston,Shane Brienen,5
+5901039,2011,,Invermere,Gerry Taft,5
+5909032,2011,,Kent,John Van Laerhoven,5
+5907009,2011,,Keremeos,Manfred Bauer,5
+5919016,2011,,Lake Cowichan,Ross Forrest,5
+5917044,2011,,Langford,Stewart W. Young,5
+5931026,2011,,Lillooet,Margaret Lampman,5
+5933015,2011,,Lytton,Jessoa Lightfoot,5
+5947023,2011,,Masset,Andrew Merilees,5
+5953012,2011,,McBride,Loranne Martin,5
+5917042,2011,,Metchosin,John Ranns,5
+5905037,2011,,Midway,Randy Kappes,5
+5905009,2011,,Montrose,Joe Danchuk,5
+5903032,2011,,New Denver,Ann Bunka,5
+5941005,2011,,One Hundred Mile House,Mitch Campsall,5
+5931012,2011,,Pemberton,Mike Richman,5
+5943017,2011,,Port Alice,Jan Allen,5
+5947030,2011,,Port Clements,Ian Gould,5
+5915039,2011,,Port Coquitlam,Greg Moore,5
+5943012,2011,,Port McNeill,Shirley Ackland,5
+5955005,2011,,Pouce Coupe,William Plowright,5
+5907024,2011,,Princeton,Frank Armitage,5
+5921023,2011,,Qualicum Beach,Teunis Westbroek,5
+5903011,2011,,Salmo,Stephen White,5
+5924039,2011,,Sayward,John MacDonald,5
+5903027,2011,,Silverton,Jason Clarke,5
+5903019,2011,,Slocan,Jessica Lunn,5
+5924030,2011,,Tahsis,Jude Schooner,5
+5955030,2011,,Taylor,Rob Fraser,5
+5951038,2011,,Telkwa,Darcy Repen,5
+5923019,2011,,Ucluelet,Dianne St. Jacques,5
+5953007,2011,,Valemount,Jeannette Townsend,5
+5917047,2011,,View Royal,David Screech,5
+5905018,2011,,Warfield,Ted Pahl,5
+5941025,2011,,Wells,Robin Sharpe,5
+5924029,2011,,Zeballos,Donnie Cox,5
+5915062,2011,,Bowen Island,Murray Skeels,7
+5937028,2011,,Armstrong,Chris Pieper,7
+5933074,2011,,Barriere,Virginia Smith,7
+5924034,2011,,Campbell River,Andy Adams,7
+5903045,2011,,Castlegar,Lawrence D. Chernoff,7
+5917015,2011,,Central Saanich,Ryan Windsor,7
+5955010,2011,,Chetwynd,Merlin Nichols,7
+5909020,2011,,Chilliwack,Sharon Gaetz,7
+5933067,2011,,Clearwater,John Harwood,7
+5937010,2011,,Coldstream,Jim Garlick,7
+5917041,2011,,Colwood,Carol Hamilton,7
+5926005,2011,,Comox,Paul R. Ives,7
+5926010,2011,,Courtenay,Larry Jangula,7
+5901022,2011,,Cranbrook,Lee Pratt,7
+5903004,2011,,Creston,Ron T. Toyota,7
+5955014,2011,,Dawson Creek,Dale Bumstead,7
+5915011,2011,,Delta,Lois E. Jackson,7
+5919012,2011,,Duncan,Phil Kent,7
+5901003,2011,,Elkford,Dean McKerracher,7
+5937033,2011,,Enderby,Greg McCune,7
+5917040,2011,,Esquimalt,Barbara Desjardins,7
+5901012,2011,,Fernie,Mary Giuliano,7
+5955034,2011,,Fort St. John,Lori Ackerman,7
+5939007,2011,,Golden,Ron Oszust,7
+5905032,2011,,Grand Forks,Frank Konrad,7
+5917049,2011,,Highlands,Ken Williams,7
+5909009,2011,,Hope,Wilfried Vicktor,7
+5955025,2011,,Hudson's Hope,Gwen Johansson,7
+5933042,2011,,Kamloops,Peter Milobar,7
+5903023,2011,,Kaslo,Suzan Hewat,7
+5901028,2011,,Kimberley,Don McCormick,7
+5949005,2011,,Kitimat,Phil Germuth,7
+5919021,2011,,Ladysmith,Aaron Stone,7
+5935016,2011,,Lake Country,James E. Baker,7
+5915002,2011,,Langley,Ted Schaffer,7
+5921008,2011,,Lantzville,Colin Haime,7
+5915065,2011,,Lions Bay,Karl Buhr,7
+5933035,2011,,Logan Lake,Robin Smith,7
+5937005,2011,,Lumby,Kevin Acton,7
+5953033,2011,,Mackenzie,Pat Crook,7
+5915075,2011,,Maple Ridge,Nicole Read,7
+5933006,2011,,Merritt,Neil Menard,7
+5909056,2011,,Mission,Randy Hawes,7
+5903050,2011,,Nakusp,Karen E. Hamling,7
+5903015,2011,,Nelson,Deb Kozak,7
+5949024,2011,,New Hazelton,Gail Lowry,7
+5915029,2011,,New Westminster,Jonathan X. Cote,7
+5919008,2011,,North Cowichan,Jon Lefebure,7
+5917005,2011,,North Saanich,Alice Finall,7
+5915046,2011,,North Vancouver,Richard S. Walton,7
+5915051,2011,,North Vancouver,Darrell R. Mussatto,7
+5959007,2011,,Northern Rockies,Bill Streeper,7
+5917030,2011,,Oak Bay,Nils Jensen,7
+5907014,2011,,Oliver,Ron Hovanes,7
+5907005,2011,,Osoyoos,Sue McKortoff,7
+5921018,2011,,Parksville,Marc Lefebvre,7
+5935018,2011,,Peachland,Cindy Fortin,7
+5907041,2011,,Penticton,Andrew Jakubeit,7
+5915070,2011,,Pitt Meadows,John Becker,7
+5923008,2011,,Port Alberni,Mike Ruttan,7
+5947007,2011,,Port Edward,David I. MacDonald,7
+5943023,2011,,Port Hardy,Hank Bood,7
+5915043,2011,,Port Moody,Mike Clay,7
+5927008,2011,,Powell River,Dave Formosa,7
+5947012,2011,,Prince Rupert,Lee Brain,7
+5941013,2011,,Quesnel,Bob Simpson,7
+5939019,2011,,Revelstoke,Mark McKee,7
+5905023,2011,,Rossland,Kathy Moore,7
+5939032,2011,,Salmon Arm,Nancy Cooper,7
+5929011,2011,,Sechelt,Bruce Milne,7
+5939045,2011,,Sicamous,Terry Rysz,7
+5917010,2011,,Sidney,Steve Price,7
+5951043,2011,,Smithers,Taylor Bachrach,7
+5917052,2011,,Sooke,Maja Tait,7
+5937024,2011,,Spallumcheen,Janice Brown,7
+5901006,2011,,Sparwood,Cal McDougall,7
+5931006,2011,,Squamish,Patricia Heintzman,7
+5949032,2011,,Stewart,Galina Durant,7
+5907035,2011,,Summerland,Peter Waterman,7
+5949011,2011,,Terrace,Carol Leclerc,7
+5923025,2011,,Tofino,Josie Osborne,7
+5905014,2011,,Trail,Mike Martin,7
+5955003,2011,,Tumbler Ridge,Don McPherson,7
+5951007,2011,,Vanderhoof,Gerry D. Thiessen,7
+5937014,2011,,Vernon,Akbal Mund,7
+5935029,2011,,West Kelowna,Doug Findlater,7
+5915055,2011,,West Vancouver,Michael Smith,7
+5931020,2011,,Whistler,Nancy Wilhelm-Morden,7
+5915007,2011,,White Rock,Wayne Baldwin,7
+5941009,2011,,Williams Lake,Walt Cobb,7
+5909052,2011,,Abbotsford,Henry Braun,9
+5915025,2011,,Burnaby,Derek Corrigan,9
+5915034,2011,,Coquitlam,Richard Stewart,9
+5935010,2011,,Kelowna,Colin Basran,9
+5915001,2011,,Langley,Jack Froese,9
+5921007,2011,,Nanaimo,Bill McKay,9
+5953023,2011,,Prince George,Lyn Hall,9
+5915015,2011,,Richmond,Malcolm Brodie,9
+5917021,2011,,Saanich,Richard Atwell,9
+5915004,2011,,Surrey,Linda Hepner,9
+5917034,2011,,Victoria,Lisa Helps,9
+5915022,2011,,Vancouver,Gregor Robertson,11
+5901043,2011,,Canal Flats,(null),(null)
+5947026,2011,,Queen Charlotte,(null),(null)
+5901040,2011,,Radium Hot Springs,(null),(null)
+5933045,2011,,Sun Peaks Mountain,(null),(null)
+,,,Jumbo Glacier,,

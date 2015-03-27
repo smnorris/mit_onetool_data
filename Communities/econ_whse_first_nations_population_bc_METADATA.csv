@@ -1,12 +1,5 @@
 field,type,description
-census_subdivision_id,string,"CENSUS_SUBDIVISION_ID: Foreign Key, linking to CENSUS_SUBDIVISION_ID in CEN_CENSUS_SUBDIVISIONS, e.g., 5901022"
-census_year,integer,"CENSUS YEAR is the census year that the data is collected. e.g., 2006, 2011."
-clab_id,string,"CLAB_ID: is a Canada Lands Administrative Boundary (CLAB) unique identifier. e.g., 00009. This is a foreign key to WHSE_ADMIN_BOUNDARIES.CLAB_INDIAN_RESERVES."
 band_number,integer,Band number is the unique identifier assigned to the First Nation by the Federal Government.
-fn_name_1,string,Primary name used by First Nation
-fn_name_2,string,Secondary name used by First Nation
-nation,string,Nation with which First Nation community is associated
 pop_total_registered,integer,Total population of individuals registered with the First Nation
 pop_on_reserve_crown,integer,Total population of individuals registered with the First Nation and living on reserve or Crown lands
 pop_off_reserve_crown,integer,Total population of individuals registered with the First Nation and living off reserve or Crown lands
-notes,string,Notes related to matching First Nation to appropriate Census Subdivision

@@ -1,199 +1,202 @@
-census_subdivision_id,census_year,clab_id,band_number,fn_name_1,fn_name_2,nation,pop_total_registered,pop_on_reserve_crown,pop_off_reserve_crown,notes
-5901804,2011,,604,?Akisq'nuk First Nation,Columbia Lake Indian Band,,271,154,117,
-5901803,2011,,602,?Aq'am,St. Mary's,,380,218,162,
-5941882,2011,,709,?Esdilagh First Nation,Alexandria Indian Band,,196,53,143,
-5933884,2011,,684,Adams Lake,,,765,416,349,
-5923808,2011,,659,Ahousaht,,,2083,789,1294,
-5909835,2011,,558,Aitchelitz,,,42,25,17,
-5933844,2011,,685,Ashcroft,,,270,78,192,
-5917809,2011,,640,Beecher Bay,Scia'new First Nation,,250,112,138,
-5955803,2011,,547,Blueberry River First Nations,,,471,225,246,
-5933812,2011,,686,Bonaparte,,,919,240,679,
-5909819,2011,,700,Boothroyd,,,283,90,193,
-5909806,2011,,701,Boston Bar First Nation,,,263,94,169,
-5951815,2011,,619,Burns Lake,,,128,48,80,
-5924804,2011,,622,Campbell River,We Wai Kum First Nation,,792,390,402,
-5941802,2011,,713,Canim Lake,Tsq'escen’,,605,440,165,
-5924812,2011,,623,Cape Mudge,We Wai Kai,,1096,395,701,
-5931814,2011,,591,Cayoose Creek,Sekw'el'was,,198,89,109,
-5909804,2011,,583,Chawathil,Hope Indian Band,,591,386,205,
-5909837,2011,,584,Cheam,,,524,253,271,
-5951818,2011,,620,Cheslatta Carrier Nation,,,351,170,181,
-5933801,2011,,693,Coldwater,,,831,392,439,
-5933834,2011,,694,Cook's Ferry,,,344,81,263,
-5919822,2011,,642,Cowichan Tribes,,,4772,2763,2009,
-,,07095,635,Da'naxda'xw/Awaetlala First Nation,Tanakteuk Indian Band,,219,56,163,"No matching CSD, matching ADMIN_INDIAN_RESERVES_BANDS_SP location used instead."
-5957804,2011,,504,Dease River,,,180,65,115,"AANDC First Nation Profiles includes this nation in Yukon, not BC."
-5919814,2011,,662,Ditidaht,,,770,248,522,
-5955804,2011,,548,Doig River First Nation,,,303,143,160,
-5943813,2011,,636,Dzawada'enuxw First Nation,Tsawataineuk,,533,148,385,
-5924805,2011,,634,Ehattesaht,,,462,141,321,
-5941801,2011,,711,Esk'etemc,,,956,434,522,
-5917811,2011,,644,Esquimalt,,,300,195,105,
-5959806,2011,,543,Fort Nelson First Nation,,,908,467,441,
-5949812,2011,,531,Gitanmaax,,,2367,793,1574,
-5949815,2011,,537,Gitanyow,,,839,423,416,
-5947806,2011,,675,Gitga'at First Nation,,,737,148,589,
-5949814,2011,,535,Gitsegukla,Kitsegugkla - Gitxsan,,988,457,531,
-5949816,2011,,536,Gitwangak Band Council,Kitwanga,,1304,421,883,
-5947807,2011,,672,Gitxaala Nation,Kitkatla,,1916,467,1449,
-5943806,2011,,724,Gwa'sala-Nakwaxda'xw Nation,,,952,552,400,
-5943809,2011,,627,Gwawaenuk Tribe,,,41,15,26,
-5949811,2011,,534,Hagwilget Village Council,,,773,222,551,
-5949803,2011,,676,Haisla Nation,Kitimaat Village Council,,1823,671,1152,
-5919801,2011,,645,Halalt,,,209,105,104,
-5955808,2011,,546,Halfway River First Nation,,,276,154,122,
-5945801,2011,,538,Heiltsuk,Bella Bella Indian Band,,2380,1191,1189,
-5923824,2011,,661,Hesquiaht,,,722,162,560,
-5933819,2011,,703,High Bar,,,117,,,
-5924840,2011,,552,Homalco,,,471,243,228,
-5923801,2011,,664,Hupacasath First Nation,,,313,142,171,
-5923803,2011,,663,Huu-Ay-Aht First Nation,,,709,133,576,
-5949832,2011,,683,Iskut,,,746,361,385,
-5926801,2011,,624,K'ómoks First Nation,Comox Indian Band,,330,112,218,
-5924806,2011,,638,Ka:'yu:'k't'h'/Che:k:tles7et'h' First Nations,Kyoquot First Nation,,556,186,370,
-5933882,2011,,704,Kanaka Bar,,,230,78,152,
-5915830,2011,,563,Katzie,,,562,322,240,
-5949813,2011,,532,Kispiox,,,1608,717,891,
-5949802,2011,,540,Kitasoo/Xai'xais,Klemtu,,516,323,193,
-5949807,2011,,680,Kitselas,,,628,296,332,
-5949804,2011,,681,Kitsumkalum,,,736,249,487,
-5924820,2011,,553,Klahoose First Nation,,,398,85,313,
-5955807,2011,,610,Kwadacha,Fort Ware,,540,306,234,
-5943815,2011,,626,Kwakiutl,,,765,337,428,
-5915816,2011,,564,Kwantlen First Nation,Fort Langley Band,,255,99,156,
-5909821,2011,,580,Kwaw-Kwaw-a-pilt First Nation,,,44,34,10,
-,,07029,628,Kwiakah,,,,,,"No matching CSD, matching ADMIN_INDIAN_RESERVES_BANDS_SP location used instead."
-5943837,2011,,625,Kwikwasut'inuxw Haxwa'mis,Kwicksutaineuk/Ah-Kwa-Mish Tribes,,295,77,218,
-5915805,2011,,560,Kwikwetlem First Nation,,,85,39,46,
-5951827,2011,,607,Lake Babine Nation,,,2440,1418,1022,
-5919812,2011,,643,Lake Cowichan First Nation,,,,,,
-5947809,2011,,674,Lax Kw'alaams,,,3710,709,3001,
-5909880,2011,,579,Leq' A: Mel First Nation,Lakahahmen,,401,138,263,
-5953801,2011,,611,Lheidli T'enneh,,,415,122,293,
-5941833,2011,,721,Lhoosk'uz Dene Nation,Kluskus Indian Band,,234,73,161,
-5943837,2011,,715,Lhtako Dene Nation,Red Bluff,,174,70,104,
-5931843,2011,,557,Lil'wat,Mount Currie Indian Band,,2154,1513,641,
-5939805,2011,,689,Little Shuswap Lake,,,343,238,105,
-5903807,2011,,606,Lower Kootenay,Yaqan nu?kiy,,234,119,115,
-5933807,2011,,695,Lower Nicola,,,1225,561,664,
-5957813,2011,,502,Lower Post First Nation,Daylu Dene Nation,,1190,507,683,"AANDC First Nation Profiles includes this nation in Yukon, not BC. Population is for entire Liard First Nation."
-5907805,2011,,598,Lower Similkameen,,,495,288,207,
-5919811,2011,,646,Lyackson,,,209,39,170,
-5933853,2011,,705,Lytton,,,1989,953,1036,
-5919815,2011,,647,Malahat First Nation,,,319,173,146,
-,,07030,629,Mamalilikulla-Qwe'qwa'sot'em,,,414,64,350,"No matching CSD, matching ADMIN_INDIAN_RESERVES_BANDS_SP location used instead."
-5909878,2011,,565,Matsqui,,,262,117,145,
-5953802,2011,,618,Mcleod Lake,,,535,140,395,
-5947810,2011,,673,Metlakatla,,,890,94,796,
-5949817,2011,,530,Moricetown,,,2007,719,1288,
-5924803,2011,,630,Mowachaht/Muchalaht,,,603,254,349,
-5915803,2011,,550,Musqueam,,,1355,783,572,
-5931844,2011,,556,N'quatqua,Anderson Lake,,345,204,141,
-5951802,2011,,612,Nadleh Whuten,,,543,279,264,
-5951803,2011,,614,Nak'azdli,,,1883,753,1130,
-5943837,2011,,631,Namgis First Nation,,,1804,971,833,
-5921805,2011,,649,Nanoose First Nation,Snaw-naw-as,,251,175,76,
-5941837,2011,,720,Nazko First Nation,,,374,177,197,
-5951819,2011,,726,Nee-Tahi-Buhn Band,,,144,54,90,
-5933838,2011,,690,Neskonlith,,,650,324,326,
-5933851,2011,,696,Nicomen,,,134,66,68,
-5949035,2011,,671; 677; 678; 679,Nisga'a Lisims Government,Villages of Gingolx (Kincolith); Gitwinksihlkw; Laxgalt'sap; New Aiyansh (Gitlaxt'aamix),,6000,2255,3745,AANDC First Nation Profiles considers each Nisga'a village a separate First Nation.  Population for all villages is totalled.
-5933808,2011,,699,Nooaitch,,,220,124,96,
-5924833,2011,,639,Nuchatlaht,,,158,38,120,
-5945802,2011,,539,Nuxalk Nation,Bella Coola Band,,1686,929,757,
-5939804,2011,,616,Okanagan Indian Band,,,1955,899,1056,
-5947803,2011,,669,Old Massett Village Council,,,2977,754,2223,
-5933854,2011,,692,Oregon Jack Creek,,,65,20,45,
-5907802,2011,,596,Osoyoos Indian Band,,,533,389,144,
-5945803,2011,,541,Oweekeno Nation,Wuikinuxv,,289,91,198,
-5917815,2011,,658,Pacheedaht First Nation,,,277,124,153,
-5917801,2011,,652,Pauquachin,,,402,286,116,
-5919809,2011,,650,Penelakut Tribe,,,933,586,347,
-5907803,2011,,597,Penticton,,,1033,615,418,
-5909843,2011,,586,Peters,,,157,47,110,
-5909844,2011,,585,Popkum,,,,,,
-5959810,2011,,544,Prophet River First Nation,Denetsaa Tse K'Nai,,270,116,154,
-5915029,2011,,566,Qayqayt,New Westminster,,,,,The CSD record used to locate this First Nation is the the City of New Westminster CSD.
-5921806,2011,,651,Qualicum First Nation,,,124,58,66,
-5943816,2011,,633,Quatsino,,,538,245,293,
-5951809,2011,,615,Saik'uz First Nation,,,951,456,495,
-5909883,2011,,567,Samahquam,,,361,112,249,
-5955801,2011,,542,Saulteau First Nations,,,1033,392,641,
-5909882,2011,,568,Scowlitz,,,251,106,145,
-5909832,2011,,581,Seabird Island,,,947,592,355,
-5929803,2011,,551,Sechelt,,,1356,668,688,
-5915801,2011,,569,Semiahmoo,,,90,57,33,
-5931831,2011,,595,Seton Lake,,,673,356,317,
-5933859,2011,,698,Shackan,,,131,78,53,
-5901806,2011,,605,Shuswap,,,267,121,146,
-5909807,2011,,587,Shxw'ow'hamel First Nation,,,186,100,86,
-5909826,2011,,570,Shxwhá:y Village,Skway,,397,99,298,
-5949818,2011,,533,Sik-e-Dakh ,Glen Vowell,,414,205,209,
-5933887,2011,,691,Simpcw First Nation,North Thompson River Indian Band,,705,245,460,
-5933849,2011,,706,Siska,,,312,104,208,
-5909845,2011,,562,Skatin Nations,Skookumchuck,,420,142,278,
-5909814,2011,,582,Skawahlook First Nation,,,86,12,74,
-5933817,2011,,687,Skeetchestn Indian Band,Deadman's Creek,,532,250,282,
-5947804,2011,,670,Skidegate,,,1614,741,873,
-5951823,2011,,726,Skin Tyee,,,179,58,121,
-5909884,2011,,571,Skowkale,,,251,180,71,
-5933825,2011,,707,Skuppah,,,119,66,53,
-5909824,2011,,573,Skwah,,,514,288,226,
-5927802,2011,,554,Sliammon,Tla'amin,,1052,592,460,
-5921804,2011,,648,Snuneymuxw First Nation,,,1734,704,1030,
-5917812,2011,,656,Songhees First Nation,,,556,378,178,
-5909827,2011,,572,Soowahlie,,,371,176,195,
-5937802,2011,,600,Splatsin,Spallumcheen,,878,392,486,
-5909816,2011,,708,Spuzzum,,,276,50,226,
-5915807,2011,,555,Squamish,,,4119,2427,1692,
-5909885,2011,,574,Squiala First Nation,,,208,142,66,
-5951807,2011,,613,Stellat'en First Nation,,,534,223,311,
-5909839,2011,,559,Sts'ailes,Chehalis Indian Band,,1080,568,512,
-5941806,2011,,723,Stswecem'c Xgat'tem First Nation,Canoe Creek Indian Band,,726,312,414,
-5919804,2011,,641,Stz'uminus First Nation,Chemainus First Nation,,1246,798,448,
-5909877,2011,,578,Sumas First Nation,,,325,176,149,
-5931821,2011,,593,T'it'q'et Administration,Lillooet Indian Band,,417,202,215,
-5917819,2011,,657,T'sou-Ke First Nation,Sooke,,257,134,123,
-5949843,2011,,682,Tahltan,,,1867,325,1542,
-5951848,2011,,608,Takla Lake First Nation,,,765,430,335,
-5957802,2011,,501,Taku River Tlingit,Atlin First Nation,,401,89,312,"AANDC First Nation Profiles includes this nation in Yukon, not BC.                                                         "
-5933880,2011,,688,Tk'emlúps te Secwépemc,Kamloops Indian Band,,1274,652,622,
-5951810,2011,,617,Tl'azt'en Nation,,,1741,582,1159,
-5941821,2011,,712,Tl'etinqox Government,Anaham Indian Band,,1571,601,970,
-5923813,2011,,660,Tla-o-qui-aht First Nations,Clayoquot,,1074,400,674,
-5943836,2011,,632,Tlatlasikwala,,,66,47,19,
-,,07113,637,Tlowitsis Nation,,,407,74,333,"No matching CSD, matching ADMIN_INDIAN_RESERVES_BANDS_SP location used instead."
-5901801,2011,,603,Tobacco Plains Indian Band,,,202,94,108,
-5941850,2011,,718,Toosey,Tl'esqox,,333,164,169,
-5923810,2011,,666,Toquaht,,,146,18,128,
-5931829,2011,,594,Ts'kw'aylaxw First Nation,Pavilion,,556,277,279,
-5917804,2011,,653,Tsartlip,,,983,640,343,
-5917803,2011,,654,Tsawout First Nation,,,872,600,272,
-5915802,2011,,577,Tsawwassen First Nation,,,354,191,163,
-5955812,2011,,609,Tsay Keh Dene,,,477,239,238,Location matched to CSD based on map on FN web site.
-5923816,2011,,665,Tseshaht First Nation,,,1145,460,685,
-5917802,2011,,655,Tseycum First Nation,,,184,125,59,
-5941839,2011,,710,Tsi Del Del,Alexis Creek,,682,356,326,
-5915806,2011,,549,Tsleil-Waututh Nation,Burrard Band,,565,322,243,
-5909830,2011,,575,Tzeachten,,,503,265,238,
-5923805,2011,,667,Uchucklesaht,,,212,32,180,
-5923807,2011,,668,Ucluelet First Nation,,,647,216,431,
-5941840,2011,,722,Ulkatcho,,,1031,683,348,
-5909808,2011,,588,Union Bar,,,119,10,109,
-5933802,2011,,697,Upper Nicola,,,961,432,529,
-5907807,2011,,599,Upper Similkameen,,,88,68,20,
-5955802,2011,,545,West Moberly First Nations,,,281,120,161,
-5935802,2011,,601,Westbank First Nation,,,832,449,383,
-5951820,2011,,725,Wet'suwet'en First Nation,,,242,96,146,
-5933877,2011,,702,Whispering Pines/Clinton,,,153,59,94,
-5941812,2011,,719,Williams Lake,,,767,272,495,
-5909842,2011,,561,Xa’xtsa,Douglas First Nation,,295,104,191,
-5941805,2011,,716,Xat'sull,Soda Creek Indian Band,,422,177,245,
-5931816,2011,,592,Xaxli'p,Fountain,,1026,401,625,
-5941829,2011,,714,Xeni Gwet'in First Nations Government,Nemaiah Band,,431,256,175,
-5931813,2011,,590,Xwisten,Bridge River,,454,234,220,
-5909831,2011,,576,Yakweakwioose,,,67,35,32,
-5909818,2011,,589,Yale First Nation,,,164,67,97,
-5951801,2011,,728,Yekooche First Nation,,,230,106,124,
-5941841,2011,,717,Yunesit'in Government,Stone Indian Band,,446,256,190,
+band_number,band_name,pop_total_registered,pop_on_reserve_crown,pop_off_reserve_crown
+604,,271,154,117
+602,,380,218,162
+709,,196,53,143
+684,,765,416,349
+659,,2083,789,1294
+558,,42,25,17
+685,,270,78,192
+640,,250,112,138
+547,,471,225,246
+686,,919,240,679
+700,,283,90,193
+701,,263,94,169
+619,,128,48,80
+622,,792,390,402
+713,,605,440,165
+623,,1096,395,701
+591,,198,89,109
+583,,591,386,205
+584,,524,253,271
+620,,351,170,181
+693,,831,392,439
+694,,344,81,263
+642,,4772,2763,2009
+635,,219,56,163
+504,,180,65,115
+662,,770,248,522
+548,,303,143,160
+636,,533,148,385
+634,,462,141,321
+711,,956,434,522
+644,,300,195,105
+543,,908,467,441
+531,,2367,793,1574
+537,,839,423,416
+675,,737,148,589
+535,,988,457,531
+536,,1304,421,883
+672,,1916,467,1449
+724,,952,552,400
+627,,41,15,26
+534,,773,222,551
+676,,1823,671,1152
+645,,209,105,104
+546,,276,154,122
+538,,2380,1191,1189
+661,,722,162,560
+703,,117,,
+552,,471,243,228
+664,,313,142,171
+663,,709,133,576
+683,,746,361,385
+624,,330,112,218
+638,,556,186,370
+704,,230,78,152
+563,,562,322,240
+532,,1608,717,891
+540,,516,323,193
+680,,628,296,332
+681,,736,249,487
+553,,398,85,313
+610,,540,306,234
+626,,765,337,428
+564,,255,99,156
+580,,44,34,10
+628,,,,
+625,,295,77,218
+560,,85,39,46
+607,,2440,1418,1022
+643,,,,
+674,,3710,709,3001
+579,,401,138,263
+611,,415,122,293
+721,,234,73,161
+715,,174,70,104
+557,,2154,1513,641
+689,,343,238,105
+606,,234,119,115
+695,,1225,561,664
+502,,1190,507,683
+598,,495,288,207
+646,,209,39,170
+705,,1989,953,1036
+647,,319,173,146
+629,,414,64,350
+565,,262,117,145
+618,,535,140,395
+673,,890,94,796
+530,,2007,719,1288
+630,,603,254,349
+550,,1355,783,572
+556,,345,204,141
+612,,543,279,264
+614,,1883,753,1130
+631,,1804,971,833
+649,,251,175,76
+720,,374,177,197
+726,,144,54,90
+690,,650,324,326
+696,,134,66,68
+671,,"1,987",480,"1,507"
+677,,950,922,924
+678,,897,640,"1,130"
+679,,192,213,184
+699,,220,124,96
+639,,158,38,120
+539,,1686,929,757
+616,,1955,899,1056
+669,,2977,754,2223
+692,,65,20,45
+596,,533,389,144
+541,,289,91,198
+658,,277,124,153
+652,,402,286,116
+650,,933,586,347
+597,,1033,615,418
+586,,157,47,110
+585,,,,
+544,,270,116,154
+566,,,,
+651,,124,58,66
+633,,538,245,293
+615,,951,456,495
+567,,361,112,249
+542,,1033,392,641
+568,,251,106,145
+581,,947,592,355
+551,,1356,668,688
+569,,90,57,33
+595,,673,356,317
+698,,131,78,53
+605,,267,121,146
+587,,186,100,86
+570,,397,99,298
+533,,414,205,209
+691,,705,245,460
+706,,312,104,208
+562,,420,142,278
+582,,86,12,74
+687,,532,250,282
+670,,1614,741,873
+726,,179,58,121
+571,,251,180,71
+707,,119,66,53
+573,,514,288,226
+554,,1052,592,460
+648,,1734,704,1030
+656,,556,378,178
+572,,371,176,195
+600,,878,392,486
+708,,276,50,226
+555,,4119,2427,1692
+574,,208,142,66
+613,,534,223,311
+559,,1080,568,512
+723,,726,312,414
+641,,1246,798,448
+578,,325,176,149
+593,,417,202,215
+657,,257,134,123
+682,,1867,325,1542
+608,,765,430,335
+501,,401,89,312
+688,,1274,652,622
+617,,1741,582,1159
+712,,1571,601,970
+660,,1074,400,674
+632,,66,47,19
+637,,407,74,333
+603,,202,94,108
+718,,333,164,169
+666,,146,18,128
+594,,556,277,279
+653,,983,640,343
+654,,872,600,272
+577,,354,191,163
+609,,477,239,238
+665,,1145,460,685
+655,,184,125,59
+710,,682,356,326
+549,,565,322,243
+575,,503,265,238
+667,,212,32,180
+668,,647,216,431
+722,,1031,683,348
+588,,119,10,109
+697,,961,432,529
+599,,88,68,20
+545,,281,120,161
+601,,832,449,383
+725,,242,96,146
+702,,153,59,94
+719,,767,272,495
+561,,295,104,191
+716,,422,177,245
+592,,1026,401,625
+714,,431,256,175
+590,,454,234,220
+576,,67,35,32
+589,,164,67,97
+728,,230,106,124
+717,,446,256,190

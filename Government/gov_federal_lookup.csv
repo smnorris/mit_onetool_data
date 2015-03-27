@@ -1,438 +1,438 @@
 census_subdivision_id,clab_id,community_name,federal_riding_id,federal_riding_name,community_ha,overlap_ha,overlap_pct
-5901804,(null),?Akisq'nuk First Nation,-6524,Kootenay - Columbia,3619.0278815263,3619.0278815263,1
-5901803,(null),?Aq'am,-6524,Kootenay - Columbia,7683.178339589,7683.178339589,1
-5941882,(null),?Esdilagh First Nation,-6532,Cariboo - Prince George,858.2202115272,858.2202115272,1
-5909052,(null),Abbotsford,-6535,Abbotsford,38544.7005554006,38436.4749700933,0.9971922058
-5909052,(null),Abbotsford,-6531,Chilliwack - Fraser Canyon,38544.7005554006,38.9523272095,0.0010105754
-5909052,(null),Abbotsford,-6529,Pitt Meadows - Maple Ridge - Mission,38544.7005554006,61.4593925657,0.0015944966
-5909052,(null),Abbotsford,-6523,Langley,38544.7005554006,7.8138649513,0.0002027222
-5933884,(null),Adams Lake,-6518,Okanagan - Shuswap,1343.0723299359,1343.0723299359,1
-5923808,(null),Ahousaht,-6522,Nanaimo - Alberni,120.5364414266,120.5364414266,1
-5909835,(null),Aitchelitz,-6531,Chilliwack - Fraser Canyon,23.1638665901,23.1638665901,1
-5943008,(null),Alert Bay,-6505,Vancouver Island North,313.8992060466,313.8992060466,1
-5915038,(null),Anmore,-6517,North Vancouver,3278.9004776776,8.6667879531,0.0026431995
-5915038,(null),Anmore,-6515,Port Moody - Westwood - Port Coquitlam,3278.9004776776,3270.2336897245,0.9973568005
-5937028,(null),Armstrong,-6518,Okanagan - Shuswap,518.880600756,518.880600756,1
-5933019,(null),Ashcroft,-6531,Chilliwack - Fraser Canyon,5214.891547509,5214.891547509,1
-5933844,(null),Ashcroft,-6531,Chilliwack - Fraser Canyon,140.0159844933,140.0159844933,1
-5933074,(null),Barriere,-6526,Kamloops - Thompson - Cariboo,1177.8446146281,1177.8446146281,1
-5917809,(null),Beecher Bay,-6528,Esquimalt - Juan de Fuca,265.1562696986,265.1562696986,1
-5915036,(null),Belcarra,-6517,North Vancouver,1298.1312895989,2.5248886411,0.0019450179
-5915036,(null),Belcarra,-6515,Port Moody - Westwood - Port Coquitlam,1298.1312895989,1295.6064009578,0.9980549821
-5955803,(null),Blueberry River First Nations,-6514,Prince George - Peace River,1371.7445264,1371.7445264,1
-5933812,(null),Bonaparte,-6531,Chilliwack - Fraser Canyon,706.0590272769,706.0590272769,1
-5909819,(null),Boothroyd,-6531,Chilliwack - Fraser Canyon,21.6130981492,21.6130981492,1
-5909806,(null),Boston Bar First Nation,-6531,Chilliwack - Fraser Canyon,148.3066218324,148.3066218324,1
-5915062,(null),Bowen Island,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,6960.945632475,6960.945632475,1
-5915025,(null),Burnaby,-6534,Burnaby - Douglas,9542.6356571905,6140.7570902404,0.643507445
-5915025,(null),Burnaby,-6533,Burnaby - New Westminster,9542.6356571905,3374.5595413045,0.3536297164
-5915025,(null),Burnaby,-6530,Delta - Richmond East,9542.6356571905,10.6394366474,0.0011149369
-5915025,(null),Burnaby,-6519,New Westminster - Coquitlam,9542.6356571905,9.3036204438,0.0009749529
-5915025,(null),Burnaby,-6504,Vancouver Kingsway,9542.6356571905,1.4519465847,0.0001521536
-5915025,(null),Burnaby,-6502,Vancouver South,9542.6356571905,5.3162096106,0.0005571008
-5951022,(null),Burns Lake,-6511,Skeena - Bulkley Valley,747.8316765121,747.8316765121,1
-5951815,(null),Burns Lake,-6511,Skeena - Bulkley Valley,55.5575197627,55.5575197627,1
-5933024,(null),Cache Creek,-6531,Chilliwack - Fraser Canyon,1024.9597557364,1024.9597557364,1
-5924034,(null),Campbell River,-6505,Vancouver Island North,15905.8148922203,15905.8148922203,1
-5924804,(null),Campbell River,-6505,Vancouver Island North,185.7348881559,185.7348881559,1
-5901043,(null),Canal Flats,-6524,Kootenay - Columbia,1376.2126465095,1376.2126465095,1
-5941802,(null),Canim Lake,-6526,Kamloops - Thompson - Cariboo,1733.8031568847,1733.8031568847,1
-5924812,(null),Cape Mudge,-6505,Vancouver Island North,139.787276892,139.787276892,1
-5903045,(null),Castlegar,-6510,British Columbia Southern Interior,2279.6893391597,2279.6893391597,1
-5931814,(null),Cayoose Creek,-6531,Chilliwack - Fraser Canyon,180.1271955717,180.1271955717,1
-5917015,(null),Central Saanich,-6528,Esquimalt - Juan de Fuca,4815.0762251392,1.9000990579,0.0003946145
-5917015,(null),Central Saanich,-6512,Saanich - Gulf Islands,4815.0762251392,4813.1761260813,0.9996053855
-5933054,(null),Chase,-6518,Okanagan - Shuswap,443.371723018,443.371723018,1
-5909804,(null),Chawathil,-6531,Chilliwack - Fraser Canyon,545.89082243,545.89082243,1
-5909837,(null),Cheam,-6531,Chilliwack - Fraser Canyon,352.5989140179,352.5989140179,1
-5951818,(null),Cheslatta Carrier Nation,-6511,Skeena - Bulkley Valley,1090.0754637084,1090.0754637084,1
-5955010,(null),Chetwynd,-6514,Prince George - Peace River,6305.1173409772,6305.1173409772,1
-5909020,(null),Chilliwack,-6535,Abbotsford,28140.0940591632,4.3744614915,0.000155453
-5909020,(null),Chilliwack,-6531,Chilliwack - Fraser Canyon,28140.0940591632,28135.7195976717,0.999844547
-5933067,(null),Clearwater,-6526,Kamloops - Thompson - Cariboo,5900.8829842932,5900.8829842932,1
-5933028,(null),Clinton,-6526,Kamloops - Thompson - Cariboo,790.256506053,790.256506053,1
-5937010,(null),Coldstream,-6518,Okanagan - Shuswap,6876.1315479493,6876.1315479493,1
-5933801,(null),Coldwater,-6516,Okanagan - Coquihalla,1875.7178604655,1875.7178604655,1
-5917041,(null),Colwood,-6528,Esquimalt - Juan de Fuca,2121.7370966836,2121.7370966836,1
-5926005,(null),Comox,-6505,Vancouver Island North,1932.9139100073,1932.9139100073,1
-5933834,(null),Cook's Ferry,-6531,Chilliwack - Fraser Canyon,15.3791935563,15.3791935563,1
-5915034,(null),Coquitlam,-6529,Pitt Meadows - Maple Ridge - Mission,12969.7032900783,25.9372013121,0.00199983
-5915034,(null),Coquitlam,-6527,Fleetwood - Port Kells,12969.7032900783,7.0751532747,0.0005455139
-5915034,(null),Coquitlam,-6519,New Westminster - Coquitlam,12969.7032900783,3787.8756910244,0.2920556937
-5915034,(null),Coquitlam,-6515,Port Moody - Westwood - Port Coquitlam,12969.7032900783,9119.0476008979,0.7031037948
-5915034,(null),Coquitlam,-6508,Surrey North,12969.7032900783,29.7487373371,0.0022937099
-5926010,(null),Courtenay,-6505,Vancouver Island North,3003.8230774136,3003.8230774136,1
-5919822,(null),Cowichan Tribes,-6521,Nanaimo - Cowichan,2525.0688300388,2525.0688300388,1
-5901022,(null),Cranbrook,-6524,Kootenay - Columbia,3209.2572712735,3209.2572712735,1
-5903004,(null),Creston,-6524,Kootenay - Columbia,846.5918626178,846.5918626178,1
-5926014,(null),Cumberland,-6505,Vancouver Island North,3031.4854694849,3031.4854694849,1
-(null),07095,Da'naxda'xw/Awaetlala First Nation,-6505,Vancouver Island North,40.450205514,40.450205514,1
-5955014,(null),Dawson Creek,-6514,Prince George - Peace River,2436.6441592698,2436.6441592698,1
-5957804,(null),Dease River,-6511,Skeena - Bulkley Valley,51.9798444755,51.9798444755,1
-5915011,(null),Delta,-6533,Burnaby - New Westminster,40161.3671474674,4.2131559266,0.0001049057
-5915011,(null),Delta,-6530,Delta - Richmond East,40161.3671474674,37808.1272839465,0.9414053846
-5915011,(null),Delta,-6520,Newton - North Delta,40161.3671474674,2330.9531420701,0.0580396861
-5915011,(null),Delta,-6509,South Surrey - White Rock - Cloverdale,40161.3671474674,14.6375500466,0.0003644684
-5915011,(null),Delta,-6508,Surrey North,40161.3671474674,3.4359674507,8.55540459592465e-005
-5919814,(null),Ditidaht,-6521,Nanaimo - Cowichan,57.045550685,57.045550685,1
-5955804,(null),Doig River First Nation,-6514,Prince George - Peace River,1175.9424295941,1175.9424295941,1
-5919012,(null),Duncan,-6521,Nanaimo - Cowichan,207.0735518295,207.0735518295,1
-5943813,(null),Dzawada'enuxw First Nation,-6505,Vancouver Island North,225.7276267009,225.7276267009,1
-5924805,(null),Ehattesaht,-6505,Vancouver Island North,23.7446575592,23.7446575592,1
-5901003,(null),Elkford,-6524,Kootenay - Columbia,11022.6721852898,11022.6721852898,1
-5937033,(null),Enderby,-6518,Okanagan - Shuswap,426.3129615701,426.3129615701,1
-5941801,(null),Esk'etemc,-6532,Cariboo - Prince George,258.8899049667,258.8899049667,1
-5917040,(null),Esquimalt,-6528,Esquimalt - Juan de Fuca,1101.8800658921,1101.1880561848,0.9993719737
-5917811,(null),Esquimalt,-6528,Esquimalt - Juan de Fuca,21.6685516583,21.6685516583,1
-5901012,(null),Fernie,-6524,Kootenay - Columbia,1560.3034121853,1560.3034121853,1
-5959806,(null),Fort Nelson First Nation,-6514,Prince George - Peace River,9577.7113505592,9577.7113505592,1
-5951013,(null),Fort St. James,-6511,Skeena - Bulkley Valley,2463.7476985474,2463.7476985474,1
-5955034,(null),Fort St. John,-6514,Prince George - Peace River,2268.870276405,2268.870276405,1
-5951009,(null),Fraser Lake,-6511,Skeena - Bulkley Valley,539.8586128236,539.8586128236,1
-5905005,(null),Fruitvale,-6510,British Columbia Southern Interior,270.5409180936,270.5409180936,1
-5929005,(null),Gibsons,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,524.558132353,524.558132353,1
-5949812,(null),Gitanmaax,-6511,Skeena - Bulkley Valley,1190.609990457,1190.609990457,1
-5949815,(null),Gitanyow,-6511,Skeena - Bulkley Valley,508.9732200428,508.9732200428,1
-5947806,(null),Gitga'at First Nation,-6511,Skeena - Bulkley Valley,113.9049283449,113.9049283449,1
-5949814,(null),Gitsegukla,-6511,Skeena - Bulkley Valley,1195.9624934557,1195.9624934557,1
-5949816,(null),Gitwangak Band Council,-6511,Skeena - Bulkley Valley,1962.9534519117,1962.9534519117,1
-5947807,(null),Gitxaala Nation,-6511,Skeena - Bulkley Valley,1563.5668705398,1563.5668705398,1
-5924025,(null),Gold River,-6505,Vancouver Island North,1344.2580677393,1344.2580677393,1
-5939007,(null),Golden,-6524,Kootenay - Columbia,1205.268122075,1205.268122075,1
-5905032,(null),Grand Forks,-6510,British Columbia Southern Interior,1086.956287387,1086.956287387,1
-5951032,(null),Granisle,-6511,Skeena - Bulkley Valley,8095.7561008933,8095.7561008933,1
-5905042,(null),Greenwood,-6510,British Columbia Southern Interior,241.8998955247,241.8998955247,1
-5943806,(null),Gwa'sala-Nakwaxda'xw Nation,-6505,Vancouver Island North,51.4061132023,51.4061132023,1
-5943809,(null),Gwawaenuk Tribe,-6505,Vancouver Island North,3.10317191,3.10317191,1
-5949811,(null),Hagwilget Village Council,-6511,Skeena - Bulkley Valley,128.1248780835,128.1248780835,1
-5949803,(null),Haisla Nation,-6511,Skeena - Bulkley Valley,156.5491119356,156.5491119356,1
-5919801,(null),Halalt,-6521,Nanaimo - Cowichan,123.5755189612,123.5755189612,1
-5955808,(null),Halfway River First Nation,-6514,Prince George - Peace River,4095.6352161204,4095.6352161204,1
-5909027,(null),Harrison Hot Springs,-6531,Chilliwack - Fraser Canyon,721.7927011294,721.7927011294,1
-5949022,(null),Hazelton,-6511,Skeena - Bulkley Valley,304.600190679,304.600190679,1
-5945801,(null),Heiltsuk,-6511,Skeena - Bulkley Valley,615.0460331914,615.0460331914,1
-5923824,(null),Hesquiaht,-6522,Nanaimo - Alberni,16.6409296264,16.6409296264,1
-5933819,(null),High Bar,-6526,Kamloops - Thompson - Cariboo,1542.3097208372,1542.3097208372,1
-5917049,(null),Highlands,-6528,Esquimalt - Juan de Fuca,4109.2658815135,4109.2658815135,1
-5924840,(null),Homalco,-6505,Vancouver Island North,56.352525969,56.352525969,1
-5909009,(null),Hope,-6531,Chilliwack - Fraser Canyon,4753.7430858894,4753.7430858894,1
-5951034,(null),Houston,-6511,Skeena - Bulkley Valley,7422.5177993002,7422.5177993002,1
-5955025,(null),Hudson's Hope,-6514,Prince George - Peace River,89690.6042826011,89690.6042826011,1
-5923801,(null),Hupacasath First Nation,-6522,Nanaimo - Alberni,40.7994333089,40.7994333089,1
-5923803,(null),Huu-Ay-Aht First Nation,-6522,Nanaimo - Alberni,100.8663852898,100.8663852898,1
-5901039,(null),Invermere,-6524,Kootenay - Columbia,1200.833143989,1200.833143989,1
-5949832,(null),Iskut,-6511,Skeena - Bulkley Valley,58.0818383226,58.0818383226,1
-(null),(null),Jumbo Glacier,-6524,Kootenay - Columbia,6136.2802796292,6136.2802796292,1
-5926801,(null),K'ï¿½moks First Nation,-6505,Vancouver Island North,58.1989243444,58.1989243444,1
-5924806,(null),Ka:'yu:'k't'h'/Che:k:tles7et'h' First Nations,-6505,Vancouver Island North,13.5942985576,13.5942985576,1
+5901804,(null),?Akisq'nuk First Nation,-6524,Kootenay - Columbia,3619.027881526338,3619.027881526338,1
+5901803,(null),?Aq'am,-6524,Kootenay - Columbia,7683.178339588993,7683.178339588993,1
+5941882,(null),?Esdilagh First Nation,-6532,Cariboo - Prince George,858.2202115271668,858.2202115271668,1
+5909052,(null),Abbotsford,-6529,Pitt Meadows - Maple Ridge - Mission,38544.70055540055,61.45939256565196,0.001594496563212781
+5909052,(null),Abbotsford,-6535,Abbotsford,38544.70055540055,38436.47497009333,0.9971922058351014
+5909052,(null),Abbotsford,-6523,Langley,38544.70055540055,7.813864951346123,0.0002027221599533561
+5909052,(null),Abbotsford,-6531,Chilliwack - Fraser Canyon,38544.70055540055,38.95232720949099,0.0010105754266661
+5933884,(null),Adams Lake,-6518,Okanagan - Shuswap,1343.072329935898,1343.072329935898,1
+5923808,(null),Ahousaht,-6522,Nanaimo - Alberni,120.5364414265794,120.5364414265794,1
+5909835,(null),Aitchelitz,-6531,Chilliwack - Fraser Canyon,23.16386659008885,23.16386659008885,1
+5943008,(null),Alert Bay,-6505,Vancouver Island North,313.899206046588,313.899206046588,1
+5915038,(null),Anmore,-6515,Port Moody - Westwood - Port Coquitlam,3278.900477677544,3270.233689724494,0.9973568005457766
+5915038,(null),Anmore,-6517,North Vancouver,3278.900477677544,8.66678795305317,0.002643199454224328
+5937028,(null),Armstrong,-6518,Okanagan - Shuswap,518.8806007559944,518.8806007559944,1
+5933844,(null),Ashcroft,-6531,Chilliwack - Fraser Canyon,140.0159844932589,140.0159844932589,1
+5933019,(null),Ashcroft,-6531,Chilliwack - Fraser Canyon,5214.891547508981,5214.891547508981,1
+5933074,(null),Barriere,-6526,Kamloops - Thompson - Cariboo,1177.844614628093,1177.844614628093,1
+5917809,(null),Beecher Bay,-6528,Esquimalt - Juan de Fuca,265.1562696986409,265.1562696986409,1
+5915036,(null),Belcarra,-6517,North Vancouver,1298.131289598898,2.524888641063533,0.001945017935623201
+5915036,(null),Belcarra,-6515,Port Moody - Westwood - Port Coquitlam,1298.131289598898,1295.606400957835,0.9980549820643767
+5955803,(null),Blueberry River First Nations,-6514,Prince George - Peace River,1371.744526400008,1371.744526400008,1
+5933812,(null),Bonaparte,-6531,Chilliwack - Fraser Canyon,706.0590272769059,706.0590272769059,1
+5909819,(null),Boothroyd,-6531,Chilliwack - Fraser Canyon,21.61309814924166,21.61309814924166,1
+5909806,(null),Boston Bar First Nation,-6531,Chilliwack - Fraser Canyon,148.3066218324461,148.3066218324461,1
+5915062,(null),Bowen Island,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,6960.945632475004,6960.945632475004,1
+5915025,(null),Burnaby,-6533,Burnaby - New Westminster,9542.635657190465,3374.559541304498,0.3536297164150594
+5915025,(null),Burnaby,-6502,Vancouver South,9542.635657190465,5.31620961063235,0.0005571007635219244
+5915025,(null),Burnaby,-6534,Burnaby - Douglas,9542.635657190465,6140.757090240367,0.6435074449911801
+5915025,(null),Burnaby,-6519,New Westminster - Coquitlam,9542.635657190465,9.303620443791772,0.0009749529142696972
+5915025,(null),Burnaby,-6530,Delta - Richmond East,9542.635657190465,10.63943664742162,0.001114936903140037
+5915025,(null),Burnaby,-6504,Vancouver Kingsway,9542.635657190465,1.451946584714292,0.0001521536226336208
+5951815,(null),Burns Lake,-6511,Skeena - Bulkley Valley,55.5575197626635,55.5575197626635,1
+5951022,(null),Burns Lake,-6511,Skeena - Bulkley Valley,747.8316765121055,747.8316765121055,1
+5933024,(null),Cache Creek,-6531,Chilliwack - Fraser Canyon,1024.959755736373,1024.959755736373,1
+5924034,(null),Campbell River,-6505,Vancouver Island North,15905.81489222026,15905.81489222026,1
+5924804,(null),Campbell River,-6505,Vancouver Island North,185.7348881559026,185.7348881559026,1
+5901043,(null),Canal Flats,-6524,Kootenay - Columbia,1376.212646509479,1376.212646509479,1
+5941802,(null),Canim Lake,-6526,Kamloops - Thompson - Cariboo,1733.803156884669,1733.803156884669,1
+5924812,(null),Cape Mudge,-6505,Vancouver Island North,139.7872768920279,139.7872768920279,1
+5903045,(null),Castlegar,-6510,British Columbia Southern Interior,2279.689339159729,2279.689339159729,1
+5931814,(null),Cayoose Creek,-6531,Chilliwack - Fraser Canyon,180.1271955716638,180.1271955716638,1
+5917015,(null),Central Saanich,-6512,Saanich - Gulf Islands,4815.076225139224,4813.176126081294,0.9996053854665872
+5917015,(null),Central Saanich,-6528,Esquimalt - Juan de Fuca,4815.076225139224,1.900099057930351,0.0003946145334127936
+5933054,(null),Chase,-6518,Okanagan - Shuswap,443.371723018031,443.371723018031,1
+5909804,(null),Chawathil,-6531,Chilliwack - Fraser Canyon,545.8908224299811,545.8908224299811,1
+5909837,(null),Cheam,-6531,Chilliwack - Fraser Canyon,352.5989140178837,352.5989140178837,1
+5951818,(null),Cheslatta Carrier Nation,-6511,Skeena - Bulkley Valley,1090.075463708375,1090.075463708375,1
+5955010,(null),Chetwynd,-6514,Prince George - Peace River,6305.117340977216,6305.117340977216,1
+5909020,(null),Chilliwack,-6531,Chilliwack - Fraser Canyon,28140.09405916322,28135.71959767173,0.9998445470195556
+5909020,(null),Chilliwack,-6535,Abbotsford,28140.09405916322,4.374461491482955,0.0001554529804444099
+5933067,(null),Clearwater,-6526,Kamloops - Thompson - Cariboo,5900.882984293212,5900.882984293212,1
+5933028,(null),Clinton,-6526,Kamloops - Thompson - Cariboo,790.2565060530026,790.2565060530026,1
+5937010,(null),Coldstream,-6518,Okanagan - Shuswap,6876.131547949265,6876.131547949265,1
+5933801,(null),Coldwater,-6516,Okanagan - Coquihalla,1875.717860465492,1875.717860465492,1
+5917041,(null),Colwood,-6528,Esquimalt - Juan de Fuca,2121.73709668358,2121.73709668358,1
+5926005,(null),Comox,-6505,Vancouver Island North,1932.913910007283,1932.913910007283,1
+5933834,(null),Cook's Ferry,-6531,Chilliwack - Fraser Canyon,15.37919355634648,15.37919355634648,1
+5915034,(null),Coquitlam,-6508,Surrey North,12969.70329007827,29.74873733705406,0.002293709938592939
+5915034,(null),Coquitlam,-6527,Fleetwood - Port Kells,12969.70329007827,7.075153274696199,0.0005455138885180699
+5915034,(null),Coquitlam,-6529,Pitt Meadows - Maple Ridge - Mission,12969.70329007827,25.93720131206069,0.001999829967729676
+5915034,(null),Coquitlam,-6519,New Westminster - Coquitlam,12969.70329007827,3787.87569102438,0.2920556936658743
+5915034,(null),Coquitlam,-6515,Port Moody - Westwood - Port Coquitlam,12969.70329007827,9119.047600897869,0.7031037948164841
+5926010,(null),Courtenay,-6505,Vancouver Island North,3003.82307741356,3003.82307741356,1
+5919822,(null),Cowichan Tribes,-6521,Nanaimo - Cowichan,2525.068830038826,2525.068830038826,1
+5901022,(null),Cranbrook,-6524,Kootenay - Columbia,3209.257271273531,3209.257271273531,1
+5903004,(null),Creston,-6524,Kootenay - Columbia,846.5918626178265,846.5918626178265,1
+5926014,(null),Cumberland,-6505,Vancouver Island North,3031.485469484842,3031.485469484842,1
+(null),07095,Da'naxda'xw/Awaetlala First Nation,-6505,Vancouver Island North,40.45020551400488,40.45020551400488,1
+5955014,(null),Dawson Creek,-6514,Prince George - Peace River,2436.644159269772,2436.644159269772,1
+5957804,(null),Dease River,-6511,Skeena - Bulkley Valley,51.97984447545855,51.97984447545855,1
+5915011,(null),Delta,-6508,Surrey North,40161.3671474674,3.435967450720598,8.55540459592465e-005
+5915011,(null),Delta,-6520,Newton - North Delta,40161.3671474674,2330.953142070089,0.05803968608715752
+5915011,(null),Delta,-6530,Delta - Richmond East,40161.3671474674,37808.12728394652,0.9414053845607376
+5915011,(null),Delta,-6533,Burnaby - New Westminster,40161.3671474674,4.213155926640332,0.0001049056898678315
+5915011,(null),Delta,-6509,South Surrey - White Rock - Cloverdale,40161.3671474674,14.63755004663494,0.0003644684204321961
+5919814,(null),Ditidaht,-6521,Nanaimo - Cowichan,57.04555068502482,57.04555068502482,1
+5955804,(null),Doig River First Nation,-6514,Prince George - Peace River,1175.942429594106,1175.942429594106,1
+5919012,(null),Duncan,-6521,Nanaimo - Cowichan,207.0735518295224,207.0735518295224,1
+5943813,(null),Dzawada'enuxw First Nation,-6505,Vancouver Island North,225.7276267009364,225.7276267009364,1
+5924805,(null),Ehattesaht,-6505,Vancouver Island North,23.74465755924912,23.74465755924912,1
+5901003,(null),Elkford,-6524,Kootenay - Columbia,11022.67218528976,11022.67218528976,1
+5937033,(null),Enderby,-6518,Okanagan - Shuswap,426.3129615700603,426.3129615700603,1
+5941801,(null),Esk'etemc,-6532,Cariboo - Prince George,258.8899049667307,258.8899049667307,1
+5917040,(null),Esquimalt,-6528,Esquimalt - Juan de Fuca,1101.880065892127,1101.188056184831,0.9993719736578269
+5917811,(null),Esquimalt,-6528,Esquimalt - Juan de Fuca,21.66855165833125,21.66855165833125,1
+5901012,(null),Fernie,-6524,Kootenay - Columbia,1560.303412185283,1560.303412185283,1
+5959806,(null),Fort Nelson First Nation,-6514,Prince George - Peace River,9577.711350559226,9577.711350559226,1
+5951013,(null),Fort St. James,-6511,Skeena - Bulkley Valley,2463.747698547387,2463.747698547387,1
+5955034,(null),Fort St. John,-6514,Prince George - Peace River,2268.870276404967,2268.870276404967,1
+5951009,(null),Fraser Lake,-6511,Skeena - Bulkley Valley,539.8586128236011,539.8586128236011,1
+5905005,(null),Fruitvale,-6510,British Columbia Southern Interior,270.5409180935644,270.5409180935644,1
+5929005,(null),Gibsons,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,524.558132353012,524.558132353012,1
+5949812,(null),Gitanmaax,-6511,Skeena - Bulkley Valley,1190.609990457029,1190.609990457029,1
+5949815,(null),Gitanyow,-6511,Skeena - Bulkley Valley,508.9732200428317,508.9732200428317,1
+5947806,(null),Gitga'at First Nation,-6511,Skeena - Bulkley Valley,113.9049283448692,113.9049283448692,1
+5949814,(null),Gitsegukla,-6511,Skeena - Bulkley Valley,1195.962493455682,1195.962493455682,1
+5949816,(null),Gitwangak Band Council,-6511,Skeena - Bulkley Valley,1962.953451911661,1962.953451911661,1
+5947807,(null),Gitxaala Nation,-6511,Skeena - Bulkley Valley,1563.566870539804,1563.566870539804,1
+5924025,(null),Gold River,-6505,Vancouver Island North,1344.258067739245,1344.258067739245,1
+5939007,(null),Golden,-6524,Kootenay - Columbia,1205.268122075014,1205.268122075014,1
+5905032,(null),Grand Forks,-6510,British Columbia Southern Interior,1086.956287386986,1086.956287386986,1
+5951032,(null),Granisle,-6511,Skeena - Bulkley Valley,8095.756100893298,8095.756100893298,1
+5905042,(null),Greenwood,-6510,British Columbia Southern Interior,241.8998955246553,241.8998955246553,1
+5943806,(null),Gwa'sala-Nakwaxda'xw Nation,-6505,Vancouver Island North,51.40611320229721,51.40611320229721,1
+5943809,(null),Gwawaenuk Tribe,-6505,Vancouver Island North,3.103171909998965,3.103171909998965,1
+5949811,(null),Hagwilget Village Council,-6511,Skeena - Bulkley Valley,128.1248780835215,128.1248780835215,1
+5949803,(null),Haisla Nation,-6511,Skeena - Bulkley Valley,156.5491119356294,156.5491119356294,1
+5919801,(null),Halalt,-6521,Nanaimo - Cowichan,123.5755189611944,123.5755189611944,1
+5955808,(null),Halfway River First Nation,-6514,Prince George - Peace River,4095.635216120365,4095.635216120365,1
+5909027,(null),Harrison Hot Springs,-6531,Chilliwack - Fraser Canyon,721.7927011293878,721.7927011293878,1
+5949022,(null),Hazelton,-6511,Skeena - Bulkley Valley,304.6001906790455,304.6001906790455,1
+5945801,(null),Heiltsuk,-6511,Skeena - Bulkley Valley,615.0460331913558,615.0460331913558,1
+5923824,(null),Hesquiaht,-6522,Nanaimo - Alberni,16.64092962639488,16.64092962639488,1
+5933819,(null),High Bar,-6526,Kamloops - Thompson - Cariboo,1542.30972083722,1542.30972083722,1
+5917049,(null),Highlands,-6528,Esquimalt - Juan de Fuca,4109.265881513525,4109.265881513525,1
+5924840,(null),Homalco,-6505,Vancouver Island North,56.35252596902432,56.35252596902432,1
+5909009,(null),Hope,-6531,Chilliwack - Fraser Canyon,4753.743085889411,4753.743085889411,1
+5951034,(null),Houston,-6511,Skeena - Bulkley Valley,7422.517799300154,7422.517799300154,1
+5955025,(null),Hudson's Hope,-6514,Prince George - Peace River,89690.60428260105,89690.60428260105,1
+5923801,(null),Hupacasath First Nation,-6522,Nanaimo - Alberni,40.79943330891666,40.79943330891666,1
+5923803,(null),Huu-Ay-Aht First Nation,-6522,Nanaimo - Alberni,100.8663852898161,100.8663852898161,1
+5901039,(null),Invermere,-6524,Kootenay - Columbia,1200.83314398895,1200.83314398895,1
+5949832,(null),Iskut,-6511,Skeena - Bulkley Valley,58.08183832257788,58.08183832257788,1
+(null),(null),Jumbo Glacier,-6524,Kootenay - Columbia,6136.280279629198,6136.280279629198,1
+5926801,(null),K'ómoks First Nation,-6505,Vancouver Island North,58.1989243443914,58.1989243443914,1
+5924806,(null),Ka:'yu:'k't'h'/Che:k:tles7et'h' First Nations,-6505,Vancouver Island North,13.59429855761882,13.59429855761882,1
 5933042,(null),Kamloops,-6526,Kamloops - Thompson - Cariboo,31675.6804632162,31675.6804632162,1
-5933882,(null),Kanaka Bar,-6531,Chilliwack - Fraser Canyon,127.4259918647,127.4259918647,1
-5903023,(null),Kaslo,-6510,British Columbia Southern Interior,280.2099588727,280.2099588727,1
-5915830,(null),Katzie,-6529,Pitt Meadows - Maple Ridge - Mission,42.3902702225,42.3902702225,1
-5935010,(null),Kelowna,-6525,Kelowna - Lake Country,26091.497306844,25948.6932314053,0.9945267965
-5935010,(null),Kelowna,-6516,Okanagan - Coquihalla,26091.497306844,142.8040754387,0.0054732035
-5909032,(null),Kent,-6531,Chilliwack - Fraser Canyon,19964.3669268934,19964.3669268934,1
-5907009,(null),Keremeos,-6510,British Columbia Southern Interior,217.6684409044,217.6684409044,1
-5901028,(null),Kimberley,-6524,Kootenay - Columbia,6090.0569123891,6090.0569123891,1
-5949813,(null),Kispiox,-6511,Skeena - Bulkley Valley,1353.5713589284,1353.5713589284,1
-5949802,(null),Kitasoo/Xai'xais,-6511,Skeena - Bulkley Valley,372.1440038741,372.1440038741,1
-5949005,(null),Kitimat,-6511,Skeena - Bulkley Valley,31914.5221279529,31914.5221279529,1
-5949807,(null),Kitselas,-6511,Skeena - Bulkley Valley,7.1591738333,7.1591738333,1
-5949804,(null),Kitsumkalum,-6511,Skeena - Bulkley Valley,495.3093549146,495.3093549146,1
-5924820,(null),Klahoose First Nation,-6505,Vancouver Island North,262.6085457746,262.6085457746,1
-5955807,(null),Kwadacha,-6514,Prince George - Peace River,432.1752290642,432.1752290642,1
-5943815,(null),Kwakiutl,-6505,Vancouver Island North,13.9566087184,13.9566087184,1
-5915816,(null),Kwantlen First Nation,-6523,Langley,178.3759173543,178.3759173543,1
-5909821,(null),Kwaw-Kwaw-a-pilt First Nation,-6531,Chilliwack - Fraser Canyon,71.4570282345,71.4570282345,1
-(null),07029,Kwiakah,-6505,Vancouver Island North,20.4902243249,20.4902243249,1
-5943837,(null),Kwikwasut'inuxw Haxwa'mis,-6505,Vancouver Island North,248.2771292651,248.2771292651,1
-5915805,(null),Kwikwetlem First Nation,-6519,New Westminster - Coquitlam,2.1953313535,1.3292727055,0.6054998046
-5919021,(null),Ladysmith,-6521,Nanaimo - Cowichan,1451.2329925023,1451.2329925023,1
-5951827,(null),Lake Babine Nation,-6511,Skeena - Bulkley Valley,14.5964988797,14.5964988797,1
-5935016,(null),Lake Country,-6525,Kelowna - Lake Country,16236.5501999616,15927.783848823,0.980983254
-5935016,(null),Lake Country,-6518,Okanagan - Shuswap,16236.5501999616,7.1198731378,0.000438509
-5935016,(null),Lake Country,-6516,Okanagan - Coquihalla,16236.5501999616,301.6464780009,0.018578237
-5919016,(null),Lake Cowichan,-6521,Nanaimo - Cowichan,973.1040555473,973.1040555473,1
-5919812,(null),Lake Cowichan First Nation,-6521,Nanaimo - Cowichan,42.524336641,42.524336641,1
-5917044,(null),Langford,-6528,Esquimalt - Juan de Fuca,4165.6908202233,4165.6908202233,1
-5915001,(null),Langley,-6535,Abbotsford,31476.3088886981,15.6062070004,0.000495808
-5915001,(null),Langley,-6529,Pitt Meadows - Maple Ridge - Mission,31476.3088886981,19.0361507386,0.0006047771
-5915001,(null),Langley,-6527,Fleetwood - Port Kells,31476.3088886981,31.7664267389,0.001009217
-5915001,(null),Langley,-6523,Langley,31476.3088886981,31388.7761740146,0.9972190921
-5915001,(null),Langley,-6509,South Surrey - White Rock - Cloverdale,31476.3088886981,21.1239302057,0.0006711057
-5915002,(null),Langley,-6523,Langley,1022.199201645,1016.7647559712,0.9946835747
-5915002,(null),Langley,-6509,South Surrey - White Rock - Cloverdale,1022.199201645,5.4344480387,0.0053164276
-5921008,(null),Lantzville,-6522,Nanaimo - Alberni,2984.4990483948,2984.4990483948,1
-5947809,(null),Lax Kw'alaams,-6511,Skeena - Bulkley Valley,11108.045648915,11108.045648915,1
-5909880,(null),Leq' A: Mel First Nation,-6531,Chilliwack - Fraser Canyon,40.8349793454,40.8349793454,1
-5953801,(null),Lheidli T'enneh,-6514,Prince George - Peace River,570.4046674098,570.4046674098,1
-5941833,(null),Lhoosk'uz Dene Nation,-6532,Cariboo - Prince George,447.1169821294,447.1169821294,1
-5943837,(null),Lhtako Dene Nation,-6505,Vancouver Island North,248.2771292651,248.2771292651,1
-5931843,(null),Lil'wat,-6531,Chilliwack - Fraser Canyon,2325.2967138655,2325.2967138655,1
-5931026,(null),Lillooet,-6531,Chilliwack - Fraser Canyon,2949.9970888319,2949.9970888319,1
-5915065,(null),Lions Bay,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,351.9177334673,351.9177334673,1
-5939805,(null),Little Shuswap Lake,-6518,Okanagan - Shuswap,1709.9310278225,1709.9310278225,1
-5933035,(null),Logan Lake,-6531,Chilliwack - Fraser Canyon,33014.5267436481,669.684326184,0.0202845351
-5933035,(null),Logan Lake,-6526,Kamloops - Thompson - Cariboo,33014.5267436481,151.9213647514,0.0046016521
-5933035,(null),Logan Lake,-6516,Okanagan - Coquihalla,33014.5267436481,32192.9210527127,0.9751138129
-5903807,(null),Lower Kootenay,-6524,Kootenay - Columbia,752.8601331792,752.8601331792,1
-5933807,(null),Lower Nicola,-6516,Okanagan - Coquihalla,4626.4170652978,4626.4170652978,1
-5957813,(null),Lower Post First Nation,-6511,Skeena - Bulkley Valley,55.758341815,55.758341815,1
-5907805,(null),Lower Similkameen,-6510,British Columbia Southern Interior,1730.6228748818,1730.6228742839,0.9999999997
-5937005,(null),Lumby,-6518,Okanagan - Shuswap,574.699509225,574.699509225,1
-5919811,(null),Lyackson,-6521,Nanaimo - Cowichan,40.1123773602,40.1123773602,1
-5933015,(null),Lytton,-6531,Chilliwack - Fraser Canyon,716.0937439038,716.0937439038,1
-5933853,(null),Lytton,-6531,Chilliwack - Fraser Canyon,192.4155953135,192.4155953135,1
-5953033,(null),Mackenzie,-6514,Prince George - Peace River,22300.4587131208,22300.4587131208,1
-5919815,(null),Malahat First Nation,-6521,Nanaimo - Cowichan,245.285856759,245.285856759,1
-(null),07030,Mamalilikulla-Qwe'qwa'sot'em,-6505,Vancouver Island North,176.2747004331,176.2747004331,1
-5915075,(null),Maple Ridge,-6529,Pitt Meadows - Maple Ridge - Mission,28451.1020440899,28427.5366799668,0.999171724
-5915075,(null),Maple Ridge,-6523,Langley,28451.1020440899,23.561994942,0.0008281575
-5947023,(null),Masset,-6511,Skeena - Bulkley Valley,2293.7223354363,2293.7223354363,1
-5909878,(null),Matsqui,-6535,Abbotsford,154.0329245824,153.5653395845,0.9969643828
-5953012,(null),McBride,-6514,Prince George - Peace River,465.7849599447,465.7849599447,1
-5953802,(null),Mcleod Lake,-6514,Prince George - Peace River,1027.1288719461,1027.1288719461,1
-5933006,(null),Merritt,-6516,Okanagan - Coquihalla,2502.2449827449,2502.2449827449,1
-5917042,(null),Metchosin,-6528,Esquimalt - Juan de Fuca,8030.1779873613,8030.1779873613,1
-5947810,(null),Metlakatla,-6511,Skeena - Bulkley Valley,3376.3602262642,3376.3602262642,1
-5905037,(null),Midway,-6510,British Columbia Southern Interior,1257.2497708439,1257.2497708439,1
-5909056,(null),Mission,-6535,Abbotsford,26016.4763100791,38.1918845667,0.0014679884
-5909056,(null),Mission,-6531,Chilliwack - Fraser Canyon,26016.4763100791,7.8225055181,0.0003006751
-5909056,(null),Mission,-6529,Pitt Meadows - Maple Ridge - Mission,26016.4763100791,25970.4619199944,0.9982313366
-5905009,(null),Montrose,-6510,British Columbia Southern Interior,146.1670723715,146.1670723715,1
-5949817,(null),Moricetown,-6511,Skeena - Bulkley Valley,611.2818986077,611.2818986077,1
-5924803,(null),Mowachaht/Muchalaht,-6505,Vancouver Island North,33.237874836,33.237874836,1
-5915803,(null),Musqueam,-6503,Vancouver Quadra,319.9115403809,319.7414907611,0.999468448
-5931844,(null),N'quatqua,-6531,Chilliwack - Fraser Canyon,211.4863178307,211.4863178307,1
-5951802,(null),Nadleh Whuten,-6511,Skeena - Bulkley Valley,518.9079053262,518.9079053262,1
-5951803,(null),Nak'azdli,-6511,Skeena - Bulkley Valley,322.0139521774,322.0139521774,1
-5903050,(null),Nakusp,-6524,Kootenay - Columbia,892.3279719124,892.3279719124,1
-5943837,(null),Namgis First Nation,-6505,Vancouver Island North,248.2771292651,248.2771292651,1
-5921007,(null),Nanaimo,-6522,Nanaimo - Alberni,12374.2949666555,4689.8864783861,0.3790023182
-5921007,(null),Nanaimo,-6521,Nanaimo - Cowichan,12374.2949666555,7684.4084882695,0.6209976818
-5921805,(null),Nanoose First Nation,-6522,Nanaimo - Alberni,90.2670445513,90.2670445513,1
-5941837,(null),Nazko First Nation,-6532,Cariboo - Prince George,477.4568892618,477.4568892618,1
-5951819,(null),Nee-Tahi-Buhn Band,-6511,Skeena - Bulkley Valley,56.5483445654,56.5483445654,1
-5903015,(null),Nelson,-6510,British Columbia Southern Interior,1605.6447434308,1605.6447434308,1
-5933838,(null),Neskonlith,-6518,Okanagan - Shuswap,2633.002706109,2632.7191129541,0.9998922929
-5903032,(null),New Denver,-6510,British Columbia Southern Interior,203.9105346264,203.9105346264,1
-5949024,(null),New Hazelton,-6511,Skeena - Bulkley Valley,2462.5434904359,2462.5434904359,1
-5915029,(null),New Westminster,-6533,Burnaby - New Westminster,1820.2982973019,892.7909388348,0.490464085
-5915029,(null),New Westminster,-6530,Delta - Richmond East,1820.2982973019,10.3573788425,0.0056899349
-5915029,(null),New Westminster,-6519,New Westminster - Coquitlam,1820.2982973019,903.9548126003,0.4965970764
-5915029,(null),New Westminster,-6508,Surrey North,1820.2982973019,13.1951731086,0.007248907
-5933851,(null),Nicomen,-6531,Chilliwack - Fraser Canyon,67.5861030041,67.5861030041,1
-5949035,(null),Nisga'a Lisims Government,-6511,Skeena - Bulkley Valley,205402.406426906,205402.406426906,1
-5933808,(null),Nooaitch,-6531,Chilliwack - Fraser Canyon,790.1473314109,1.3667731145,0.00172977
-5933808,(null),Nooaitch,-6516,Okanagan - Coquihalla,790.1473314109,788.7805582964,0.99827023
-5919008,(null),North Cowichan,-6521,Nanaimo - Cowichan,21069.539847988,21069.539847988,1
-5917005,(null),North Saanich,-6512,Saanich - Gulf Islands,4732.5223786548,4732.5223786548,1
-5915046,(null),North Vancouver,-6534,Burnaby - Douglas,17758.3850000573,7.035903496,0.0003962018
-5915046,(null),North Vancouver,-6517,North Vancouver,17758.3850000573,17087.3466468306,0.9622128728
-5915046,(null),North Vancouver,-6515,Port Moody - Westwood - Port Coquitlam,17758.3850000573,5.4276290921,0.0003056375
-5915046,(null),North Vancouver,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,17758.3850000573,657.8069367087,0.0370420473
-5915051,(null),North Vancouver,-6517,North Vancouver,1722.8908642706,1717.9785056607,0.9971487697
-5915051,(null),North Vancouver,-6506,Vancouver East,1722.8908642706,4.422908085,0.0025671435
-5959007,(null),Northern Rockies,-6514,Prince George - Peace River,8630472.26652309,8625473.19264981,0.9994207647
-5959007,(null),Northern Rockies,-6511,Skeena - Bulkley Valley,8630472.26652309,4998.6772200131,0.0005791893
-5924833,(null),Nuchatlaht,-6505,Vancouver Island North,12.321022648,12.321022648,1
-5945802,(null),Nuxalk Nation,-6511,Skeena - Bulkley Valley,1638.9047366207,1638.9047366207,1
-5917030,(null),Oak Bay,-6501,Victoria,1505.6315600817,1505.6315600817,1
-5939804,(null),Okanagan Indian Band,-6518,Okanagan - Shuswap,1838.7600208759,1838.7600208759,1
-5947803,(null),Old Massett Village Council,-6511,Skeena - Bulkley Valley,320.6010292237,320.6010292237,1
-5907014,(null),Oliver,-6510,British Columbia Southern Interior,602.4503686898,602.4503686898,1
-5941005,(null),One Hundred Mile House,-6526,Kamloops - Thompson - Cariboo,5414.8234264575,5414.8234264575,1
-5933854,(null),Oregon Jack Creek,-6531,Chilliwack - Fraser Canyon,56.9642967292,56.9642967292,1
-5907005,(null),Osoyoos,-6510,British Columbia Southern Interior,1037.0129016684,1037.0129016684,1
-5907802,(null),Osoyoos Indian Band,-6510,British Columbia Southern Interior,13060.0234929433,13060.0234929433,1
-5945803,(null),Oweekeno Nation,-6505,Vancouver Island North,666.1994423264,666.1994423264,1
-5917815,(null),Pacheedaht First Nation,-6528,Esquimalt - Juan de Fuca,113.2833101984,113.2833101984,1
-5921018,(null),Parksville,-6522,Nanaimo - Alberni,1667.7580014262,1667.7580014262,1
-5917801,(null),Pauquachin,-6512,Saanich - Gulf Islands,281.8365816564,281.8365816564,1
-5935018,(null),Peachland,-6516,Okanagan - Coquihalla,1775.0915550503,1775.0915550503,1
-5931012,(null),Pemberton,-6531,Chilliwack - Fraser Canyon,1102.6132059716,1102.6132059716,1
-5919809,(null),Penelakut Tribe,-6521,Nanaimo - Cowichan,912.130288695,912.130288695,1
-5907041,(null),Penticton,-6516,Okanagan - Coquihalla,4661.9097767151,4661.9097767151,1
-5907803,(null),Penticton,-6516,Okanagan - Coquihalla,19494.1508257323,19494.1508257323,1
-5909843,(null),Peters,-6531,Chilliwack - Fraser Canyon,114.8313031127,114.8313031127,1
-5915070,(null),Pitt Meadows,-6529,Pitt Meadows - Maple Ridge - Mission,9598.6922967172,9461.0358542788,0.9856588337
-5915070,(null),Pitt Meadows,-6527,Fleetwood - Port Kells,9598.6922967172,15.0809880578,0.0015711503
-5915070,(null),Pitt Meadows,-6515,Port Moody - Westwood - Port Coquitlam,9598.6922967172,122.5754543806,0.012770016
-5909844,(null),Popkum,-6531,Chilliwack - Fraser Canyon,144.5280022447,144.5280022447,1
-5923008,(null),Port Alberni,-6522,Nanaimo - Alberni,2125.9986722702,2125.9986722702,1
-5943017,(null),Port Alice,-6505,Vancouver Island North,1582.6113767757,1582.6113767757,1
-5947030,(null),Port Clements,-6511,Skeena - Bulkley Valley,1899.777875061,1899.777875061,1
-5915039,(null),Port Coquitlam,-6529,Pitt Meadows - Maple Ridge - Mission,3372.6523433985,4.260194109,0.0012631584
-5915039,(null),Port Coquitlam,-6527,Fleetwood - Port Kells,3372.6523433985,9.0469568166,0.0026824457
-5915039,(null),Port Coquitlam,-6519,New Westminster - Coquitlam,3372.6523433985,4.727322191,0.0014016631
-5915039,(null),Port Coquitlam,-6515,Port Moody - Westwood - Port Coquitlam,3372.6523433985,3354.6178702819,0.9946527328
-5947007,(null),Port Edward,-6511,Skeena - Bulkley Valley,19171.5502800198,19171.5502800198,1
-5943023,(null),Port Hardy,-6505,Vancouver Island North,4645.7598893599,4645.7598893599,1
-5943012,(null),Port McNeill,-6505,Vancouver Island North,1747.1384606914,1747.1384606914,1
-5915043,(null),Port Moody,-6534,Burnaby - Douglas,3356.9482320435,10.3526039502,0.0030839332
-5915043,(null),Port Moody,-6519,New Westminster - Coquitlam,3356.9482320435,1011.7996397837,0.3014046002
-5915043,(null),Port Moody,-6515,Port Moody - Westwood - Port Coquitlam,3356.9482320435,2334.7959883096,0.6955114666
-5955005,(null),Pouce Coupe,-6514,Prince George - Peace River,205.8305622586,205.8305622586,1
-5927008,(null),Powell River,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,4206.9503452861,4206.9503452861,1
-5953023,(null),Prince George,-6532,Cariboo - Prince George,33041.6644276984,13753.5194273428,0.4162477788
-5953023,(null),Prince George,-6514,Prince George - Peace River,33041.6644276984,19288.1448791529,0.5837522175
-5947012,(null),Prince Rupert,-6511,Skeena - Bulkley Valley,8209.7304706003,8209.7304706003,1
-5907024,(null),Princeton,-6510,British Columbia Southern Interior,1082.8912801948,1082.8912801948,1
-5959810,(null),Prophet River First Nation,-6514,Prince George - Peace River,441.9668747923,441.9668747923,1
-5915029,(null),Qayqayt,-6533,Burnaby - New Westminster,1820.2982973019,892.7909388348,0.490464085
-5915029,(null),Qayqayt,-6530,Delta - Richmond East,1820.2982973019,10.3573788425,0.0056899349
-5915029,(null),Qayqayt,-6519,New Westminster - Coquitlam,1820.2982973019,903.9548126003,0.4965970764
-5915029,(null),Qayqayt,-6508,Surrey North,1820.2982973019,13.1951731086,0.007248907
-5921023,(null),Qualicum Beach,-6522,Nanaimo - Alberni,2009.182991513,2009.182991513,1
-5921806,(null),Qualicum First Nation,-6522,Nanaimo - Alberni,77.8656074175,77.8656074175,1
-5943816,(null),Quatsino,-6505,Vancouver Island North,24.1580889601,24.1580889601,1
-5947026,(null),Queen Charlotte,-6511,Skeena - Bulkley Valley,6564.061282807,6564.061282807,1
-5941013,(null),Quesnel,-6532,Cariboo - Prince George,3907.4429905109,3907.4429905109,1
-5901040,(null),Radium Hot Springs,-6524,Kootenay - Columbia,638.4593290589,638.4593290589,1
-5939019,(null),Revelstoke,-6524,Kootenay - Columbia,4809.917300084,4809.917300084,1
-5915015,(null),Richmond,-6533,Burnaby - New Westminster,25367.4892378708,2.5078757332,9.886180337585537e-005
-5915015,(null),Richmond,-6530,Delta - Richmond East,25367.4892378708,11103.1490498378,0.4376920769
-5915015,(null),Richmond,-6513,Richmond,25367.4892378708,14249.1924766136,0.5617107922
-5915015,(null),Richmond,-6503,Vancouver Quadra,25367.4892378708,5.2197094392,0.0002057637
-5915015,(null),Richmond,-6502,Vancouver South,25367.4892378708,7.4201235966,0.0002925052
-5905023,(null),Rossland,-6510,British Columbia Southern Interior,5981.6880691459,5981.6880691459,1
-5917021,(null),Saanich,-6528,Esquimalt - Juan de Fuca,11152.8838098471,6147.4646232049,0.5511995577
-5917021,(null),Saanich,-6512,Saanich - Gulf Islands,11152.8838098471,4040.1055784714,0.3622476166
-5917021,(null),Saanich,-6501,Victoria,11152.8838098471,965.3136081708,0.0865528257
-5951809,(null),Saik'uz First Nation,-6532,Cariboo - Prince George,2656.722189528,2656.722189528,1
-5903011,(null),Salmo,-6510,British Columbia Southern Interior,247.9644341908,247.9644341908,1
-5939032,(null),Salmon Arm,-6518,Okanagan - Shuswap,17597.7112295517,17597.7112295517,1
-5909883,(null),Samahquam,-6531,Chilliwack - Fraser Canyon,35.5062336284,35.5062336284,1
-5955801,(null),Saulteau First Nations,-6514,Prince George - Peace River,3135.3647931946,3135.3647931946,1
-5924039,(null),Sayward,-6505,Vancouver Island North,561.5441458817,561.5441458817,1
-5909882,(null),Scowlitz,-6531,Chilliwack - Fraser Canyon,166.2648483089,166.2648483089,1
-5909832,(null),Seabird Island,-6531,Chilliwack - Fraser Canyon,1677.0164529838,1677.0164529838,1
-5929011,(null),Sechelt,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,4771.9048648722,4771.9048648722,1
-5929803,(null),Sechelt,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,1106.8386090197,1106.8386090197,1
-5915801,(null),Semiahmoo,-6509,South Surrey - White Rock - Cloverdale,137.1340255703,137.1340255703,1
-5931831,(null),Seton Lake,-6531,Chilliwack - Fraser Canyon,791.3323397903,791.3323397903,1
-5933859,(null),Shackan,-6531,Chilliwack - Fraser Canyon,2595.4984553336,2595.4984553336,1
-5901806,(null),Shuswap,-6524,Kootenay - Columbia,1081.052207619,1081.052207619,1
-5909807,(null),Shxw'ow'hamel First Nation,-6531,Chilliwack - Fraser Canyon,172.7921812072,172.7921812072,1
-5909826,(null),Shxwhï¿½:y Village,-6531,Chilliwack - Fraser Canyon,277.4241928032,277.4241928032,1
-5939045,(null),Sicamous,-6518,Okanagan - Shuswap,1628.3881965108,1628.3881965108,1
-5917010,(null),Sidney,-6512,Saanich - Gulf Islands,736.2702223385,736.2702223385,1
-5949818,(null),Sik-e-Dakh,-6511,Skeena - Bulkley Valley,440.3115419225,440.3115419225,1
-5903027,(null),Silverton,-6510,British Columbia Southern Interior,83.5797252602,83.5797252602,1
-5933887,(null),Simpcw First Nation,-6526,Kamloops - Thompson - Cariboo,1299.549056527,1299.549056527,1
-5933849,(null),Siska,-6531,Chilliwack - Fraser Canyon,63.1689743704,63.1689743704,1
-5909845,(null),Skatin Nations,-6531,Chilliwack - Fraser Canyon,227.1158158388,227.1158158388,1
-5909814,(null),Skawahlook First Nation,-6531,Chilliwack - Fraser Canyon,50.4036554347,50.4036554347,1
-5933817,(null),Skeetchestn Indian Band,-6531,Chilliwack - Fraser Canyon,8043.3302978483,4.2870978124,0.0005330003
-5933817,(null),Skeetchestn Indian Band,-6526,Kamloops - Thompson - Cariboo,8043.3302978483,8039.0432057571,0.9994670004
-5947804,(null),Skidegate,-6511,Skeena - Bulkley Valley,512.473971492,512.473971492,1
-5951823,(null),Skin Tyee,-6511,Skeena - Bulkley Valley,67.2642820798,67.2642820798,1
-5909884,(null),Skowkale,-6531,Chilliwack - Fraser Canyon,71.5739757312,71.5739757312,1
-5933825,(null),Skuppah,-6531,Chilliwack - Fraser Canyon,68.8623811083,68.8623811083,1
-5909824,(null),Skwah,-6531,Chilliwack - Fraser Canyon,134.6096040251,134.6096040251,1
-5927802,(null),Sliammon,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,814.0438784205,814.0438784205,1
-5903019,(null),Slocan,-6510,British Columbia Southern Interior,93.0392188637,93.0392188637,1
-5951043,(null),Smithers,-6511,Skeena - Bulkley Valley,1533.4232635618,1533.4232635618,1
-5921804,(null),Snuneymuxw First Nation,-6521,Nanaimo - Cowichan,20.1975889071,20.1975889071,1
-5917812,(null),Songhees First Nation,-6528,Esquimalt - Juan de Fuca,71.0110983246,71.0110983246,1
-5917052,(null),Sooke,-6528,Esquimalt - Juan de Fuca,6668.4894260613,6668.4894260613,1
-5909827,(null),Soowahlie,-6531,Chilliwack - Fraser Canyon,473.4610662066,473.4610662066,1
-5937024,(null),Spallumcheen,-6518,Okanagan - Shuswap,25649.5486832037,25649.5486832037,1
-5901006,(null),Sparwood,-6524,Kootenay - Columbia,19322.5179703278,19322.5179236344,0.9999999976
-5937802,(null),Splatsin,-6518,Okanagan - Shuswap,2374.5354968645,2374.5354968645,1
-5909816,(null),Spuzzum,-6531,Chilliwack - Fraser Canyon,133.5719380298,133.5719380298,1
-5915807,(null),Squamish,-6517,North Vancouver,39.2908129442,39.2908129442,1
-5931006,(null),Squamish,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,11888.011165202,11888.011165202,1
-5909885,(null),Squiala First Nation,-6531,Chilliwack - Fraser Canyon,146.0451304166,146.0451304166,1
-5951807,(null),Stellat'en First Nation,-6511,Skeena - Bulkley Valley,906.4656340529,906.4656340529,1
-5949032,(null),Stewart,-6511,Skeena - Bulkley Valley,56859.5385167466,56859.5286812457,0.999999827
-5909839,(null),Sts'ailes,-6531,Chilliwack - Fraser Canyon,913.5305951786,913.5305951786,1
-5941806,(null),Stswecem'c Xgat'tem First Nation,-6532,Cariboo - Prince George,136.4578573883,136.4578573883,1
-5919804,(null),Stz'uminus First Nation,-6521,Nanaimo - Cowichan,1173.1409008221,1173.1409008221,1
-5909877,(null),Sumas First Nation,-6535,Abbotsford,260.6889549313,260.6889549313,1
-5907035,(null),Summerland,-6516,Okanagan - Coquihalla,7694.6239309472,7694.6239309472,1
-5933045,(null),Sun Peaks Mountain,-6526,Kamloops - Thompson - Cariboo,4086.2837251971,4086.2837251971,1
-5915004,(null),Surrey,-6529,Pitt Meadows - Maple Ridge - Mission,36359.4146964773,3.6206457366,9.957931850313392e-005
-5915004,(null),Surrey,-6527,Fleetwood - Port Kells,36359.4146964773,10212.5940406941,0.280878945
-5915004,(null),Surrey,-6523,Langley,36359.4146964773,13.398829321,0.0003685106
-5915004,(null),Surrey,-6520,Newton - North Delta,36359.4146964773,3079.5967312978,0.0846987433
-5915004,(null),Surrey,-6515,Port Moody - Westwood - Port Coquitlam,36359.4146964773,1.4533446735,3.997161906104862e-005
-5915004,(null),Surrey,-6509,South Surrey - White Rock - Cloverdale,36359.4146964773,18234.9754814372,0.5015200501
-5915004,(null),Surrey,-6508,Surrey North,36359.4146964773,4812.3792282094,0.1323557947
-5931821,(null),T'it'q'et Administration,-6531,Chilliwack - Fraser Canyon,372.3990918879,372.3990918879,1
-5917819,(null),T'sou-Ke First Nation,-6528,Esquimalt - Juan de Fuca,74.6653003482,74.6653003482,1
-5949843,(null),Tahltan,-6511,Skeena - Bulkley Valley,31.0087106863,31.0087106863,1
-5924030,(null),Tahsis,-6505,Vancouver Island North,789.4899096781,789.4899096781,1
-5951848,(null),Takla Lake First Nation,-6511,Skeena - Bulkley Valley,203.5482954365,203.5482954365,1
-5957802,(null),Taku River Tlingit,-6511,Skeena - Bulkley Valley,3.141504188,3.141504188,1
-5955030,(null),Taylor,-6514,Prince George - Peace River,1807.8294276952,1807.8294276952,1
-5951038,(null),Telkwa,-6511,Skeena - Bulkley Valley,728.5745014938,728.5745014938,1
-5949011,(null),Terrace,-6511,Skeena - Bulkley Valley,5907.3870568929,5907.3870568929,1
-5933880,(null),Tk'emlï¿½ps te Secwï¿½pemc,-6526,Kamloops - Thompson - Cariboo,14021.8287800664,14021.8287800664,1
-5951810,(null),Tl'azt'en Nation,-6511,Skeena - Bulkley Valley,1028.9528845424,1028.9528845424,1
-5941821,(null),Tl'etinqox Government,-6532,Cariboo - Prince George,3892.2128932046,3892.2128932046,1
-5923813,(null),Tla-o-qui-aht First Nations,-6522,Nanaimo - Alberni,72.0373107979,72.0373107979,1
-5943836,(null),Tlatlasikwala,-6505,Vancouver Island North,3572.3359221314,3572.3359221314,1
-(null),07113,Tlowitsis Nation,-6505,Vancouver Island North,110.0756267121,110.0756267121,1
-5901801,(null),Tobacco Plains Indian Band,-6524,Kootenay - Columbia,4225.024220274,4225.0234805771,0.9999998249
-5923025,(null),Tofino,-6522,Nanaimo - Alberni,1796.6761331126,1796.6761331126,1
-5941850,(null),Toosey,-6532,Cariboo - Prince George,2252.9751732791,2252.9751732791,1
-5923810,(null),Toquaht,-6522,Nanaimo - Alberni,43.1986564138,43.1986564138,1
-5905014,(null),Trail,-6510,British Columbia Southern Interior,3705.6350066758,3705.6350066758,1
-5931829,(null),Ts'kw'aylaxw First Nation,-6531,Chilliwack - Fraser Canyon,958.1232433603,958.1232433603,1
-5917804,(null),Tsartlip,-6512,Saanich - Gulf Islands,208.872291093,208.872291093,1
-5917803,(null),Tsawout First Nation,-6512,Saanich - Gulf Islands,269.8049319493,269.8049319493,1
-5915802,(null),Tsawwassen First Nation,-6530,Delta - Richmond East,661.6187730102,661.6187730102,1
-5955812,(null),Tsay Keh Dene,-6514,Prince George - Peace River,569.5571767286,569.5571767286,1
-5923816,(null),Tseshaht First Nation,-6522,Nanaimo - Alberni,428.9327304758,428.9327304758,1
-5917802,(null),Tseycum First Nation,-6512,Saanich - Gulf Islands,28.9452202224,28.9452202224,1
-5941839,(null),Tsi Del Del,-6532,Cariboo - Prince George,344.7103713926,344.7103713926,1
-5915806,(null),Tsleil-Waututh Nation,-6517,North Vancouver,105.6507823193,105.6507823193,1
-5955003,(null),Tumbler Ridge,-6514,Prince George - Peace River,157102.766884711,157102.766884711,1
-5909830,(null),Tzeachten,-6531,Chilliwack - Fraser Canyon,252.0029283451,252.0029283451,1
-5923805,(null),Uchucklesaht,-6522,Nanaimo - Alberni,243.2936531006,243.2936531006,1
-5923019,(null),Ucluelet,-6522,Nanaimo - Alberni,1089.9171759401,1089.9171759401,1
-5923807,(null),Ucluelet First Nation,-6522,Nanaimo - Alberni,69.1949602769,69.1949602769,1
-5941840,(null),Ulkatcho,-6532,Cariboo - Prince George,421.962945884,421.962945884,1
-5909808,(null),Union Bar,-6531,Chilliwack - Fraser Canyon,237.1133887094,237.1133887094,1
-5933802,(null),Upper Nicola,-6516,Okanagan - Coquihalla,9545.2749605691,9545.2749605691,1
-5907807,(null),Upper Similkameen,-6510,British Columbia Southern Interior,2203.7317302171,2203.7317302171,1
-5953007,(null),Valemount,-6526,Kamloops - Thompson - Cariboo,522.3198678321,522.3198678321,1
-5915022,(null),Vancouver,-6534,Burnaby - Douglas,13341.9206499248,6.6687431945,0.0004998338
-5915022,(null),Vancouver,-6507,Vancouver Centre,13341.9206499248,2316.4970528281,0.1736254557
-5915022,(null),Vancouver,-6506,Vancouver East,13341.9206499248,2593.6411549576,0.1943978849
-5915022,(null),Vancouver,-6504,Vancouver Kingsway,13341.9206499248,2110.7663256058,0.1582055823
-5915022,(null),Vancouver,-6503,Vancouver Quadra,13341.9206499248,3616.9633405985,0.2710976504
-5915022,(null),Vancouver,-6502,Vancouver South,13341.9206499248,2692.4596950844,0.2018045052
-5915022,(null),Vancouver,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,13341.9206499248,4.2043653831,0.0003151244
-5951007,(null),Vanderhoof,-6532,Cariboo - Prince George,5799.3879025945,5799.3879025945,1
-5937014,(null),Vernon,-6518,Okanagan - Shuswap,11607.6034442351,11606.9301854223,0.9999419985
-5917034,(null),Victoria,-6528,Esquimalt - Juan de Fuca,2119.6392335396,2.8871912312,0.0013621145
-5917034,(null),Victoria,-6512,Saanich - Gulf Islands,2119.6392335396,2.0644432209,0.0009739597
-5917034,(null),Victoria,-6501,Victoria,2119.6392335396,2114.6875990876,0.9976639258
-5917047,(null),View Royal,-6528,Esquimalt - Juan de Fuca,1678.2226432946,1678.2226432946,1
-5905018,(null),Warfield,-6510,British Columbia Southern Interior,188.7753831104,188.7753831104,1
-5941025,(null),Wells,-6532,Cariboo - Prince George,15996.0737256189,15996.0737256189,1
-5935029,(null),West Kelowna,-6525,Kelowna - Lake Country,16023.4973422324,372.8833185024,0.0232710319
-5935029,(null),West Kelowna,-6516,Okanagan - Coquihalla,16023.4973422324,15650.61402373,0.9767289681
-5955802,(null),West Moberly First Nations,-6514,Prince George - Peace River,1995.5032902135,1995.5032902135,1
-5915055,(null),West Vancouver,-6517,North Vancouver,9539.8068692583,1.4151212077,0.0001483386
-5915055,(null),West Vancouver,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,9539.8068692583,9538.360501596,0.9998483861
-5935802,(null),Westbank First Nation,-6516,Okanagan - Coquihalla,691.7689436591,691.7689436591,1
-5951820,(null),Wet'suwet'en First Nation,-6511,Skeena - Bulkley Valley,31.7581293605,31.7581293605,1
-5933877,(null),Whispering Pines/Clinton,-6526,Kamloops - Thompson - Cariboo,618.255149506,618.255149506,1
-5931020,(null),Whistler,-6531,Chilliwack - Fraser Canyon,24495.8639910239,1830.7802059016,0.0747383398
-5931020,(null),Whistler,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,24495.8639910239,22665.0837851223,0.9252616602
-5915007,(null),White Rock,-6509,South Surrey - White Rock - Cloverdale,1454.0315360039,1454.0315360039,1
-5941009,(null),Williams Lake,-6532,Cariboo - Prince George,3622.9577981691,3622.9577981691,1
-5941812,(null),Williams Lake,-6532,Cariboo - Prince George,1668.4420205859,1668.4420205859,1
-5941805,(null),Xat'sull,-6532,Cariboo - Prince George,1567.4860804025,1567.4860804025,1
-5931816,(null),Xaxli'p,-6531,Chilliwack - Fraser Canyon,137.7703584247,137.7703584247,1
-5909842,(null),Xaï¾’xtsa,-6531,Chilliwack - Fraser Canyon,453.5096536565,453.5096536565,1
-5941829,(null),Xeni Gwet'in First Nations Government,-6532,Cariboo - Prince George,679.9845439146,679.9845439146,1
-5931813,(null),Xwisten,-6531,Chilliwack - Fraser Canyon,3943.6404099686,3943.6404099686,1
-5909831,(null),Yakweakwioose,-6531,Chilliwack - Fraser Canyon,20.7390163916,20.7390163916,1
-5909818,(null),Yale First Nation,-6531,Chilliwack - Fraser Canyon,8.5971123286,8.5971123286,1
-5951801,(null),Yekooche First Nation,-6511,Skeena - Bulkley Valley,201.2355468683,201.2355468683,1
-5941841,(null),Yunesit'in Government,-6532,Cariboo - Prince George,1574.9930606326,1574.9930606326,1
-5924029,(null),Zeballos,-6505,Vancouver Island North,284.4412603767,284.4412603767,1
+5933882,(null),Kanaka Bar,-6531,Chilliwack - Fraser Canyon,127.4259918646502,127.4259918646502,1
+5903023,(null),Kaslo,-6510,British Columbia Southern Interior,280.2099588727381,280.2099588727381,1
+5915830,(null),Katzie,-6529,Pitt Meadows - Maple Ridge - Mission,42.39027022254775,42.39027022254775,1
+5935010,(null),Kelowna,-6516,Okanagan - Coquihalla,26091.49730684397,142.8040754386989,0.005473203540574133
+5935010,(null),Kelowna,-6525,Kelowna - Lake Country,26091.49730684397,25948.69323140528,0.994526796459426
+5909032,(null),Kent,-6531,Chilliwack - Fraser Canyon,19964.36692689341,19964.36692689341,1
+5907009,(null),Keremeos,-6510,British Columbia Southern Interior,217.6684409044295,217.6684409044295,1
+5901028,(null),Kimberley,-6524,Kootenay - Columbia,6090.056912389046,6090.056912389046,1
+5949813,(null),Kispiox,-6511,Skeena - Bulkley Valley,1353.571358928356,1353.571358928356,1
+5949802,(null),Kitasoo/Xai'xais,-6511,Skeena - Bulkley Valley,372.1440038741475,372.1440038741475,1
+5949005,(null),Kitimat,-6511,Skeena - Bulkley Valley,31914.52212795293,31914.52212795293,1
+5949807,(null),Kitselas,-6511,Skeena - Bulkley Valley,7.159173833348461,7.159173833348461,1
+5949804,(null),Kitsumkalum,-6511,Skeena - Bulkley Valley,495.3093549146402,495.3093549146402,1
+5924820,(null),Klahoose First Nation,-6505,Vancouver Island North,262.6085457746228,262.6085457746228,1
+5955807,(null),Kwadacha,-6514,Prince George - Peace River,432.1752290642277,432.1752290642277,1
+5943815,(null),Kwakiutl,-6505,Vancouver Island North,13.95660871839802,13.95660871839802,1
+5915816,(null),Kwantlen First Nation,-6523,Langley,178.3759173543206,178.3759173543206,1
+5909821,(null),Kwaw-Kwaw-a-pilt First Nation,-6531,Chilliwack - Fraser Canyon,71.45702823452201,71.45702823452201,1
+(null),07029,Kwiakah,-6505,Vancouver Island North,20.4902243248562,20.4902243248562,1
+5943837,(null),Kwikwasut'inuxw Haxwa'mis,-6505,Vancouver Island North,248.277129265148,248.277129265148,1
+5915805,(null),Kwikwetlem First Nation,-6519,New Westminster - Coquitlam,2.195331353475599,1.329272705533487,0.6054998045871355
+5919021,(null),Ladysmith,-6521,Nanaimo - Cowichan,1451.232992502318,1451.232992502318,1
+5951827,(null),Lake Babine Nation,-6511,Skeena - Bulkley Valley,14.59649887968513,14.59649887968513,1
+5935016,(null),Lake Country,-6516,Okanagan - Coquihalla,16236.55019996162,301.6464780008811,0.01857823701993014
+5935016,(null),Lake Country,-6525,Kelowna - Lake Country,16236.55019996162,15927.78384882297,0.9809832539957054
+5935016,(null),Lake Country,-6518,Okanagan - Shuswap,16236.55019996162,7.119873137770591,0.0004385089843646356
+5919016,(null),Lake Cowichan,-6521,Nanaimo - Cowichan,973.1040555472509,973.1040555472509,1
+5919812,(null),Lake Cowichan First Nation,-6521,Nanaimo - Cowichan,42.52433664095432,42.52433664095432,1
+5917044,(null),Langford,-6528,Esquimalt - Juan de Fuca,4165.690820223274,4165.690820223274,1
+5915001,(null),Langley,-6535,Abbotsford,31476.3088886981,15.60620700041907,0.0004958080394878397
+5915001,(null),Langley,-6523,Langley,31476.3088886981,31388.77617401458,0.9972190921434581
+5915001,(null),Langley,-6527,Fleetwood - Port Kells,31476.3088886981,31.76642673887398,0.001009217022593143
+5915001,(null),Langley,-6529,Pitt Meadows - Maple Ridge - Mission,31476.3088886981,19.03615073855184,0.0006047770977805776
+5915002,(null),Langley,-6509,South Surrey - White Rock - Cloverdale,1022.19920164502,5.434448038651075,0.005316427590537584
+5915001,(null),Langley,-6509,South Surrey - White Rock - Cloverdale,31476.3088886981,21.12393020572712,0.0006711056966819856
+5915002,(null),Langley,-6523,Langley,1022.19920164502,1016.764755971204,0.9946835747229399
+5921008,(null),Lantzville,-6522,Nanaimo - Alberni,2984.499048394778,2984.499048394778,1
+5947809,(null),Lax Kw'alaams,-6511,Skeena - Bulkley Valley,11108.04564891501,11108.04564891501,1
+5909880,(null),Leq' A: Mel First Nation,-6531,Chilliwack - Fraser Canyon,40.83497934535786,40.83497934535786,1
+5953801,(null),Lheidli T'enneh,-6514,Prince George - Peace River,570.4046674097918,570.4046674097918,1
+5941833,(null),Lhoosk'uz Dene Nation,-6532,Cariboo - Prince George,447.1169821293747,447.1169821293747,1
+5943837,(null),Lhtako Dene Nation,-6505,Vancouver Island North,248.277129265148,248.277129265148,1
+5931843,(null),Lil'wat,-6531,Chilliwack - Fraser Canyon,2325.296713865447,2325.296713865447,1
+5931026,(null),Lillooet,-6531,Chilliwack - Fraser Canyon,2949.997088831867,2949.997088831867,1
+5915065,(null),Lions Bay,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,351.9177334672735,351.9177334672735,1
+5939805,(null),Little Shuswap Lake,-6518,Okanagan - Shuswap,1709.931027822464,1709.931027822464,1
+5933035,(null),Logan Lake,-6516,Okanagan - Coquihalla,33014.52674364809,32192.92105271266,0.9751138128583501
+5933035,(null),Logan Lake,-6531,Chilliwack - Fraser Canyon,33014.52674364809,669.684326184046,0.0202845350891753
+5933035,(null),Logan Lake,-6526,Kamloops - Thompson - Cariboo,33014.52674364809,151.9213647514137,0.004601652052475446
+5903807,(null),Lower Kootenay,-6524,Kootenay - Columbia,752.8601331791662,752.8601331791662,1
+5933807,(null),Lower Nicola,-6516,Okanagan - Coquihalla,4626.417065297757,4626.417065297757,1
+5957813,(null),Lower Post First Nation,-6511,Skeena - Bulkley Valley,55.75834181495605,55.75834181495605,1
+5907805,(null),Lower Similkameen,-6510,British Columbia Southern Interior,1730.622874881777,1730.622874283853,0.9999999996545034
+5937005,(null),Lumby,-6518,Okanagan - Shuswap,574.6995092249609,574.6995092249609,1
+5919811,(null),Lyackson,-6521,Nanaimo - Cowichan,40.11237736016187,40.11237736016187,1
+5933853,(null),Lytton,-6531,Chilliwack - Fraser Canyon,192.4155953134792,192.4155953134792,1
+5933015,(null),Lytton,-6531,Chilliwack - Fraser Canyon,716.0937439037514,716.0937439037514,1
+5953033,(null),Mackenzie,-6514,Prince George - Peace River,22300.45871312077,22300.45871312077,1
+5919815,(null),Malahat First Nation,-6521,Nanaimo - Cowichan,245.2858567589912,245.2858567589912,1
+(null),07030,Mamalilikulla-Qwe'qwa'sot'em,-6505,Vancouver Island North,176.2747004330984,176.2747004330984,1
+5915075,(null),Maple Ridge,-6529,Pitt Meadows - Maple Ridge - Mission,28451.10204408991,28427.53667996681,0.9991717240307043
+5915075,(null),Maple Ridge,-6523,Langley,28451.10204408991,23.56199494196325,0.0008281575492383337
+5947023,(null),Masset,-6511,Skeena - Bulkley Valley,2293.722335436323,2293.722335436323,1
+5909878,(null),Matsqui,-6535,Abbotsford,154.0329245823795,153.5653395845327,0.9969643827830019
+5953012,(null),McBride,-6514,Prince George - Peace River,465.7849599447192,465.7849599447192,1
+5953802,(null),Mcleod Lake,-6514,Prince George - Peace River,1027.128871946137,1027.128871946137,1
+5933006,(null),Merritt,-6516,Okanagan - Coquihalla,2502.244982744851,2502.244982744851,1
+5917042,(null),Metchosin,-6528,Esquimalt - Juan de Fuca,8030.177987361278,8030.177987361278,1
+5947810,(null),Metlakatla,-6511,Skeena - Bulkley Valley,3376.360226264155,3376.360226264155,1
+5905037,(null),Midway,-6510,British Columbia Southern Interior,1257.249770843938,1257.249770843938,1
+5909056,(null),Mission,-6531,Chilliwack - Fraser Canyon,26016.47631007915,7.822505518145372,0.0003006750577946185
+5909056,(null),Mission,-6529,Pitt Meadows - Maple Ridge - Mission,26016.47631007915,25970.46191999435,0.9982313365754696
+5909056,(null),Mission,-6535,Abbotsford,26016.47631007915,38.1918845666611,0.001467988366736083
+5905009,(null),Montrose,-6510,British Columbia Southern Interior,146.1670723715009,146.1670723715009,1
+5949817,(null),Moricetown,-6511,Skeena - Bulkley Valley,611.2818986077093,611.2818986077093,1
+5924803,(null),Mowachaht/Muchalaht,-6505,Vancouver Island North,33.23787483603667,33.23787483603667,1
+5915803,(null),Musqueam,-6503,Vancouver Quadra,319.9115403809006,319.7414907611466,0.9994684479979948
+5931844,(null),N'quatqua,-6531,Chilliwack - Fraser Canyon,211.4863178307105,211.4863178307105,1
+5951802,(null),Nadleh Whuten,-6511,Skeena - Bulkley Valley,518.9079053262211,518.9079053262211,1
+5951803,(null),Nak'azdli,-6511,Skeena - Bulkley Valley,322.0139521774448,322.0139521774448,1
+5903050,(null),Nakusp,-6524,Kootenay - Columbia,892.3279719123665,892.3279719123665,1
+5943837,(null),Namgis First Nation,-6505,Vancouver Island North,248.277129265148,248.277129265148,1
+5921007,(null),Nanaimo,-6522,Nanaimo - Alberni,12374.29496665554,4689.886478386081,0.3790023181945887
+5921007,(null),Nanaimo,-6521,Nanaimo - Cowichan,12374.29496665554,7684.408488269469,0.620997681805412
+5921805,(null),Nanoose First Nation,-6522,Nanaimo - Alberni,90.2670445512568,90.2670445512568,1
+5941837,(null),Nazko First Nation,-6532,Cariboo - Prince George,477.4568892617509,477.4568892617509,1
+5951819,(null),Nee-Tahi-Buhn Band,-6511,Skeena - Bulkley Valley,56.54834456541092,56.54834456541092,1
+5903015,(null),Nelson,-6510,British Columbia Southern Interior,1605.644743430839,1605.644743430839,1
+5933838,(null),Neskonlith,-6518,Okanagan - Shuswap,2633.002706109038,2632.719112954094,0.9998922928737272
+5903032,(null),New Denver,-6510,British Columbia Southern Interior,203.9105346263754,203.9105346263754,1
+5949024,(null),New Hazelton,-6511,Skeena - Bulkley Valley,2462.543490435907,2462.543490435907,1
+5915029,(null),New Westminster,-6508,Surrey North,1820.298297301866,13.19517310857408,0.007248907021520926
+5915029,(null),New Westminster,-6533,Burnaby - New Westminster,1820.298297301866,892.790938834762,0.4904640850118357
+5915029,(null),New Westminster,-6519,New Westminster - Coquitlam,1820.298297301866,903.9548126002946,0.4965970763913696
+5915029,(null),New Westminster,-6530,Delta - Richmond East,1820.298297301866,10.35737884247858,0.005689934917716943
+5933851,(null),Nicomen,-6531,Chilliwack - Fraser Canyon,67.58610300409721,67.58610300409721,1
+5949035,(null),Nisga'a Lisims Government,-6511,Skeena - Bulkley Valley,205402.4064269059,205402.4064269059,1
+5933808,(null),Nooaitch,-6516,Okanagan - Coquihalla,790.1473314109189,788.7805582964146,0.9982702300442327
+5933808,(null),Nooaitch,-6531,Chilliwack - Fraser Canyon,790.1473314109189,1.366773114507909,0.001729769955771849
+5919008,(null),North Cowichan,-6521,Nanaimo - Cowichan,21069.53984798797,21069.53984798797,1
+5917005,(null),North Saanich,-6512,Saanich - Gulf Islands,4732.522378654798,4732.522378654798,1
+5915051,(null),North Vancouver,-6517,North Vancouver,1722.890864270634,1717.978505660738,0.9971487697150365
+5915046,(null),North Vancouver,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,17758.38500005734,657.8069367087245,0.03704204727550396
+5915046,(null),North Vancouver,-6534,Burnaby - Douglas,17758.38500005734,7.035903495984396,0.0003962017658678802
+5915051,(null),North Vancouver,-6506,Vancouver East,1722.890864270634,4.422908084994792,0.00256714350091303
+5915046,(null),North Vancouver,-6517,North Vancouver,17758.38500005734,17087.34664683058,0.9622128727795576
+5915046,(null),North Vancouver,-6515,Port Moody - Westwood - Port Coquitlam,17758.38500005734,5.427629092055526,0.0003056375392265681
+5959007,(null),Northern Rockies,-6514,Prince George - Peace River,8630472.266523095,8625473.192649806,0.9994207647369798
+5959007,(null),Northern Rockies,-6511,Skeena - Bulkley Valley,8630472.266523095,4998.677220013055,0.0005791893033944991
+5924833,(null),Nuchatlaht,-6505,Vancouver Island North,12.32102264803934,12.32102264803934,1
+5945802,(null),Nuxalk Nation,-6511,Skeena - Bulkley Valley,1638.904736620734,1638.904736620734,1
+5917030,(null),Oak Bay,-6501,Victoria,1505.631560081661,1505.631560081661,1
+5939804,(null),Okanagan Indian Band,-6518,Okanagan - Shuswap,1838.760020875887,1838.760020875887,1
+5947803,(null),Old Massett Village Council,-6511,Skeena - Bulkley Valley,320.6010292236688,320.6010292236688,1
+5907014,(null),Oliver,-6510,British Columbia Southern Interior,602.4503686897524,602.4503686897524,1
+5941005,(null),One Hundred Mile House,-6526,Kamloops - Thompson - Cariboo,5414.823426457511,5414.823426457511,1
+5933854,(null),Oregon Jack Creek,-6531,Chilliwack - Fraser Canyon,56.96429672915437,56.96429672915437,1
+5907005,(null),Osoyoos,-6510,British Columbia Southern Interior,1037.012901668377,1037.012901668377,1
+5907802,(null),Osoyoos Indian Band,-6510,British Columbia Southern Interior,13060.02349294333,13060.02349294333,1
+5945803,(null),Oweekeno Nation,-6505,Vancouver Island North,666.1994423264118,666.1994423264118,1
+5917815,(null),Pacheedaht First Nation,-6528,Esquimalt - Juan de Fuca,113.2833101983496,113.2833101983496,1
+5921018,(null),Parksville,-6522,Nanaimo - Alberni,1667.758001426159,1667.758001426159,1
+5917801,(null),Pauquachin,-6512,Saanich - Gulf Islands,281.8365816563648,281.8365816563648,1
+5935018,(null),Peachland,-6516,Okanagan - Coquihalla,1775.091555050337,1775.091555050337,1
+5931012,(null),Pemberton,-6531,Chilliwack - Fraser Canyon,1102.613205971594,1102.613205971594,1
+5919809,(null),Penelakut Tribe,-6521,Nanaimo - Cowichan,912.130288695018,912.130288695018,1
+5907041,(null),Penticton,-6516,Okanagan - Coquihalla,4661.909776715106,4661.909776715106,1
+5907803,(null),Penticton,-6516,Okanagan - Coquihalla,19494.15082573232,19494.15082573232,1
+5909843,(null),Peters,-6531,Chilliwack - Fraser Canyon,114.8313031126932,114.8313031126932,1
+5915070,(null),Pitt Meadows,-6529,Pitt Meadows - Maple Ridge - Mission,9598.692296717189,9461.035854278822,0.9856588337053533
+5915070,(null),Pitt Meadows,-6527,Fleetwood - Port Kells,9598.692296717189,15.08098805780968,0.001571150276685864
+5915070,(null),Pitt Meadows,-6515,Port Moody - Westwood - Port Coquitlam,9598.692296717189,122.5754543805567,0.01277001601796093
+5909844,(null),Popkum,-6531,Chilliwack - Fraser Canyon,144.5280022446748,144.5280022446748,1
+5923008,(null),Port Alberni,-6522,Nanaimo - Alberni,2125.998672270166,2125.998672270166,1
+5943017,(null),Port Alice,-6505,Vancouver Island North,1582.611376775669,1582.611376775669,1
+5947030,(null),Port Clements,-6511,Skeena - Bulkley Valley,1899.777875060979,1899.777875060979,1
+5915039,(null),Port Coquitlam,-6519,New Westminster - Coquitlam,3372.652343398488,4.727322191009181,0.001401663056158835
+5915039,(null),Port Coquitlam,-6527,Fleetwood - Port Kells,3372.652343398488,9.046956816557357,0.002682445711982605
+5915039,(null),Port Coquitlam,-6529,Pitt Meadows - Maple Ridge - Mission,3372.652343398488,4.260194108997618,0.001263158391447127
+5915039,(null),Port Coquitlam,-6515,Port Moody - Westwood - Port Coquitlam,3372.652343398488,3354.617870281923,0.9946527328404111
+5947007,(null),Port Edward,-6511,Skeena - Bulkley Valley,19171.55028001979,19171.55028001979,1
+5943023,(null),Port Hardy,-6505,Vancouver Island North,4645.759889359864,4645.759889359864,1
+5943012,(null),Port McNeill,-6505,Vancouver Island North,1747.138460691356,1747.138460691356,1
+5915043,(null),Port Moody,-6534,Burnaby - Douglas,3356.948232043509,10.35260395016543,0.003083933154329099
+5915043,(null),Port Moody,-6515,Port Moody - Westwood - Port Coquitlam,3356.948232043509,2334.795988309615,0.69551146664193
+5915043,(null),Port Moody,-6519,New Westminster - Coquitlam,3356.948232043509,1011.799639783733,0.3014046002037422
+5955005,(null),Pouce Coupe,-6514,Prince George - Peace River,205.8305622585918,205.8305622585918,1
+5927008,(null),Powell River,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,4206.950345286073,4206.950345286073,1
+5953023,(null),Prince George,-6514,Prince George - Peace River,33041.6644276984,19288.14487915294,0.5837522174876861
+5953023,(null),Prince George,-6532,Cariboo - Prince George,33041.6644276984,13753.51942734281,0.4162477788441376
+5947012,(null),Prince Rupert,-6511,Skeena - Bulkley Valley,8209.730470600331,8209.730470600331,1
+5907024,(null),Princeton,-6510,British Columbia Southern Interior,1082.891280194773,1082.891280194773,1
+5959810,(null),Prophet River First Nation,-6514,Prince George - Peace River,441.9668747923301,441.9668747923301,1
+5915029,(null),Qayqayt,-6533,Burnaby - New Westminster,1820.298297301866,892.790938834762,0.4904640850118357
+5915029,(null),Qayqayt,-6519,New Westminster - Coquitlam,1820.298297301866,903.9548126002946,0.4965970763913696
+5915029,(null),Qayqayt,-6530,Delta - Richmond East,1820.298297301866,10.35737884247858,0.005689934917716943
+5915029,(null),Qayqayt,-6508,Surrey North,1820.298297301866,13.19517310857408,0.007248907021520926
+5921023,(null),Qualicum Beach,-6522,Nanaimo - Alberni,2009.182991512993,2009.182991512993,1
+5921806,(null),Qualicum First Nation,-6522,Nanaimo - Alberni,77.86560741746101,77.86560741746101,1
+5943816,(null),Quatsino,-6505,Vancouver Island North,24.1580889600913,24.1580889600913,1
+5947026,(null),Queen Charlotte,-6511,Skeena - Bulkley Valley,6564.061282807001,6564.061282807001,1
+5941013,(null),Quesnel,-6532,Cariboo - Prince George,3907.442990510934,3907.442990510934,1
+5901040,(null),Radium Hot Springs,-6524,Kootenay - Columbia,638.4593290589434,638.4593290589434,1
+5939019,(null),Revelstoke,-6524,Kootenay - Columbia,4809.917300084031,4809.917300084031,1
+5915015,(null),Richmond,-6503,Vancouver Quadra,25367.48923787085,5.219709439246826,0.0002057637391821331
+5915015,(null),Richmond,-6533,Burnaby - New Westminster,25367.48923787085,2.507875733173515,9.886180337585537e-005
+5915015,(null),Richmond,-6502,Vancouver South,25367.48923787085,7.42012359656172,0.0002925052427137448
+5915015,(null),Richmond,-6530,Delta - Richmond East,25367.48923787085,11103.14904983778,0.4376920768832737
+5915015,(null),Richmond,-6513,Richmond,25367.48923787085,14249.19247661355,0.5617107922269694
+5905023,(null),Rossland,-6510,British Columbia Southern Interior,5981.68806914591,5981.68806914591,1
+5917021,(null),Saanich,-6501,Victoria,11152.88380984707,965.3136081707867,0.08655282567531951
+5917021,(null),Saanich,-6512,Saanich - Gulf Islands,11152.88380984707,4040.105578471428,0.3622476166123376
+5917021,(null),Saanich,-6528,Esquimalt - Juan de Fuca,11152.88380984707,6147.464623204867,0.5511995577123441
+5951809,(null),Saik'uz First Nation,-6532,Cariboo - Prince George,2656.722189527984,2656.722189527984,1
+5903011,(null),Salmo,-6510,British Columbia Southern Interior,247.964434190831,247.964434190831,1
+5939032,(null),Salmon Arm,-6518,Okanagan - Shuswap,17597.71122955168,17597.71122955168,1
+5909883,(null),Samahquam,-6531,Chilliwack - Fraser Canyon,35.50623362843937,35.50623362843937,1
+5955801,(null),Saulteau First Nations,-6514,Prince George - Peace River,3135.364793194545,3135.364793194545,1
+5924039,(null),Sayward,-6505,Vancouver Island North,561.5441458816584,561.5441458816584,1
+5909882,(null),Scowlitz,-6531,Chilliwack - Fraser Canyon,166.2648483089416,166.2648483089416,1
+5909832,(null),Seabird Island,-6531,Chilliwack - Fraser Canyon,1677.016452983742,1677.016452983742,1
+5929803,(null),Sechelt,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,1106.838609019723,1106.838609019723,1
+5929011,(null),Sechelt,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,4771.904864872168,4771.904864872168,1
+5915801,(null),Semiahmoo,-6509,South Surrey - White Rock - Cloverdale,137.1340255702874,137.1340255702874,1
+5931831,(null),Seton Lake,-6531,Chilliwack - Fraser Canyon,791.3323397902915,791.3323397902915,1
+5933859,(null),Shackan,-6531,Chilliwack - Fraser Canyon,2595.498455333561,2595.498455333561,1
+5901806,(null),Shuswap,-6524,Kootenay - Columbia,1081.05220761904,1081.05220761904,1
+5909807,(null),Shxw'ow'hamel First Nation,-6531,Chilliwack - Fraser Canyon,172.7921812071606,172.7921812071606,1
+5909826,(null),Shxwhá:y Village,-6531,Chilliwack - Fraser Canyon,277.4241928032101,277.4241928032101,1
+5939045,(null),Sicamous,-6518,Okanagan - Shuswap,1628.388196510806,1628.388196510806,1
+5917010,(null),Sidney,-6512,Saanich - Gulf Islands,736.2702223384501,736.2702223384501,1
+5949818,(null),Sik-e-Dakh,-6511,Skeena - Bulkley Valley,440.3115419224637,440.3115419224637,1
+5903027,(null),Silverton,-6510,British Columbia Southern Interior,83.57972526021725,83.57972526021725,1
+5933887,(null),Simpcw First Nation,-6526,Kamloops - Thompson - Cariboo,1299.549056526954,1299.549056526954,1
+5933849,(null),Siska,-6531,Chilliwack - Fraser Canyon,63.16897437043343,63.16897437043343,1
+5909845,(null),Skatin Nations,-6531,Chilliwack - Fraser Canyon,227.115815838764,227.115815838764,1
+5909814,(null),Skawahlook First Nation,-6531,Chilliwack - Fraser Canyon,50.40365543469079,50.40365543469079,1
+5933817,(null),Skeetchestn Indian Band,-6526,Kamloops - Thompson - Cariboo,8043.330297848314,8039.043205757102,0.9994670003677011
+5933817,(null),Skeetchestn Indian Band,-6531,Chilliwack - Fraser Canyon,8043.330297848314,4.287097812373519,0.0005330003435915554
+5947804,(null),Skidegate,-6511,Skeena - Bulkley Valley,512.4739714920069,512.4739714920069,1
+5951823,(null),Skin Tyee,-6511,Skeena - Bulkley Valley,67.26428207978476,67.26428207978476,1
+5909884,(null),Skowkale,-6531,Chilliwack - Fraser Canyon,71.57397573115289,71.57397573115289,1
+5933825,(null),Skuppah,-6531,Chilliwack - Fraser Canyon,68.86238110833675,68.86238110833675,1
+5909824,(null),Skwah,-6531,Chilliwack - Fraser Canyon,134.6096040251352,134.6096040251352,1
+5927802,(null),Sliammon,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,814.0438784205365,814.0438784205365,1
+5903019,(null),Slocan,-6510,British Columbia Southern Interior,93.03921886366759,93.03921886366759,1
+5951043,(null),Smithers,-6511,Skeena - Bulkley Valley,1533.423263561816,1533.423263561816,1
+5921804,(null),Snuneymuxw First Nation,-6521,Nanaimo - Cowichan,20.19758890714426,20.19758890714426,1
+5917812,(null),Songhees First Nation,-6528,Esquimalt - Juan de Fuca,71.01109832458803,71.01109832458803,1
+5917052,(null),Sooke,-6528,Esquimalt - Juan de Fuca,6668.489426061312,6668.489426061312,1
+5909827,(null),Soowahlie,-6531,Chilliwack - Fraser Canyon,473.4610662066059,473.4610662066059,1
+5937024,(null),Spallumcheen,-6518,Okanagan - Shuswap,25649.54868320372,25649.54868320372,1
+5901006,(null),Sparwood,-6524,Kootenay - Columbia,19322.51797032784,19322.51792363437,0.9999999975834686
+5937802,(null),Splatsin,-6518,Okanagan - Shuswap,2374.535496864512,2374.535496864512,1
+5909816,(null),Spuzzum,-6531,Chilliwack - Fraser Canyon,133.5719380297991,133.5719380297991,1
+5915807,(null),Squamish,-6517,North Vancouver,39.29081294419744,39.29081294419744,1
+5931006,(null),Squamish,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,11888.01116520203,11888.01116520203,1
+5909885,(null),Squiala First Nation,-6531,Chilliwack - Fraser Canyon,146.0451304165813,146.0451304165813,1
+5951807,(null),Stellat'en First Nation,-6511,Skeena - Bulkley Valley,906.4656340529108,906.4656340529108,1
+5949032,(null),Stewart,-6511,Skeena - Bulkley Valley,56859.53851674658,56859.52868124568,0.9999998270210916
+5909839,(null),Sts'ailes,-6531,Chilliwack - Fraser Canyon,913.530595178641,913.530595178641,1
+5941806,(null),Stswecem'c Xgat'tem First Nation,-6532,Cariboo - Prince George,136.4578573882606,136.4578573882606,1
+5919804,(null),Stz'uminus First Nation,-6521,Nanaimo - Cowichan,1173.140900822095,1173.140900822095,1
+5909877,(null),Sumas First Nation,-6535,Abbotsford,260.6889549313448,260.6889549313448,1
+5907035,(null),Summerland,-6516,Okanagan - Coquihalla,7694.623930947228,7694.623930947228,1
+5933045,(null),Sun Peaks Mountain,-6526,Kamloops - Thompson - Cariboo,4086.283725197076,4086.283725197076,1
+5915004,(null),Surrey,-6520,Newton - North Delta,36359.41469647733,3079.596731297824,0.08469874328302073
+5915004,(null),Surrey,-6523,Langley,36359.41469647733,13.39882932095277,0.0003685105888750984
+5915004,(null),Surrey,-6508,Surrey North,36359.41469647733,4812.37922820941,0.132355794733837
+5915004,(null),Surrey,-6529,Pitt Meadows - Maple Ridge - Mission,36359.41469647733,3.620645736648044,9.957931850313392e-005
+5915004,(null),Surrey,-6509,South Surrey - White Rock - Cloverdale,36359.41469647733,18234.9754814372,0.5015200501344673
+5915004,(null),Surrey,-6515,Port Moody - Westwood - Port Coquitlam,36359.41469647733,1.453344673530284,3.997161906104862e-005
+5915004,(null),Surrey,-6527,Fleetwood - Port Kells,36359.41469647733,10212.59404069408,0.2808789449980755
+5931821,(null),T'it'q'et Administration,-6531,Chilliwack - Fraser Canyon,372.3990918878819,372.3990918878819,1
+5917819,(null),T'sou-Ke First Nation,-6528,Esquimalt - Juan de Fuca,74.66530034823731,74.66530034823731,1
+5949843,(null),Tahltan,-6511,Skeena - Bulkley Valley,31.00871068633538,31.00871068633538,1
+5924030,(null),Tahsis,-6505,Vancouver Island North,789.4899096780898,789.4899096780898,1
+5951848,(null),Takla Lake First Nation,-6511,Skeena - Bulkley Valley,203.5482954364901,203.5482954364901,1
+5957802,(null),Taku River Tlingit,-6511,Skeena - Bulkley Valley,3.141504187993925,3.141504187993925,1
+5955030,(null),Taylor,-6514,Prince George - Peace River,1807.829427695186,1807.829427695186,1
+5951038,(null),Telkwa,-6511,Skeena - Bulkley Valley,728.5745014937854,728.5745014937854,1
+5949011,(null),Terrace,-6511,Skeena - Bulkley Valley,5907.38705689289,5907.38705689289,1
+5933880,(null),Tk'emlúps te Secwépemc,-6526,Kamloops - Thompson - Cariboo,14021.82878006638,14021.82878006638,1
+5951810,(null),Tl'azt'en Nation,-6511,Skeena - Bulkley Valley,1028.952884542415,1028.952884542415,1
+5941821,(null),Tl'etinqox Government,-6532,Cariboo - Prince George,3892.212893204584,3892.212893204584,1
+5923813,(null),Tla-o-qui-aht First Nations,-6522,Nanaimo - Alberni,72.03731079793622,72.03731079793622,1
+5943836,(null),Tlatlasikwala,-6505,Vancouver Island North,3572.335922131344,3572.335922131344,1
+(null),07113,Tlowitsis Nation,-6505,Vancouver Island North,110.0756267120523,110.0756267120523,1
+5901801,(null),Tobacco Plains Indian Band,-6524,Kootenay - Columbia,4225.024220274007,4225.023480577093,0.999999824924811
+5923025,(null),Tofino,-6522,Nanaimo - Alberni,1796.676133112565,1796.676133112565,1
+5941850,(null),Toosey,-6532,Cariboo - Prince George,2252.975173279121,2252.975173279121,1
+5923810,(null),Toquaht,-6522,Nanaimo - Alberni,43.19865641384178,43.19865641384178,1
+5905014,(null),Trail,-6510,British Columbia Southern Interior,3705.635006675822,3705.635006675822,1
+5931829,(null),Ts'kw'aylaxw First Nation,-6531,Chilliwack - Fraser Canyon,958.1232433602514,958.1232433602514,1
+5917804,(null),Tsartlip,-6512,Saanich - Gulf Islands,208.8722910930192,208.8722910930192,1
+5917803,(null),Tsawout First Nation,-6512,Saanich - Gulf Islands,269.8049319492687,269.8049319492687,1
+5915802,(null),Tsawwassen First Nation,-6530,Delta - Richmond East,661.6187730102148,661.6187730102148,1
+5955812,(null),Tsay Keh Dene,-6514,Prince George - Peace River,569.5571767285931,569.5571767285931,1
+5923816,(null),Tseshaht First Nation,-6522,Nanaimo - Alberni,428.9327304758014,428.9327304758014,1
+5917802,(null),Tseycum First Nation,-6512,Saanich - Gulf Islands,28.94522022239492,28.94522022239492,1
+5941839,(null),Tsi Del Del,-6532,Cariboo - Prince George,344.7103713925529,344.7103713925529,1
+5915806,(null),Tsleil-Waututh Nation,-6517,North Vancouver,105.6507823193279,105.6507823193279,1
+5955003,(null),Tumbler Ridge,-6514,Prince George - Peace River,157102.7668847111,157102.7668847111,1
+5909830,(null),Tzeachten,-6531,Chilliwack - Fraser Canyon,252.0029283450776,252.0029283450776,1
+5923805,(null),Uchucklesaht,-6522,Nanaimo - Alberni,243.2936531005642,243.2936531005642,1
+5923019,(null),Ucluelet,-6522,Nanaimo - Alberni,1089.917175940052,1089.917175940052,1
+5923807,(null),Ucluelet First Nation,-6522,Nanaimo - Alberni,69.19496027691149,69.19496027691149,1
+5941840,(null),Ulkatcho,-6532,Cariboo - Prince George,421.9629458839792,421.9629458839792,1
+5909808,(null),Union Bar,-6531,Chilliwack - Fraser Canyon,237.1133887093768,237.1133887093768,1
+5933802,(null),Upper Nicola,-6516,Okanagan - Coquihalla,9545.274960569086,9545.274960569086,1
+5907807,(null),Upper Similkameen,-6510,British Columbia Southern Interior,2203.731730217135,2203.731730217135,1
+5953007,(null),Valemount,-6526,Kamloops - Thompson - Cariboo,522.3198678321036,522.3198678321036,1
+5915022,(null),Vancouver,-6507,Vancouver Centre,13341.92064992481,2316.497052828127,0.1736254557053734
+5915022,(null),Vancouver,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,13341.92064992481,4.204365383099452,0.0003151244482272607
+5915022,(null),Vancouver,-6503,Vancouver Quadra,13341.92064992481,3616.963340598488,0.2710976504435192
+5915022,(null),Vancouver,-6504,Vancouver Kingsway,13341.92064992481,2110.766325605743,0.1582055823137906
+5915022,(null),Vancouver,-6502,Vancouver South,13341.92064992481,2692.459695084355,0.2018045051931506
+5915022,(null),Vancouver,-6534,Burnaby - Douglas,13341.92064992481,6.668743194499084,0.0004998338222418272
+5915022,(null),Vancouver,-6506,Vancouver East,13341.92064992481,2593.641154957629,0.1943978849081406
+5951007,(null),Vanderhoof,-6532,Cariboo - Prince George,5799.387902594515,5799.387902594515,1
+5937014,(null),Vernon,-6518,Okanagan - Shuswap,11607.60344423511,11606.93018542231,0.9999419984653992
+5917034,(null),Victoria,-6512,Saanich - Gulf Islands,2119.639233539578,2.064443220857841,0.0009739597136114689
+5917034,(null),Victoria,-6528,Esquimalt - Juan de Fuca,2119.639233539578,2.887191231165933,0.001362114451120355
+5917034,(null),Victoria,-6501,Victoria,2119.639233539578,2114.687599087554,0.997663925835268
+5917047,(null),View Royal,-6528,Esquimalt - Juan de Fuca,1678.222643294575,1678.222643294575,1
+5905018,(null),Warfield,-6510,British Columbia Southern Interior,188.7753831103886,188.7753831103886,1
+5941025,(null),Wells,-6532,Cariboo - Prince George,15996.07372561891,15996.07372561891,1
+5935029,(null),West Kelowna,-6525,Kelowna - Lake Country,16023.49734223239,372.8833185023976,0.02327103194379459
+5935029,(null),West Kelowna,-6516,Okanagan - Coquihalla,16023.49734223239,15650.61402372999,0.9767289680562051
+5955802,(null),West Moberly First Nations,-6514,Prince George - Peace River,1995.503290213463,1995.503290213463,1
+5915055,(null),West Vancouver,-6517,North Vancouver,9539.806869258304,1.415121207651424,0.0001483385593697502
+5915055,(null),West Vancouver,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,9539.806869258304,9538.360501596024,0.9998483860646129
+5935802,(null),Westbank First Nation,-6516,Okanagan - Coquihalla,691.768943659094,691.768943659094,1
+5951820,(null),Wet'suwet'en First Nation,-6511,Skeena - Bulkley Valley,31.7581293604535,31.7581293604535,1
+5933877,(null),Whispering Pines/Clinton,-6526,Kamloops - Thompson - Cariboo,618.2551495059523,618.2551495059523,1
+5931020,(null),Whistler,-6531,Chilliwack - Fraser Canyon,24495.86399102388,1830.780205901606,0.07473833976921436
+5931020,(null),Whistler,-6500,West Vancouver - Sunshine Coast - Sea to Sky Country,24495.86399102388,22665.08378512229,0.9252616602307862
+5915007,(null),White Rock,-6509,South Surrey - White Rock - Cloverdale,1454.031536003889,1454.031536003889,1
+5941009,(null),Williams Lake,-6532,Cariboo - Prince George,3622.957798169097,3622.957798169097,1
+5941812,(null),Williams Lake,-6532,Cariboo - Prince George,1668.442020585912,1668.442020585912,1
+5941805,(null),Xat'sull,-6532,Cariboo - Prince George,1567.486080402535,1567.486080402535,1
+5931816,(null),Xaxli'p,-6531,Chilliwack - Fraser Canyon,137.7703584247233,137.7703584247233,1
+5909842,(null),Xa’xtsa,-6531,Chilliwack - Fraser Canyon,453.5096536565058,453.5096536565058,1
+5941829,(null),Xeni Gwet'in First Nations Government,-6532,Cariboo - Prince George,679.9845439146243,679.9845439146243,1
+5931813,(null),Xwisten,-6531,Chilliwack - Fraser Canyon,3943.640409968548,3943.640409968548,1
+5909831,(null),Yakweakwioose,-6531,Chilliwack - Fraser Canyon,20.73901639155794,20.73901639155794,1
+5909818,(null),Yale First Nation,-6531,Chilliwack - Fraser Canyon,8.597112328614495,8.597112328614495,1
+5951801,(null),Yekooche First Nation,-6511,Skeena - Bulkley Valley,201.2355468683278,201.2355468683278,1
+5941841,(null),Yunesit'in Government,-6532,Cariboo - Prince George,1574.993060632623,1574.993060632623,1
+5924029,(null),Zeballos,-6505,Vancouver Island North,284.4412603767279,284.4412603767279,1

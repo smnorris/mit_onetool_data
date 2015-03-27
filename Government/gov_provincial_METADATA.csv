@@ -1,0 +1,5 @@
+field,type,description
+prov_riding_id,integer,ID of provincial electoral riding
+prov_riding_name,string,Name of provincial electoral riding
+mla_name,string,Name of MLA
+mla_party,string,Name of party with which MLA is associated

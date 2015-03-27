@@ -1,0 +1,5 @@
+field,type,description
+federal_riding_id,integer,ID of federal electoral riding
+federal_riding_name,string,Name of federal electoral riding
+mp_name,string,Name of MP
+mp_party,string,Party with which MP is associated

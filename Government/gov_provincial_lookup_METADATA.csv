@@ -1,0 +1,9 @@
+field,type,description
+census_subdivision_id,,
+clab_id,,
+community_name,string,Name of community
+prov_riding_id,integer,ID of provincial electoral riding
+prov_riding_name,string,Name of provincial electoral riding
+community_ha,float,Area of CSD/CLAB polygon linked to community
+overlap_ha,float,Area of overlap between community and riding polygon
+overlap_pct,float,Percentage of community that is covered by given riding polygon

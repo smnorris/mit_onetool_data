@@ -1,16 +1,13 @@
 # first_nations_population.csv
 
 ## Title
-BC First Nation Community name(s), location, and population.
+BC First Nation population by band
 
 ## Description
-A list of British Columbia First Nations communities, including
-- primary name(s)
-- associated Nation
-- location (by matching to Census Subdivision or Canada Lands Administrative Boundary (CLAB) ID)
-- population, broken down by
-  + number of individuals registered with the First Nation and living on reserve or Crown lands
-  + number of individuals registered with the First Nation and living off reserve or Crown lands
+British Columbia First Nations community registered population, including
+
+- number of individuals registered with the First Nation and living on reserve or Crown lands
+- number of individuals registered with the First Nation and living off reserve or Crown lands
 
 ## Sources
 First Nation names were provided by BC Ministry of Aboriginal Relations and Reconiliation.
@@ -60,4 +57,42 @@ FN Name, Population and location had to be linked, each is from a different data
     Where matches were outside of BC or otherwise complicated, notes were made in the Notes column.
 
 5. Add Nation column, populate with values from FNEDD data
-6. Split data into multiple tables, adding official `band_name` for reference in population table
+6. Split data into multiple tables - see below
+
+
+# first_nations_names.csv
+
+## Title
+Names of BC First Nations
+
+## Description
+A list of British Columbia First Nations communities, including
+- primary name(s)
+- associated Nation
+
+## Sources
+See above. Names are from MARR, Nation is from FNEDD
+
+## Caveats etc
+
+## Preparation notes
+See above. Extensive manual QA was required to ensure correct matches.
+
+# first_nations_bands.csv
+
+## Title
+BC First Nation band numbers census subdivision lookup
+
+## Description
+A cross-reference table linking BC First Nation (band number) to census subdivisions (census_subdivision_id)
+
+## Sources
+FNEDD points used as the location for spatial join between various sources - see above
+
+## Caveats etc
+Some FNEDD / AANDC locations were not used - locations did not match an appropriate CSD. Matches were done manually in these cases.
+
+## Preparation notes
+See above. Extensive manual QA was required to ensure correct matches.
+
+

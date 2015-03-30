@@ -82,7 +82,11 @@ The resulting tables were manually QA'ed to remove bad links. (boundaries from s
 ** 
 NOTE
 It should be noted that to ensure 100% accuracy, these tables need to be reviewed or directly provided by ElectionsBC / Elections Canada.  
-Matching purely based on the provided geographical boundaries with a manual check will work for most cases but is not guaranteed to be exact in all cases **
+Matching purely based on the provided geographical boundaries with a manual check will work for most cases but is not guaranteed to be exact in all cases 
+
+For provincial districts, this list will help http://www.elections.bc.ca/docs/map/redis08/Location-Index-846.pdf
+
+**
 
 ### Link municipal gov to CSD
 ```

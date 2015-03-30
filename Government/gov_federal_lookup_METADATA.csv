@@ -1,10 +1,4 @@
 field,type,description
 census_subdivision_id,string,
-census_year,integer,
 clab_id,string,
-community_name,string,Name of community
 federal_riding_id,integer,ID of federal electoral riding
-federal_riding_name,string,Name of federal electoral riding
-community_ha,float,Area of CSD/CLAB polygon linked to community
-overlap_ha,float,Area of overlap between community and riding polygon
-overlap_pct,float,Percentage of community that is covered by given riding polygon

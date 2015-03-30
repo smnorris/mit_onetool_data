@@ -77,8 +77,12 @@ ON s.enname = r.riding_name
 ### Generate lookup, linking communities to ridings
 see `/src/electoral_areas_lookups.sql`
 
-The resulting tables need to be manually QA'ed to remove bad links 
-(boundaries from source datasets are mapped at different scales)
+The resulting tables were manually QA'ed to remove bad links. (boundaries from source datasets are mapped at different scales).
+
+** 
+NOTE
+It should be noted that to ensure 100% accuracy, these tables need to be reviewed or directly provided by ElectionsBC / Elections Canada.  
+Matching purely based on the provided geographical boundaries with a manual check will work for most cases but is not guaranteed to be exact in all cases **
 
 ### Link municipal gov to CSD
 ```

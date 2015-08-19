@@ -236,8 +236,6 @@ def populate_output_table(db, meta, level):
                 chrFilter = ["characteristics = ?" for c in srcChar]
                 # generate the update statement from the list of
                 # characteristics given in meta (datalist.csv)
-                #if "hshldincome" not in column["DRAFT_COLUMN_NAME"] and "education" not in column["DRAFT_COLUMN_NAME"]:
-                #else:
                 update = """UPDATE {outTable}
                      SET {col} =
                      (SELECT sum({srcColumn})
@@ -307,15 +305,15 @@ cd = {"output": "mit.demographics_labour_cd",
 levels = [csd, cd]
 
 # create clean source tables from the data loaded to db from source csv
-#create_census_source(db)
-#create_nhs_source(db)
+create_census_source(db)
+create_nhs_source(db)
 
 # create outputs
-#for level in [csd]:
-#    create_output_table(db, meta, level)
-#    populate_output_table(db, meta, level)
+for level in levels:
+    create_output_table(db, meta, level)
+    populate_output_table(db, meta, level)
 
 # populate null flag values as per data bc requirements
 db.execute("""UPDATE mit.demographics_labour_csd SET census_flag = 'N' WHERE census_flag IS NULL""")
 db.execute("""UPDATE mit.demographics_labour_csd SET nhs_flag = 'N' WHERE nhs_flag IS NULL""")
-#db.execute("""UPDATE mit.demographics_labour_cd SET nhs_flag = 'N' WHERE nhs_flag IS NULL""")
+db.execute("""UPDATE mit.demographics_labour_cd SET nhs_flag = 'N' WHERE nhs_flag IS NULL""")

@@ -50,11 +50,13 @@ def tweak_nhs_income(db, table):
              ORDER BY line_number""".format(table=table)
     totalFlag = False
     for row in db.query(sql).fetchall():
-        if row[1] == 'Household total income in 2010 of private households':
+        if row[1] == 'Household total income in 2010 of private households' or\
+           row[1] == 'Household income in 2010 of private households':
             totalFlag = True
-        if row[1] == 'After-tax income of households in 2010 of private households':
+        if row[1] == 'After-tax income of households in 2010 of private households' or\
+           row[1] == 'One-person private households':
             totalFlag = False
-        if totalFlag:
+        if totalFlag is True:
             sql = """UPDATE {table}
                      SET topic = 'Income of households in 2010 (total)'
                      WHERE line_number = ?""".format(table=table)
@@ -234,29 +236,32 @@ def populate_output_table(db, meta, level):
                 chrFilter = ["characteristics = ?" for c in srcChar]
                 # generate the update statement from the list of
                 # characteristics given in meta (datalist.csv)
+                #if "hshldincome" not in column["DRAFT_COLUMN_NAME"] and "education" not in column["DRAFT_COLUMN_NAME"]:
+                #else:
                 update = """UPDATE {outTable}
-                         SET {col} =
-                         (SELECT sum({srcColumn})
-                         FROM {srcTable}
-                         WHERE {level}uid = ?
-                         AND
-                           ({filter})
-                         )
-                         WHERE {level}uid = ?
-                      """.format(outTable=level["output"],
-                                 col=column["DRAFT_COLUMN_NAME"],
-                                 level=level["code"],
-                                 srcColumn=column["SOURCE_COLUMN"],
-                                 srcTable=srcTable,
-                                 filter=" OR ".join(chrFilter))
-
+                     SET {col} =
+                     (SELECT sum({srcColumn})
+                     FROM {srcTable}
+                     WHERE {level}uid = ?
+                     AND topic = ?
+                     AND  ({filter})
+                     )
+                     WHERE {level}uid = ?
+                  """.format(outTable=level["output"],
+                             col=column["DRAFT_COLUMN_NAME"],
+                             level=level["code"],
+                             srcColumn=column["SOURCE_COLUMN"],
+                             srcTable=srcTable,
+                             filter=" OR ".join(chrFilter))
                 param = srcChar
                 param.insert(0, uid)
+                param.insert(1, column["SOURCE_TOPIC"])
                 # before executing the update, note whether there is a flag
                 # associated with the characteristic for this csd
                 sql = """SELECT DISTINCT flag_total
                          FROM {srcTable}
                          WHERE {level}uid = ?
+                         AND topic = ?
                          AND flag_total is not null
                          AND ({filter})
                       """.format(srcTable=srcTable,
@@ -302,13 +307,13 @@ cd = {"output": "mit.demographics_labour_cd",
 levels = [csd, cd]
 
 # create clean source tables from the data loaded to db from source csv
-create_census_source(db)
-create_nhs_source(db)
+#create_census_source(db)
+#create_nhs_source(db)
 
 # create outputs
-for level in [csd]:
-    create_output_table(db, meta, level)
-    populate_output_table(db, meta, level)
+#for level in [csd]:
+#    create_output_table(db, meta, level)
+#    populate_output_table(db, meta, level)
 
 # populate null flag values as per data bc requirements
 db.execute("""UPDATE mit.demographics_labour_csd SET census_flag = 'N' WHERE census_flag IS NULL""")

@@ -223,8 +223,8 @@ def populate_output_table(db, meta, level):
     one for each row.
     """
     # filter out census columns if processing at cd level
-    if level["code"] == 'cd':
-        meta = [column for column in meta if column["SOURCE_TABLE"] == "nhs"]
+    #if level["code"] == 'cd':
+    #    meta = [column for column in meta if column["SOURCE_TABLE"] == "nhs"]
     for column in meta:
         srcTable = "mit."+column["SOURCE_TABLE"]+"_"+level["code"]
         if column["DRAFT_COLUMN_TYPE"]:
@@ -302,11 +302,11 @@ cd = {"output": "mit.demographics_labour_cd",
       "spatial": "mit.cen_census_divisions",
       "uid": "census_division_id",
       "code": "cd"}
-levels = [csd, cd]
+levels = [cd]
 
 # create clean source tables from the data loaded to db from source csv
-create_census_source(db)
-create_nhs_source(db)
+#create_census_source(db)
+#create_nhs_source(db)
 
 # create outputs
 for level in levels:
@@ -314,6 +314,6 @@ for level in levels:
     populate_output_table(db, meta, level)
 
 # populate null flag values as per data bc requirements
-db.execute("""UPDATE mit.demographics_labour_csd SET census_flag = 'N' WHERE census_flag IS NULL""")
-db.execute("""UPDATE mit.demographics_labour_csd SET nhs_flag = 'N' WHERE nhs_flag IS NULL""")
+#db.execute("""UPDATE mit.demographics_labour_csd SET census_flag = 'N' WHERE census_flag IS NULL""")
+#db.execute("""UPDATE mit.demographics_labour_csd SET nhs_flag = 'N' WHERE nhs_flag IS NULL""")
 db.execute("""UPDATE mit.demographics_labour_cd SET nhs_flag = 'N' WHERE nhs_flag IS NULL""")
